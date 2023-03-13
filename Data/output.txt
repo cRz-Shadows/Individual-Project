@@ -1,0 +1,726 @@
+[[[[[
+299 vs 1181
+|t:|1678315447
+|gametype|singles
+|player|p1|Bot 1||
+|player|p2|Bot 2||
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Custom Game
+|clearpoke
+|poke|p1|Calyrex-Shadow|
+|poke|p1|Eternatus|
+|poke|p1|Necrozma-Dusk-Mane|
+|poke|p1|Xerneas-*|
+|poke|p1|Yveltal|
+|poke|p1|Zygarde|
+|poke|p2|Eternatus|
+|poke|p2|Giratina-Origin|
+|poke|p2|Necrozma-Dusk-Mane|
+|poke|p2|Xerneas-*|
+|poke|p2|Yveltal|
+|poke|p2|Zamazenta-*|
+|teampreview
+|
+|t:|1678315447
+|start
+|switch|p1a: Yveltal|Yveltal|456/456
+|switch|p2a: Giratina|Giratina-Origin|441/441
+|-ability|p1a: Yveltal|Dark Aura
+|turn|1
+|
+|t:|1678315447
+|move|p1a: Yveltal|Foul Play|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|153/441
+|move|p2a: Giratina|Draco Meteor|p1a: Yveltal
+|-damage|p1a: Yveltal|162/456
+|-unboost|p2a: Giratina|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1678315447
+|switch|p1a: Eternatus|Eternatus|422/422
+|-ability|p1a: Eternatus|Pressure
+|move|p2a: Giratina|Draco Meteor|p1a: Eternatus
+|-supereffective|p1a: Eternatus
+|-damage|p1a: Eternatus|146/422
+|-unboost|p2a: Giratina|spa|2
+|
+|upkeep
+|turn|3
+|
+|t:|1678315447
+|switch|p2a: Eternatus|Eternatus|422/422
+|-ability|p2a: Eternatus|Pressure
+|move|p1a: Eternatus|Recover|p1a: Eternatus
+|-heal|p1a: Eternatus|357/422
+|
+|upkeep
+|turn|4
+|
+|t:|1678315447
+|switch|p1a: Xerneas|Xerneas|393/393
+|-ability|p1a: Xerneas|Fairy Aura
+|move|p2a: Eternatus|Dynamax Cannon|p1a: Xerneas
+|-immune|p1a: Xerneas
+|
+|upkeep
+|turn|5
+|
+|t:|1678315447
+|switch|p1a: Zygarde|Zygarde|377/377
+|move|p2a: Eternatus|Sludge Bomb|p1a: Zygarde
+|-resisted|p1a: Zygarde
+|-damage|p1a: Zygarde|293/377
+|
+|-heal|p1a: Zygarde|316/377|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1678315447
+|switch|p2a: Xerneas|Xerneas|393/393
+|-ability|p2a: Xerneas|Fairy Aura
+|move|p1a: Zygarde|Thousand Waves|p2a: Xerneas
+|-damage|p2a: Xerneas|254/393
+|-activate|p2a: Xerneas|trapped
+|
+|-heal|p1a: Zygarde|339/377|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1678315447
+|switch|p1a: Xerneas|Xerneas|393/393
+|-ability|p1a: Xerneas|Fairy Aura
+|move|p2a: Xerneas|Moonblast|p1a: Xerneas
+|-damage|p1a: Xerneas|152/393
+|
+|upkeep
+|turn|8
+|
+|t:|1678315447
+|switch|p2a: Eternatus|Eternatus|422/422
+|-ability|p2a: Eternatus|Pressure
+|move|p1a: Xerneas|Moonblast|p2a: Eternatus
+|-damage|p2a: Eternatus|182/422
+|-unboost|p2a: Eternatus|spa|1
+|
+|upkeep
+|turn|9
+|
+|t:|1678315447
+|switch|p1a: Necrozma|Necrozma-Dusk-Mane|369/369
+|move|p2a: Eternatus|Sludge Bomb|p1a: Necrozma
+|-immune|p1a: Necrozma
+|
+|upkeep
+|turn|10
+|
+|t:|1678315447
+|switch|p1a: Eternatus|Eternatus|357/422
+|-ability|p1a: Eternatus|Pressure
+|move|p2a: Eternatus|Flamethrower|p1a: Eternatus
+|-resisted|p1a: Eternatus
+|-damage|p1a: Eternatus|319/422
+|-status|p1a: Eternatus|brn
+|
+|-damage|p1a: Eternatus|293/422 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1678315447
+|move|p2a: Eternatus|Dynamax Cannon|p1a: Eternatus
+|-supereffective|p1a: Eternatus
+|-damage|p1a: Eternatus|35/422 brn
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Eternatus
+|-supereffective|p2a: Eternatus
+|-damage|p2a: Eternatus|0 fnt
+|faint|p2a: Eternatus
+|-damage|p1a: Eternatus|0 fnt|[from] item: Life Orb
+|faint|p1a: Eternatus
+|
+|upkeep
+|
+|t:|1678315447
+|switch|p1a: Necrozma|Necrozma-Dusk-Mane|369/369
+|switch|p2a: Yveltal|Yveltal|393/393
+|-ability|p2a: Yveltal|Dark Aura
+|turn|12
+|
+|t:|1678315447
+|switch|p1a: Zygarde|Zygarde|339/377
+|-start|p2a: Yveltal|Dynamax|
+|-heal|p2a: Yveltal|786/786|[silent]
+|move|p2a: Yveltal|Max Darkness|p1a: Zygarde
+|-damage|p1a: Zygarde|11/377
+|-unboost|p1a: Zygarde|spd|1
+|-damage|p2a: Yveltal|747/786|[from] item: Life Orb
+|
+|-heal|p1a: Zygarde|34/377|[from] item: Leftovers
+|-activate|p1a: Zygarde|ability: Power Construct
+|detailschange|p1a: Zygarde|Zygarde-Complete
+|-heal|p1a: Zygarde|250/593|[silent]
+|upkeep
+|turn|13
+|
+|t:|1678315447
+|move|p2a: Yveltal|Max Darkness|p1a: Zygarde
+|-damage|p1a: Zygarde|0 fnt
+|faint|p1a: Zygarde
+|-damage|p2a: Yveltal|708/786|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1678315447
+|switch|p1a: Necrozma|Necrozma-Dusk-Mane|369/369
+|turn|14
+|
+|t:|1678315447
+|switch|p1a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|move|p2a: Yveltal|Max Darkness|p1a: Calyrex
+|-supereffective|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|faint|p1a: Calyrex
+|-damage|p2a: Yveltal|669/786|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1678315447
+|switch|p1a: Necrozma|Necrozma-Dusk-Mane|369/369
+|-end|p2a: Yveltal|Dynamax
+|-heal|p2a: Yveltal|335/393|[silent]
+|turn|15
+|
+|t:|1678315447
+|move|p2a: Yveltal|Sucker Punch|p1a: Necrozma
+|-supereffective|p1a: Necrozma
+|debug|Prism Armor neutralize
+|-damage|p1a: Necrozma|88/369
+|-damage|p2a: Yveltal|296/393|[from] item: Life Orb
+|move|p1a: Necrozma|Sunsteel Strike|p2a: Yveltal
+|-damage|p2a: Yveltal|0 fnt
+|faint|p2a: Yveltal
+|
+|upkeep
+|
+|t:|1678315447
+|switch|p2a: Necrozma|Necrozma-Dusk-Mane|369/369
+|turn|16
+|
+|t:|1678315447
+|switch|p1a: Yveltal|Yveltal|162/456
+|-ability|p1a: Yveltal|Dark Aura
+|move|p2a: Necrozma|Swords Dance|p2a: Necrozma
+|-boost|p2a: Necrozma|atk|2
+|
+|upkeep
+|turn|17
+|
+|t:|1678315447
+|switch|p1a: Xerneas|Xerneas|152/393
+|-ability|p1a: Xerneas|Fairy Aura
+|move|p2a: Necrozma|Swords Dance|p2a: Necrozma
+|-boost|p2a: Necrozma|atk|2
+|
+|upkeep
+|turn|18
+|
+|t:|1678315447
+|move|p1a: Xerneas|Thunder|p2a: Necrozma
+|-damage|p2a: Necrozma|231/369
+|move|p2a: Necrozma|Swords Dance|p2a: Necrozma
+|-boost|p2a: Necrozma|atk|2
+|
+|-heal|p2a: Necrozma|254/369|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1678315447
+|switch|p2a: Zamazenta|Zamazenta|325/325
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|move|p1a: Xerneas|Thunder|p2a: Zamazenta
+|-damage|p2a: Zamazenta|199/325
+|
+|upkeep
+|turn|20
+|
+|t:|1678315447
+|move|p2a: Zamazenta|Wild Charge|p1a: Xerneas
+|-damage|p1a: Xerneas|12/393
+|-damage|p2a: Zamazenta|164/325|[from] Recoil
+|move|p1a: Xerneas|Thunder|p2a: Zamazenta|[miss]
+|-miss|p1a: Xerneas|p2a: Zamazenta
+|
+|upkeep
+|turn|21
+|
+|t:|1678315447
+|move|p2a: Zamazenta|Wild Charge|p1a: Xerneas
+|-damage|p1a: Xerneas|0 fnt
+|faint|p1a: Xerneas
+|-damage|p2a: Zamazenta|161/325|[from] Recoil
+|
+|upkeep
+|
+|t:|1678315447
+|switch|p1a: Yveltal|Yveltal|162/456
+|-ability|p1a: Yveltal|Dark Aura
+|turn|22
+|
+|t:|1678315447
+|move|p1a: Yveltal|Roost|p1a: Yveltal
+|-heal|p1a: Yveltal|390/456
+|-singleturn|p1a: Yveltal|move: Roost
+|move|p2a: Zamazenta|Wild Charge|p1a: Yveltal
+|-damage|p1a: Yveltal|231/456
+|-damage|p2a: Zamazenta|121/325|[from] Recoil
+|
+|upkeep
+|turn|23
+|
+|t:|1678315447
+|move|p1a: Yveltal|Roost|p1a: Yveltal
+|-heal|p1a: Yveltal|456/456
+|-singleturn|p1a: Yveltal|move: Roost
+|move|p2a: Zamazenta|Wild Charge|p1a: Yveltal
+|-damage|p1a: Yveltal|297/456
+|-damage|p2a: Zamazenta|81/325|[from] Recoil
+|
+|upkeep
+|turn|24
+|
+|t:|1678315448
+|move|p1a: Yveltal|Roost|p1a: Yveltal
+|-heal|p1a: Yveltal|456/456
+|-singleturn|p1a: Yveltal|move: Roost
+|move|p2a: Zamazenta|Wild Charge|p1a: Yveltal
+|-damage|p1a: Yveltal|277/456
+|-damage|p2a: Zamazenta|36/325|[from] Recoil
+|
+|upkeep
+|turn|25
+|
+|t:|1678315448
+|switch|p2a: Xerneas|Xerneas|254/393
+|-ability|p2a: Xerneas|Fairy Aura
+|move|p1a: Yveltal|Roost|p1a: Yveltal
+|-heal|p1a: Yveltal|456/456
+|-singleturn|p1a: Yveltal|move: Roost
+|
+|upkeep
+|turn|26
+|
+|t:|1678315448
+|move|p2a: Xerneas|Moonblast|p1a: Yveltal
+|-supereffective|p1a: Yveltal
+|-damage|p1a: Yveltal|42/456
+|move|p1a: Yveltal|Roost|p1a: Yveltal
+|-heal|p1a: Yveltal|270/456
+|-singleturn|p1a: Yveltal|move: Roost
+|
+|upkeep
+|turn|27
+|
+|t:|1678315448
+|switch|p2a: Necrozma|Necrozma-Dusk-Mane|254/369
+|move|p1a: Yveltal|Roost|p1a: Yveltal
+|-heal|p1a: Yveltal|456/456
+|-singleturn|p1a: Yveltal|move: Roost
+|
+|-heal|p2a: Necrozma|277/369|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1678315448
+|switch|p1a: Necrozma|Necrozma-Dusk-Mane|88/369
+|move|p2a: Necrozma|Iron Head|p1a: Necrozma
+|-resisted|p1a: Necrozma
+|-damage|p1a: Necrozma|19/369
+|
+|-heal|p2a: Necrozma|300/369|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1678315448
+|switch|p2a: Xerneas|Xerneas|254/393
+|-ability|p2a: Xerneas|Fairy Aura
+|switch|p1a: Yveltal|Yveltal|456/456
+|-ability|p1a: Yveltal|Dark Aura
+|
+|upkeep
+|turn|30
+|
+|t:|1678315448
+|move|p2a: Xerneas|Moonblast|p1a: Yveltal
+|-supereffective|p1a: Yveltal
+|-damage|p1a: Yveltal|34/456
+|move|p1a: Yveltal|Foul Play|p2a: Xerneas
+|-resisted|p2a: Xerneas
+|-damage|p2a: Xerneas|172/393
+|
+|upkeep
+|turn|31
+|
+|t:|1678315448
+|switch|p2a: Necrozma|Necrozma-Dusk-Mane|300/369
+|move|p1a: Yveltal|Foul Play|p2a: Necrozma
+|-supereffective|p2a: Necrozma
+|debug|Prism Armor neutralize
+|-damage|p2a: Necrozma|0 fnt
+|faint|p2a: Necrozma
+|
+|upkeep
+|
+|t:|1678315448
+|switch|p2a: Xerneas|Xerneas|172/393
+|-ability|p2a: Xerneas|Fairy Aura
+|turn|32
+|
+|t:|1678315448
+|move|p2a: Xerneas|Moonblast|p1a: Yveltal
+|-supereffective|p1a: Yveltal
+|-damage|p1a: Yveltal|0 fnt
+|faint|p1a: Yveltal
+|
+|upkeep
+|
+|t:|1678315448
+|switch|p1a: Necrozma|Necrozma-Dusk-Mane|19/369
+|turn|33
+|
+|t:|1678315448
+|switch|p2a: Giratina|Giratina-Origin|153/441
+|move|p1a: Necrozma|Sunsteel Strike|p2a: Giratina
+|-damage|p2a: Giratina|0 fnt
+|faint|p2a: Giratina
+|
+|upkeep
+|
+|t:|1678315448
+|switch|p2a: Xerneas|Xerneas|172/393
+|-ability|p2a: Xerneas|Fairy Aura
+|turn|34
+|
+|t:|1678315448
+|switch|p2a: Zamazenta|Zamazenta|36/325
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|move|p1a: Necrozma|Sunsteel Strike|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1678315448
+|switch|p2a: Xerneas|Xerneas|172/393
+|-ability|p2a: Xerneas|Fairy Aura
+|turn|35
+|
+|t:|1678315448
+|move|p2a: Xerneas|Thunder|p1a: Necrozma
+|-damage|p1a: Necrozma|0 fnt
+|debug|move failed because it did nothing
+|faint|p1a: Necrozma
+|
+|win|Bot 2
+]]]]]
+[[[[[
+236 vs 342
+|t:|1678315448
+|gametype|singles
+|player|p1|Bot 1||
+|player|p2|Bot 2||
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Custom Game
+|clearpoke
+|poke|p1|Calyrex-Shadow|
+|poke|p1|Eternatus|
+|poke|p1|Giratina-Origin|
+|poke|p1|Xerneas-*|
+|poke|p1|Yveltal|
+|poke|p1|Zamazenta-Crowned|
+|poke|p2|Calyrex-Shadow|
+|poke|p2|Eternatus|
+|poke|p2|Giratina-Origin|
+|poke|p2|Necrozma-Dusk-Mane|
+|poke|p2|Xerneas-*|
+|poke|p2|Yveltal|
+|teampreview
+|
+|t:|1678315448
+|start
+|switch|p1a: Yveltal|Yveltal|456/456
+|switch|p2a: Xerneas|Xerneas|456/456
+|-ability|p1a: Yveltal|Dark Aura
+|-ability|p2a: Xerneas|Fairy Aura
+|turn|1
+|
+|t:|1678315448
+|-start|p1a: Yveltal|Dynamax|
+|-heal|p1a: Yveltal|912/912|[silent]
+|-start|p2a: Xerneas|Dynamax|
+|-heal|p2a: Xerneas|912/912|[silent]
+|move|p1a: Yveltal|Max Darkness|p2a: Xerneas
+|-resisted|p2a: Xerneas
+|-damage|p2a: Xerneas|824/912
+|-unboost|p2a: Xerneas|spd|1
+|move|p2a: Xerneas|Max Starfall|p1a: Yveltal
+|-supereffective|p1a: Yveltal
+|-damage|p1a: Yveltal|442/912
+|-fieldstart|move: Misty Terrain
+|
+|-heal|p2a: Xerneas|852/912|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1678315448
+|move|p1a: Yveltal|Max Darkness|p2a: Xerneas
+|-resisted|p2a: Xerneas
+|-damage|p2a: Xerneas|761/912
+|-unboost|p2a: Xerneas|spd|1
+|move|p2a: Xerneas|Max Starfall|p1a: Yveltal
+|-supereffective|p1a: Yveltal
+|-damage|p1a: Yveltal|0 fnt
+|faint|p1a: Yveltal
+|
+|-heal|p2a: Xerneas|789/912|[from] item: Leftovers
+|upkeep
+|
+|t:|1678315448
+|switch|p1a: Xerneas|Xerneas|456/456
+|-ability|p1a: Xerneas|Fairy Aura
+|turn|3
+|
+|t:|1678315448
+|move|p2a: Xerneas|Max Starfall|p1a: Xerneas
+|-damage|p1a: Xerneas|179/456
+|move|p1a: Xerneas|Moonblast|p2a: Xerneas
+|-damage|p2a: Xerneas|401/912
+|
+|-heal|p1a: Xerneas|207/456|[from] item: Leftovers
+|-heal|p2a: Xerneas|429/912|[from] item: Leftovers
+|upkeep
+|-end|p2a: Xerneas|Dynamax
+|-heal|p2a: Xerneas|215/456|[silent]
+|turn|4
+|
+|t:|1678315448
+|move|p1a: Xerneas|Moonblast|p2a: Xerneas
+|-damage|p2a: Xerneas|0 fnt
+|faint|p2a: Xerneas
+|
+|-heal|p1a: Xerneas|235/456|[from] item: Leftovers
+|upkeep
+|
+|t:|1678315448
+|switch|p2a: Giratina|Giratina-Origin|441/441
+|turn|5
+|
+|t:|1678315448
+|switch|p1a: Giratina|Giratina-Origin|441/441
+|switch|p2a: Eternatus|Eternatus|433/433
+|-ability|p2a: Eternatus|Pressure
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1678315448
+|switch|p2a: Giratina|Giratina-Origin|441/441
+|move|p1a: Giratina|Draco Meteor|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|0 fnt
+|-unboost|p1a: Giratina|spa|2
+|faint|p2a: Giratina
+|
+|upkeep
+|
+|t:|1678315448
+|switch|p2a: Eternatus|Eternatus|433/433
+|-ability|p2a: Eternatus|Pressure
+|turn|7
+|
+|t:|1678315448
+|switch|p2a: Yveltal|Yveltal|393/393
+|-ability|p2a: Yveltal|Dark Aura
+|switch|p1a: Eternatus|Eternatus|422/422
+|-ability|p1a: Eternatus|Pressure
+|
+|upkeep
+|turn|8
+|
+|t:|1678315448
+|move|p2a: Yveltal|Sucker Punch|p1a: Eternatus
+|-damage|p1a: Eternatus|160/422
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Yveltal
+|-crit|p2a: Yveltal
+|-damage|p2a: Yveltal|19/393
+|-damage|p1a: Eternatus|118/422|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|t:|1678315448
+|switch|p2a: Eternatus|Eternatus|433/433
+|-ability|p2a: Eternatus|Pressure
+|move|p1a: Eternatus|Recover|p1a: Eternatus
+|-heal|p1a: Eternatus|329/422
+|
+|upkeep
+|turn|10
+|
+|t:|1678315448
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Eternatus
+|-supereffective|p2a: Eternatus
+|-damage|p2a: Eternatus|0 fnt
+|faint|p2a: Eternatus
+|-damage|p1a: Eternatus|287/422|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1678315448
+|switch|p2a: Necrozma|Necrozma-Dusk-Mane|398/398
+|turn|11
+|
+|t:|1678315448
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Necrozma
+|-resisted|p2a: Necrozma
+|-damage|p2a: Necrozma|289/398
+|-damage|p1a: Eternatus|245/422|[from] item: Life Orb
+|move|p2a: Necrozma|Stealth Rock|p1a: Eternatus
+|-sidestart|p1: Bot 1|move: Stealth Rock
+|
+|upkeep
+|turn|12
+|
+|t:|1678315448
+|move|p1a: Eternatus|Flamethrower|p2a: Necrozma
+|-supereffective|p2a: Necrozma
+|debug|Prism Armor neutralize
+|-damage|p2a: Necrozma|96/398
+|-damage|p1a: Eternatus|203/422|[from] item: Life Orb
+|move|p2a: Necrozma|Earthquake|p1a: Eternatus
+|-supereffective|p1a: Eternatus
+|-damage|p1a: Eternatus|0 fnt
+|faint|p1a: Eternatus
+|
+|upkeep
+|
+|t:|1678315448
+|switch|p1a: Giratina|Giratina-Origin|441/441
+|-damage|p1a: Giratina|386/441|[from] Stealth Rock
+|turn|13
+|
+|t:|1678315448
+|switch|p2a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|move|p1a: Giratina|Hex|p2a: Calyrex
+|-supereffective|p2a: Calyrex
+|-damage|p2a: Calyrex|0 fnt
+|faint|p2a: Calyrex
+|
+|upkeep
+|
+|t:|1678315448
+|switch|p2a: Necrozma|Necrozma-Dusk-Mane|96/398
+|turn|14
+|
+|t:|1678315448
+|move|p2a: Necrozma|Sunsteel Strike|p1a: Giratina
+|-damage|p1a: Giratina|250/441
+|move|p1a: Giratina|Hex|p2a: Necrozma
+|-supereffective|p2a: Necrozma
+|debug|Prism Armor neutralize
+|-damage|p2a: Necrozma|0 fnt
+|faint|p2a: Necrozma
+|
+|upkeep
+|
+|t:|1678315448
+|switch|p2a: Yveltal|Yveltal|19/393
+|-ability|p2a: Yveltal|Dark Aura
+|turn|15
+|
+|t:|1678315448
+|move|p2a: Yveltal|Sucker Punch|p1a: Giratina
+|-supereffective|p1a: Giratina
+|-damage|p1a: Giratina|0 fnt
+|faint|p1a: Giratina
+|
+|upkeep
+|
+|t:|1678315448
+|switch|p1a: Zamazenta|Zamazenta-Crowned|388/388
+|-damage|p1a: Zamazenta|376/388|[from] Stealth Rock
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|16
+|
+|t:|1678315448
+|switch|p1a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|-damage|p1a: Calyrex|299/341|[from] Stealth Rock
+|move|p2a: Yveltal|Sucker Punch||[still]
+|-fail|p2a: Yveltal
+|
+|upkeep
+|turn|17
+|
+|t:|1678315448
+|switch|p1a: Zamazenta|Zamazenta-Crowned|376/388
+|-damage|p1a: Zamazenta|364/388|[from] Stealth Rock
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Yveltal|Sucker Punch||[still]
+|-fail|p2a: Yveltal
+|
+|upkeep
+|turn|18
+|
+|t:|1678315448
+|switch|p1a: Calyrex|Calyrex-Shadow|299/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|-damage|p1a: Calyrex|257/341|[from] Stealth Rock
+|move|p2a: Yveltal|Sucker Punch||[still]
+|-fail|p2a: Yveltal
+|
+|upkeep
+|turn|19
+|
+|t:|1678315448
+|move|p2a: Yveltal|Sucker Punch|p1a: Calyrex
+|-supereffective|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|faint|p1a: Calyrex
+|
+|upkeep
+|
+|t:|1678315448
+|switch|p1a: Zamazenta|Zamazenta-Crowned|364/388
+|-damage|p1a: Zamazenta|352/388|[from] Stealth Rock
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|20
+|
+|t:|1678315448
+|move|p2a: Yveltal|Sucker Punch|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|289/388
+|move|p1a: Zamazenta|Close Combat|p2a: Yveltal
+|-damage|p2a: Yveltal|0 fnt
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|faint|p2a: Yveltal
+|
+|win|Bot 1
+]]]]]

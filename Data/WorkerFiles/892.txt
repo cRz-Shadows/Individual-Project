@@ -1,0 +1,54 @@
+Calyrex-Ice @ Leftovers
+Ability: As One (Glastrier)
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Substitute
+- Icicle Spear
+- Swords Dance
+- Leech Seed
+
+Calyrex-Shadow @ Leftovers
+Ability: As One (Spectrier)
+EVs: 60 Def / 196 SpA / 252 Spe
+Timid Nature
+- Astral Barrage
+- Nasty Plot
+- Substitute
+- Leech Seed
+
+Cinderace @ Heavy-Duty Boots
+Ability: Libero
+EVs: 80 HP / 164 Atk / 48 SpD / 216 Spe
+Jolly Nature
+- Pyro Ball
+- U-turn
+- Court Change
+- Gunk Shot
+
+Darmanitan-Galar @ Choice Band
+Ability: Gorilla Tactics
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Icicle Crash
+- Flare Blitz
+- Earthquake
+- U-turn
+
+Dracovish @ Choice Scarf
+Ability: Strong Jaw
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Fishious Rend
+- Psychic Fangs
+- Crunch
+- Outrage
+
+Eternatus @ Heavy-Duty Boots
+Ability: Pressure
+EVs: 164 HP / 252 SpD / 92 Spe
+Timid Nature
+- Recover
+- Toxic
+- Mystical Fire
+- Dynamax Cannon
+

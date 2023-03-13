@@ -1,0 +1,18 @@
+Ho-Oh @ Heavy-Duty Boots
+Ability: Regenerator
+EVs: 248 HP / 192 Atk / 52 SpD / 16 Spe
+Adamant Nature
+- Sacred Fire
+- Brave Bird
+- Thunder Wave
+- Defog
+
+Urshifu-Gmax @ Choice Band
+Ability: Unseen Fist
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Wicked Blow
+- Close Combat
+- U-turn
+- Stone Edge
+

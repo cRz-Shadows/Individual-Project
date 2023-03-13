@@ -1,0 +1,18 @@
+Eternatus @ Life Orb
+Ability: Pressure
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Recover
+- Flamethrower
+- Sludge Bomb
+- Dynamax Cannon
+
+Lunala @ Heavy-Duty Boots
+Ability: Shadow Shield
+EVs: 252 HP / 16 Def / 240 Spe
+Timid Nature
+- Roost
+- Will-O-Wisp
+- Ice Beam
+- Hex
+

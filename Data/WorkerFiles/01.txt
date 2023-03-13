@@ -1,0 +1,54 @@
+Calyrex-Shadow @ Choice Specs
+Ability: As One (Spectrier)
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Astral Barrage
+- Psyshock
+- Trick
+- Aromatherapy
+
+Eternatus @ Life Orb
+Ability: Pressure
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Recover
+- Flamethrower
+- Sludge Bomb
+- Dynamax Cannon
+
+Giratina-Origin @ Griseous Orb
+Ability: Levitate
+EVs: 12 Atk / 216 Def / 252 SpA / 28 Spe
+Quiet Nature
+- Hex
+- Draco Meteor
+- Shadow Sneak
+- Will-O-Wisp
+
+Xerneas @ Leftovers
+Ability: Fairy Aura
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Moonblast
+- Rest
+- Sleep Talk
+- Aromatherapy
+
+Yveltal @ Choice Scarf
+Ability: Dark Aura
+EVs: 252 HP / 72 SpD / 184 Spe
+Jolly Nature
+- Foul Play
+- Roost
+- U-turn
+- Defog
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+EVs: 252 HP / 64 Def / 192 SpD
+Careful Nature
+- Behemoth Bash
+- Close Combat
+- Rest
+- Howl
+

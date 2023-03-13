@@ -1,0 +1,18 @@
+Eternatus @ Life Orb
+Ability: Pressure
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Recover
+- Flamethrower
+- Sludge Bomb
+- Dynamax Cannon
+
+Kyurem @ Leftovers
+Ability: Pressure
+EVs: 56 HP / 236 Def / 216 Spe
+Jolly Nature
+- Substitute
+- Roost
+- Icicle Spear
+- Dragon Dance
+

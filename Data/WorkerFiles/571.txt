@@ -1,0 +1,18 @@
+Calyrex-Shadow @ Mental Herb
+Ability: As One (Spectrier)
+EVs: 48 HP / 128 Def / 76 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Astral Barrage
+- Disable
+- Substitute
+- Nasty Plot
+
+Rayquaza @ Life Orb
+Ability: Air Lock
+EVs: 252 Atk / 4 SpA / 252 Spe
+Naive Nature
+- Dragon Ascent
+- Draco Meteor
+- Extreme Speed
+- V-create
+

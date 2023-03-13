@@ -1,0 +1,54 @@
+Giratina-Origin @ Griseous Orb
+Ability: Levitate
+EVs: 12 Atk / 216 Def / 252 SpA / 28 Spe
+Quiet Nature
+- Hex
+- Draco Meteor
+- Shadow Sneak
+- Will-O-Wisp
+
+Necrozma-Dusk Mane @ Weakness Policy
+Ability: Prism Armor
+EVs: 80 HP / 252 Atk / 176 Spe
+Adamant Nature
+- Sunsteel Strike
+- Stone Edge
+- Earthquake
+- Dragon Dance
+
+Urshifu-Gmax @ Choice Band
+Ability: Unseen Fist
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Wicked Blow
+- Close Combat
+- U-turn
+- Stone Edge
+
+Xerneas @ Leftovers
+Ability: Fairy Aura
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Moonblast
+- Rest
+- Sleep Talk
+- Aromatherapy
+
+Yveltal @ Choice Scarf
+Ability: Dark Aura
+EVs: 252 HP / 72 SpD / 184 Spe
+Jolly Nature
+- Foul Play
+- Roost
+- U-turn
+- Defog
+
+Zekrom @ Life Orb
+Ability: Teravolt
+EVs: 252 Atk / 4 SpA / 252 Spe
+Naive Nature
+- Draco Meteor
+- Bolt Strike
+- Roost
+- Scale Shot
+

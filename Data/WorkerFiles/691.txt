@@ -1,0 +1,18 @@
+Calyrex-Ice @ Leftovers
+Ability: As One (Glastrier)
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Substitute
+- Glacial Lance
+- Swords Dance
+- Leech Seed
+
+Calyrex-Shadow @ Choice Specs
+Ability: As One (Spectrier)
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Astral Barrage
+- Psyshock
+- Trick
+- Aromatherapy
+

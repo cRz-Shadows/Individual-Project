@@ -1,0 +1,18 @@
+Ho-Oh @ Heavy-Duty Boots
+Ability: Regenerator
+EVs: 248 HP / 192 Atk / 52 SpD / 16 Spe
+Adamant Nature
+- Sacred Fire
+- Brave Bird
+- Thunder Wave
+- Defog
+
+Xerneas @ Leftovers
+Ability: Fairy Aura
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Moonblast
+- Rest
+- Sleep Talk
+- Aromatherapy
+

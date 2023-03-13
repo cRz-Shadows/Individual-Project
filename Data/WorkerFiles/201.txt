@@ -1,0 +1,54 @@
+Eternatus @ Heavy-Duty Boots
+Ability: Pressure
+EVs: 48 HP / 244 Def / 216 Spe
+Bold Nature
+- Recover
+- Toxic
+- Flamethrower
+- Dynamax Cannon
+
+Giratina-Origin @ Griseous Orb
+Ability: Levitate
+EVs: 12 Atk / 216 Def / 252 SpA / 28 Spe
+Quiet Nature
+- Hex
+- Draco Meteor
+- Shadow Sneak
+- Will-O-Wisp
+
+Necrozma-Dusk Mane @ Rocky Helmet
+Ability: Prism Armor
+EVs: 252 HP / 136 Def / 120 Spe
+Impish Nature
+- Stealth Rock
+- Moonlight
+- Sunsteel Strike
+- Earthquake
+
+Urshifu-Gmax @ Choice Band
+Ability: Unseen Fist
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Wicked Blow
+- Close Combat
+- U-turn
+- Stone Edge
+
+Xerneas @ Power Herb
+Ability: Fairy Aura
+EVs: 168 Def / 252 SpA / 88 Spe
+Modest Nature
+- Geomancy
+- Moonblast
+- Thunder
+- Substitute
+
+Yveltal @ Life Orb
+Ability: Dark Aura
+EVs: 252 Atk / 72 SpD / 184 Spe
+Adamant Nature
+- Hone Claws
+- Knock Off
+- Sucker Punch
+- Acrobatics
+

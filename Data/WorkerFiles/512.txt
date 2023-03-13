@@ -1,0 +1,18 @@
+Ho-Oh @ Heavy-Duty Boots
+Ability: Regenerator
+EVs: 248 HP / 192 Atk / 52 SpD / 16 Spe
+Adamant Nature
+- Sacred Fire
+- Brave Bird
+- Thunder Wave
+- Defog
+
+Rayquaza @ Focus Sash
+Ability: Air Lock
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Dragon Ascent
+- V-create
+- Scale Shot
+- Swords Dance
+

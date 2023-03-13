@@ -1,0 +1,18 @@
+Ho-Oh @ Heavy-Duty Boots
+Ability: Regenerator
+EVs: 248 HP / 192 Atk / 52 SpD / 16 Spe
+Adamant Nature
+- Sacred Fire
+- Brave Bird
+- Thunder Wave
+- Defog
+
+Xerneas @ Choice Scarf
+Ability: Fairy Aura
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Moonblast
+- Thunder
+- Thunder Wave
+- Aromatherapy
+
