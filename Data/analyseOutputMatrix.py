@@ -12,6 +12,10 @@ import matplotlib.colors as mcolors
 from math import pi
 import json
 import textwrap
+from collections import defaultdict
+
+
+models = ['Win_Loss', 'Quick_Win', 'Switch_Ins', 'Weather']
 
 # Define the data types for each column
 team_dtypes = [('team', int), ('wins', int), ('losses', int), ('avg_switch', float),
@@ -35,7 +39,6 @@ ability_dicts = []
 move_dicts = []
 pokemon_numbers_dicts = []
 
-models = ['Win_Loss', 'Quick_Win', 'Switch_Ins', 'Weather']
 for model in models:
     with open('Outputs/' + model + '_itemDict.json', 'r') as f:
         item_dicts.append(json.load(f))
@@ -50,6 +53,11 @@ team_matrices = [win_loss_team, quick_win_team, switch_ins_team, weather_team]
 pokemon_matrices = [win_loss_pokemon, quick_win_pokemon, switch_ins_pokemon, weather_pokemon]
 
 for n, data in enumerate(team_matrices):
+    break;
+    model = models[n]
+    with open('Uber_Main_JSON_Files/' + model + '/Uber_Main_' + model.replace('_', '-') + '_teamNumbers.json', 'r') as f:
+        teamNumbers = json.load(f)
+    
     model = models[n].replace('_', '-')
     # Extract the data
     teams = data['team']
@@ -62,6 +70,9 @@ for n, data in enumerate(team_matrices):
     avg_weather_hail = data['avg_weather_hail']
     avg_weather_sun = data['avg_weather_sun']
     avg_weather_rain = data['avg_weather_rain']
+
+    # Can do something with this later
+    top_10_teams = [teamNumbers[str(x)] for _, x in sorted(zip([a/b for a, b in zip(wins, losses)], teams))][:10]
     
     total_games = wins + losses
     norm_wins = wins / total_games
@@ -73,26 +84,29 @@ for n, data in enumerate(team_matrices):
     prop_rain = avg_weather_rain / avg_weather
     
     # Bar chart of wins and losses for each team
-    plt.bar(teams, norm_wins, label='Wins')
-    plt.bar(teams, norm_losses, bottom=norm_wins, label='Losses')
+    plt.bar(teams, norm_wins, label='Wins', width=1, edgecolor='white', linewidth=0.05)
+    plt.bar(teams, norm_losses, bottom=norm_wins, label='Losses', width=1, edgecolor='white', linewidth=0.05)
     plt.xlabel('Team')
     plt.ylabel('Proportion of games won/lost')
     plt.title('Team Wins and Losses', y=1.1, fontsize=16, fontweight='bold')
     plt.suptitle(model + ' Synergys - Higher is Better', y=0.95, fontsize=12)
     plt.legend()
+    plt.tight_layout()
     plt.show()
     
-    plt.hist(avg_fight, bins=16, edgecolor='black')
+    bins = np.arange(min(avg_fight), max(avg_fight)+2, 1)
+    plt.hist(avg_fight, bins=bins, edgecolor='black')
     plt.xlabel('Average Length of Fight')
     plt.ylabel('Frequency')
     plt.title('Distribution of Average Length of Fight for a Single Team', y=1.1, fontsize=16, fontweight='bold')
-    plt.suptitle('Win-Loss Synergys - Lower is Better', y=0.95, fontsize=12)
+    plt.suptitle(model + ' Synergys - Lower is Better', y=0.95, fontsize=12)
     plt.show()
     
-    plt.hist(avg_weather, bins=16, edgecolor='black')
+    bins = np.arange(min(avg_weather), max(avg_weather)+2, 1)
+    plt.hist(avg_weather, edgecolor='black', bins=bins)
     plt.xlabel('Average Number of Weather Changes per Battle')
     plt.ylabel('Number of Teams')
-    plt.title('Distribution of Average Number of Weather Changes per Battle for Each Team', y=1.1, fontsize=16, fontweight='bold')
+    plt.title('Distribution of Average Number of Weather\nChanges per Battle for Each Team', y=1.1, fontsize=16, fontweight='bold')
     plt.suptitle(model + ' Synergys - Higher is Better', y=0.95, fontsize=12)
     plt.show()
     
@@ -112,14 +126,13 @@ for n, data in enumerate(team_matrices):
     plt.legend([sand_patch, hail_patch, sun_patch, rain_patch], ['Sand', 'Hail', 'Sun', 'Rain'])
     plt.show()
     
-    plt.hist(data['avg_switch'], bins=5, edgecolor='black')
+    bins = np.arange(min(avg_switch), max(avg_switch)+2, 1)
+    plt.hist(avg_switch, bins=bins, edgecolor='black')
     plt.xlabel('Average Number of Switches per Battle')
     plt.ylabel('Frequency')
     plt.title('Histogram of Average Number of Switches per Battle', y=1.1, fontsize=16, fontweight='bold')
     plt.suptitle(model + ' Synergys - Higher is Better', y=0.95, fontsize=12)
     plt.show()
-    
-    break;
     
 for n, data in enumerate(pokemon_matrices):
     model = models[n].replace('_', '-')
@@ -149,14 +162,9 @@ for n, data in enumerate(pokemon_matrices):
     fig, ax = plt.subplots()
     for i, name in enumerate(pokemon_names):
         color = distinct_colors[i % len(distinct_colors)]  # Cycle through colors if there are more points than colors
-        ax.scatter(kos[i], wins[i], c=color, label=name)
+        ax.scatter(kos[i], wins[i], c=color)
     # Add the legend with the colors and labels
-    ax2 = fig.add_axes([0.85, 0.1, 0.05, 0.8])
-    for i, name in enumerate(pokemon_names):
-        color = distinct_colors[i % len(distinct_colors)]
-        ax2.scatter([0], [i], c=color, label=name)
-    ax2.legend(loc='center left', bbox_to_anchor=(6.5, 0.5))
-    ax2.set_axis_off()
+    ax.legend(pokemon_names, loc='center left', bbox_to_anchor=(1.4, 0.5))
     # Add axis labels and title
     ax.set_xlabel('Individual Pokemon KOs')
     ax.set_ylabel('Wins for the top performing team')
@@ -164,7 +172,7 @@ for n, data in enumerate(pokemon_matrices):
     plt.suptitle(model + ' Synergys - Higher is Better', y=0.95, fontsize=12)
     # Show the plot
     plt.show()
-    
+        
     # pi chart
     # define your labels and sizes
     labels = [(pokemonNumbers[str(num)][0], pokemonNumbers[str(num)][1]) for num in data['pokemon_number']]
@@ -186,6 +194,23 @@ for n, data in enumerate(pokemon_matrices):
         text.set_color(colors[i])
     plt.show()
     
+    #
+    labels_ = [(pokemonNumbers[str(num)][0]) for num in data['pokemon_number']]
+    sizes_ = top_100_appearences
+    labels_sizes = {k: sum(v for k2, v in zip(labels_, sizes_) if k2 == k) for k in set(labels_)}
+    print(labels_sizes)
+    
+    # create the pie chart with the specified colors
+    fig, ax = plt.subplots(figsize=(8, 8))
+    ax.pie(labels_sizes.values(), labels=None, colors=colors, autopct='%1.1f%%')
+    ax.set_title('Percentage of Appearance of Each Pokemon Species on Top 100 Teams', y=1.1, fontsize=16, fontweight='bold')
+    fig.suptitle(model + ' Synergys - Higher is Better', y=0.95, fontsize=12)
+    legend = ax.legend(labels_sizes.keys(), loc='center left', bbox_to_anchor=(0.9, 0.5))
+    legend.set_title('Pokemon Species')
+    for i, text in enumerate(legend.get_texts()):
+        text.set_color(colors[i])
+    plt.show()
+    
     
     sizes = kos
     # create the pie chart with the specified colors
@@ -199,9 +224,7 @@ for n, data in enumerate(pokemon_matrices):
         text.set_color(colors[i])
     plt.show()
     
-    break;
-    
-for data in move_dicts:
+for n, data in enumerate(move_dicts):
     model = models[n].replace('_', '-')
     # sort the dictionary by KOs in descending order and take the top 20 moves
     sorted_moves = sorted(data.items(), key=lambda x: x[1], reverse=True)[:20]
@@ -218,9 +241,8 @@ for data in move_dicts:
     plt.title('Top 20 Pokemon Moves by KOs', y=1.1, fontsize=16, fontweight='bold')
     plt.suptitle(model + ' Synergys - Higher is Better', y=0.95, fontsize=12)
     plt.show()
-    break;
     
-for data in ability_dicts:
+for n, data in enumerate(ability_dicts):
     model = models[n].replace('_', '-')
     # sort the dictionary by KOs in descending order and take the top 20 moves
     sorted_abilities = sorted(data.items(), key=lambda x: x[1], reverse=True)
@@ -237,9 +259,8 @@ for data in ability_dicts:
     plt.title('Ability Appearences In Top 100 Teams', y=1.1, fontsize=16, fontweight='bold')
     plt.suptitle(model + ' Synergys - Higher is Better', y=0.95, fontsize=12)
     plt.show()
-    break;
     
-for data in item_dicts:
+for n, data in enumerate(item_dicts):
     model = models[n].replace('_', '-')
     # sort the dictionary by KOs in descending order and take the top 20 moves
     sorted_items = sorted(data.items(), key=lambda x: x[1], reverse=True)
@@ -256,4 +277,3 @@ for data in item_dicts:
     plt.title('Item Appearences In Top 100 Teams', y=1.1, fontsize=16, fontweight='bold')
     plt.suptitle(model + ' Synergys - Higher is Better', y=0.95, fontsize=12)
     plt.show()
-    break;

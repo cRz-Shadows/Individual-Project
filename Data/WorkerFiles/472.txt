@@ -1,54 +1,54 @@
-Giratina-Origin @ Griseous Orb
-Ability: Levitate
-EVs: 12 Atk / 216 Def / 252 SpA / 28 Spe
-Quiet Nature
-- Hex
-- Draco Meteor
-- Shadow Sneak
-- Will-O-Wisp
+Kyogre @ Leftovers
+Ability: Drizzle
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Calm Mind
+- Scald
+- Rest
+- Ice Beam
 
-Necrozma-Dusk Mane @ Leftovers
-Ability: Prism Armor
-EVs: 136 HP / 252 Atk / 120 Spe
-Adamant Nature
-- Iron Head
-- Knock Off
-- Swords Dance
-- Moonlight
+Lunala @ Power Herb
+Ability: Shadow Shield
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Meteor Beam
+- Roost
+- Moongeist Beam
+- Ice Beam
 
-Urshifu-Gmax @ Choice Band
-Ability: Unseen Fist
+Marshadow @ Choice Band
+Ability: Technician
 EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature
-- Wicked Blow
-- Close Combat
-- U-turn
-- Stone Edge
+- Spectral Thief
+- Low Kick
+- Shadow Sneak
+- Ice Punch
 
-Xerneas @ Power Herb
+Necrozma-Dusk Mane @ Weakness Policy
+Ability: Prism Armor
+EVs: 80 HP / 252 Atk / 176 Spe
+Adamant Nature
+- Sunsteel Strike
+- Stone Edge
+- Earthquake
+- Dragon Dance
+
+Xerneas @ Choice Scarf
 Ability: Fairy Aura
-EVs: 168 Def / 252 SpA / 88 Spe
-Modest Nature
-- Geomancy
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
 - Moonblast
 - Thunder
-- Substitute
+- Thunder Wave
+- Aromatherapy
 
-Yveltal @ Choice Scarf
+Yveltal @ Life Orb
 Ability: Dark Aura
-EVs: 252 HP / 72 SpD / 184 Spe
-Jolly Nature
-- Foul Play
-- Roost
-- U-turn
-- Defog
-
-Zekrom @ Life Orb
-Ability: Teravolt
-EVs: 252 Atk / 4 SpA / 252 Spe
-Naive Nature
-- Draco Meteor
-- Bolt Strike
-- Roost
-- Scale Shot
+EVs: 4 Atk / 252 SpA / 252 Spe
+Hasty Nature
+- Dark Pulse
+- Oblivion Wing
+- Taunt
+- Sucker Punch
 

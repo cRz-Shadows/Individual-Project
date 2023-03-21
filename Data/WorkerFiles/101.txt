@@ -1,54 +1,54 @@
+Calyrex-Shadow @ Focus Sash
+Ability: As One (Spectrier)
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Astral Barrage
+- Psyshock
+- Nasty Plot
+- Draining Kiss
+
 Giratina-Origin @ Griseous Orb
 Ability: Levitate
-EVs: 12 Atk / 216 Def / 252 SpA / 28 Spe
-Quiet Nature
-- Hex
-- Draco Meteor
-- Shadow Sneak
-- Will-O-Wisp
-
-Necrozma-Dusk Mane @ Weakness Policy
-Ability: Prism Armor
-EVs: 80 HP / 252 Atk / 176 Spe
+EVs: 176 HP / 252 Atk / 4 Def / 76 Spe
 Adamant Nature
-- Sunsteel Strike
+- Poltergeist
 - Stone Edge
-- Earthquake
-- Dragon Dance
-
-Urshifu-Gmax @ Choice Band
-Ability: Unseen Fist
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Wicked Blow
-- Close Combat
-- U-turn
-- Stone Edge
-
-Xerneas @ Power Herb
-Ability: Fairy Aura
-EVs: 168 Def / 252 SpA / 88 Spe
-Modest Nature
-- Geomancy
-- Moonblast
-- Thunder
-- Substitute
-
-Yveltal @ Choice Scarf
-Ability: Dark Aura
-EVs: 252 HP / 72 SpD / 184 Spe
-Jolly Nature
-- Foul Play
-- Roost
-- U-turn
+- Shadow Sneak
 - Defog
 
-Zekrom @ Life Orb
-Ability: Teravolt
-EVs: 252 Atk / 4 SpA / 252 Spe
-Naive Nature
-- Draco Meteor
-- Bolt Strike
+Kyogre @ Leftovers
+Ability: Drizzle
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Calm Mind
+- Scald
+- Rest
+- Ice Beam
+
+Lunala @ Power Herb
+Ability: Shadow Shield
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Meteor Beam
 - Roost
-- Scale Shot
+- Moongeist Beam
+- Ice Beam
+
+Xerneas @ Choice Scarf
+Ability: Fairy Aura
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Moonblast
+- Thunder
+- Thunder Wave
+- Aromatherapy
+
+Zamazenta @ Choice Band
+Ability: Dauntless Shield
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Close Combat
+- Crunch
+- Psychic Fangs
+- Wild Charge
 

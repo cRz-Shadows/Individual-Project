@@ -42,7 +42,7 @@ import re
 #       KOs
 # =============================================================================
 filename = "Inputs/Uber_Main.txt"
-model = "Win_Loss"
+model = "Weather"
 
 with open(filename[7:-4] + '_JSON_Files/' + model + '/' + filename[7:-4] + '_' + model.replace("_", "-") + '_teamNumbers.json', 'r') as infile:
     teamNumbers = json.load(infile)
@@ -221,7 +221,7 @@ with open('Outputs/' + model + '_Final_Output.txt') as o:
     synergyRatings_win_loss = dict(zip([i for i in range(noOfTeams)], np.nan_to_num(team[:, 1] / team[:, 2], 0))) #currently going by win loss ratios, but might refine later
     synergyRatings_quick_wins = dict(zip([i for i in range(noOfTeams)], np.nan_to_num((50*(team[:, 1] / team[:, 2]) - 30*team[:, 5] - 20*team[:, 4]) / 50 + 30 + 20, 0)))
     synergyRatings_switch_ins = dict(zip([i for i in range(noOfTeams)], np.nan_to_num((50*(team[:, 1] / team[:, 2]) - 20*team[:, 3] - 20*team[:, 4]) / 50 + 20 + 20, 0)))
-    synergyRatings_weather = dict(zip([i for i in range(noOfTeams)], np.nan_to_num((50*(team[:, 1] / team[:, 2]) - 30*team[:, 6] - 20*team[:, 4]) / 50 + 30 + 20, 0)))
+    synergyRatings_weather = dict(zip([i for i in range(noOfTeams)], np.nan_to_num((50*(team[:, 1] / team[:, 2]) + 30*team[:, 6] - 20*team[:, 4]) / 50 + 30 + 20, 0)))
     team = np.around(team)
     np.set_printoptions(threshold=10, suppress=True)
     #print(team)

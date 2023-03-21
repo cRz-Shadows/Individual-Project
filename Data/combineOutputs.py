@@ -20,4 +20,4 @@ def combine_txt_files(directory, output_file):
                         outfile.write(line)
 
 # Usage:
-combine_txt_files('C:\Individual_Project\Data\Outputs\Weather_Outputs\combine', 'C:\Individual_Project\Data\Outputs\Weather_Outputs\Weather_Final_Output_With_Errors.txt')
+combine_txt_files('C:\Individual_Project\Data\Outputs\Weather_Outputs\Combine', 'C:\Individual_Project\Data\Outputs\Weather_Outputs\Weather_Final_Output_With_Errors.txt')

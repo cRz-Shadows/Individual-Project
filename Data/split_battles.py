@@ -24,4 +24,4 @@ def split_json_by_n(filename, n):
             json.dump(chunk, outfile)
 
 
-split_json_by_n("Inputs/Uber_Main.txt", 402000)
+split_json_by_n("Inputs/Uber_Main.txt", 350000)

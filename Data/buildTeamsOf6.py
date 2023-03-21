@@ -97,7 +97,7 @@ def getTeamCombinations_synergy(filename, synergyRatings, teamNumbers):
     del lines
     del dex
     
-    SYNERGY_THRESHOLD = sorted(synergyRatings.values(), reverse=True)[574]
+    SYNERGY_THRESHOLD = sorted(synergyRatings.values(), reverse=True)[470]
     
     teams = []
     for team in tqdm(all_combinations):
@@ -162,19 +162,19 @@ def list_to_tuple(list_of_lists):
     return tuple(tuple(inner_list) for inner_list in list_of_lists)
 
 filename = "Inputs/Uber_Main.txt"
-with open('Uber_Main_JSON_Files/teams_of_2/' + filename[7:-4] + '_teamNumbers_TeamsOf2.json', 'r') as infile:
+with open('Uber_Main_JSON_Files/teams_of_2/' + filename[7:-4] + '_Teams-Of-2_teamNumbers.json', 'r') as infile:
     teamNumbers = json.load(infile)
-with open('Uber_Main_Teams_Of_2_Synergys-Switch-Ins.txt', 'r') as infile:
+with open('Uber_Main_Teams_Of_2_Synergys-Weather.txt', 'r') as infile:
     synergyRatings = json.loads(infile.read())
 teamNumbers = {list_to_tuple(v): k for k, v in teamNumbers.items()}
 
 teams, teamNumbers = getTeamCombinations_synergy(filename, synergyRatings, teamNumbers)
 print(len(teams))
 
-with open(filename[7:-4] + '_Switch-Ins_battles.json', 'w') as outfile:
+with open(filename[7:-4] + '_Weather_battles.json', 'w') as outfile:
     outfile.truncate(0)
     json.dump(teams, outfile)
 
-with open(filename[7:-4] + '_Switch-Ins_teamNumbers.json', 'w') as outfile:
+with open(filename[7:-4] + '_Weather_teamNumbers.json', 'w') as outfile:
     outfile.truncate(0)
     json.dump(teamNumbers, outfile, indent=4)

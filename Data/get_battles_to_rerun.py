@@ -46,7 +46,7 @@ noOfTeams = len(teamNumbers)
 pokemonCounter = 1
 battleCounter = 0
 #with open("Outputs/Switch_Ins_Outputs/Switch_Ins_Output.txt") as o:
-with open("Outputs\Weather_Outputs\combined_output.txt") as o:
+with open("Outputs\Weather_Outputs\Weather_rerun_battles_0.txt") as o:
     lines = o.readlines() # read output file
     
     # get number of total pokemon for building pokemon matrix

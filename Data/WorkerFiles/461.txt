@@ -1,54 +1,54 @@
-Eternatus @ Heavy-Duty Boots
-Ability: Pressure
-EVs: 48 HP / 244 Def / 216 Spe
-Bold Nature
-- Recover
-- Toxic
-- Flamethrower
-- Dynamax Cannon
-
-Giratina-Origin @ Griseous Orb
-Ability: Levitate
-EVs: 12 Atk / 216 Def / 252 SpA / 28 Spe
-Quiet Nature
-- Hex
-- Draco Meteor
-- Shadow Sneak
-- Will-O-Wisp
-
-Necrozma-Dusk Mane @ Rocky Helmet
-Ability: Prism Armor
-EVs: 252 HP / 136 Def / 120 Spe
-Impish Nature
-- Stealth Rock
-- Moonlight
-- Sunsteel Strike
-- Earthquake
-
-Urshifu-Gmax @ Choice Band
-Ability: Unseen Fist
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Wicked Blow
-- Close Combat
-- U-turn
-- Stone Edge
-
-Xerneas @ Leftovers
-Ability: Fairy Aura
-EVs: 252 HP / 252 Def / 4 SpD
-Bold Nature
-- Moonblast
-- Rest
-- Sleep Talk
+Calyrex-Shadow @ Choice Specs
+Ability: As One (Spectrier)
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Astral Barrage
+- Psyshock
+- Trick
 - Aromatherapy
 
-Yveltal @ Life Orb
-Ability: Dark Aura
-EVs: 252 Atk / 72 SpD / 184 Spe
+Ho-Oh @ Choice Band
+Ability: Regenerator
+EVs: 248 HP / 208 Atk / 52 SpD
 Adamant Nature
-- Hone Claws
-- Knock Off
-- Sucker Punch
-- Acrobatics
+- Sacred Fire
+- Brave Bird
+- Earthquake
+- Whirlwind
+
+Kyogre @ Leftovers
+Ability: Drizzle
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Calm Mind
+- Scald
+- Rest
+- Ice Beam
+
+Necrozma-Dusk Mane @ Weakness Policy
+Ability: Prism Armor
+EVs: 80 HP / 252 Atk / 176 Spe
+Adamant Nature
+- Sunsteel Strike
+- Stone Edge
+- Earthquake
+- Dragon Dance
+
+Palkia @ Lustrous Orb
+Ability: Pressure
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Hydro Pump
+- Spacial Rend
+- Thunder
+- Fire Blast
+
+Xerneas @ Choice Scarf
+Ability: Fairy Aura
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Moonblast
+- Thunder
+- Thunder Wave
+- Aromatherapy
 

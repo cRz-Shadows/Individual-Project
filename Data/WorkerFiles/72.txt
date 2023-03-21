@@ -1,11 +1,29 @@
+Calyrex-Shadow @ Focus Sash
+Ability: As One (Spectrier)
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Astral Barrage
+- Psyshock
+- Nasty Plot
+- Draining Kiss
+
 Giratina-Origin @ Griseous Orb
 Ability: Levitate
-EVs: 12 Atk / 216 Def / 252 SpA / 28 Spe
-Quiet Nature
-- Hex
-- Draco Meteor
+EVs: 176 HP / 252 Atk / 4 Def / 76 Spe
+Adamant Nature
+- Poltergeist
+- Stone Edge
 - Shadow Sneak
-- Will-O-Wisp
+- Defog
+
+Kyogre @ Leftovers
+Ability: Drizzle
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Calm Mind
+- Scald
+- Rest
+- Ice Beam
 
 Necrozma-Dusk Mane @ Weakness Policy
 Ability: Prism Armor
@@ -25,30 +43,12 @@ Jolly Nature
 - U-turn
 - Stone Edge
 
-Xerneas @ Leftovers
-Ability: Fairy Aura
-EVs: 252 HP / 252 Def / 4 SpD
-Bold Nature
-- Moonblast
-- Rest
-- Sleep Talk
-- Aromatherapy
-
-Yveltal @ Choice Scarf
+Yveltal @ Life Orb
 Ability: Dark Aura
-EVs: 252 HP / 72 SpD / 184 Spe
-Jolly Nature
-- Foul Play
-- Roost
-- U-turn
-- Defog
-
-Zekrom @ Life Orb
-Ability: Teravolt
-EVs: 252 Atk / 4 SpA / 252 Spe
-Naive Nature
-- Draco Meteor
-- Bolt Strike
-- Roost
-- Scale Shot
+EVs: 4 Atk / 252 SpA / 252 Spe
+Hasty Nature
+- Dark Pulse
+- Oblivion Wing
+- Taunt
+- Sucker Punch
 

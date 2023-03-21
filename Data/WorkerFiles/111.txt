@@ -1,54 +1,54 @@
-Eternatus @ Heavy-Duty Boots
+Eternatus @ Life Orb
 Ability: Pressure
-EVs: 48 HP / 244 Def / 216 Spe
-Bold Nature
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
 - Recover
-- Toxic
 - Flamethrower
+- Sludge Bomb
 - Dynamax Cannon
 
 Giratina-Origin @ Griseous Orb
 Ability: Levitate
-EVs: 12 Atk / 216 Def / 252 SpA / 28 Spe
-Quiet Nature
-- Hex
-- Draco Meteor
-- Shadow Sneak
-- Will-O-Wisp
-
-Necrozma-Dusk Mane @ Weakness Policy
-Ability: Prism Armor
-EVs: 80 HP / 252 Atk / 176 Spe
+EVs: 176 HP / 252 Atk / 4 Def / 76 Spe
 Adamant Nature
-- Sunsteel Strike
+- Poltergeist
 - Stone Edge
+- Shadow Sneak
+- Defog
+
+Ho-Oh @ Choice Band
+Ability: Regenerator
+EVs: 248 HP / 208 Atk / 52 SpD
+Adamant Nature
+- Sacred Fire
+- Brave Bird
 - Earthquake
-- Dragon Dance
+- Whirlwind
 
-Urshifu-Gmax @ Choice Band
-Ability: Unseen Fist
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Wicked Blow
-- Close Combat
-- U-turn
-- Stone Edge
+Kyogre @ Leftovers
+Ability: Drizzle
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Calm Mind
+- Scald
+- Rest
+- Ice Beam
 
-Xerneas @ Choice Scarf
-Ability: Fairy Aura
-EVs: 4 Def / 252 SpA / 252 Spe
+Lunala @ Power Herb
+Ability: Shadow Shield
+EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature
-- Moonblast
-- Thunder
-- Thunder Wave
-- Aromatherapy
+- Meteor Beam
+- Roost
+- Moongeist Beam
+- Ice Beam
 
-Yveltal @ Life Orb
+Yveltal @ Choice Scarf
 Ability: Dark Aura
-EVs: 4 Atk / 252 SpA / 252 Spe
-Hasty Nature
-- Dark Pulse
-- Oblivion Wing
-- Taunt
-- Sucker Punch
+EVs: 252 HP / 72 SpD / 184 Spe
+Jolly Nature
+- Foul Play
+- Roost
+- U-turn
+- Defog
 

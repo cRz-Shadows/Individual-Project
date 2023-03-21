@@ -57,7 +57,7 @@ filename = "Inputs/" + "Uber_Main.txt"
 noOfThreads = 50
 
 #read in teams
-with open('Uber_Main_JSON_Files/Weather/' + filename[7:-4] + '_Weather_rerun_battles.json', 'r') as infile:
+with open('Uber_Main_JSON_Files/' + filename[7:-4] + '_Weather_rerun_battles.json', 'r') as infile:
     teams = json.load(infile)
 
 with open('Uber_Main_JSON_Files/Weather/' + filename[7:-4] + '_Weather_teamNumbers.json', 'r') as infile:

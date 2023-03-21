@@ -1,54 +1,54 @@
-Eternatus @ Heavy-Duty Boots
-Ability: Pressure
-EVs: 48 HP / 244 Def / 216 Spe
+Calyrex-Shadow @ Focus Sash
+Ability: As One (Spectrier)
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Astral Barrage
+- Psyshock
+- Nasty Plot
+- Draining Kiss
+
+Kyogre @ Leftovers
+Ability: Drizzle
+EVs: 252 HP / 252 Def / 4 SpD
 Bold Nature
-- Recover
-- Toxic
-- Flamethrower
-- Dynamax Cannon
+- Calm Mind
+- Scald
+- Rest
+- Ice Beam
 
-Giratina-Origin @ Griseous Orb
-Ability: Levitate
-EVs: 12 Atk / 216 Def / 252 SpA / 28 Spe
-Quiet Nature
-- Hex
-- Draco Meteor
-- Shadow Sneak
-- Will-O-Wisp
+Lunala @ Power Herb
+Ability: Shadow Shield
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Meteor Beam
+- Roost
+- Moongeist Beam
+- Ice Beam
 
-Necrozma-Dusk Mane @ Rocky Helmet
-Ability: Prism Armor
-EVs: 252 HP / 136 Def / 120 Spe
-Impish Nature
-- Stealth Rock
-- Moonlight
-- Sunsteel Strike
-- Earthquake
-
-Urshifu-Gmax @ Choice Band
-Ability: Unseen Fist
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Wicked Blow
-- Close Combat
-- U-turn
-- Stone Edge
-
-Xerneas @ Power Herb
+Xerneas @ Choice Scarf
 Ability: Fairy Aura
-EVs: 168 Def / 252 SpA / 88 Spe
-Modest Nature
-- Geomancy
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
 - Moonblast
 - Thunder
-- Substitute
+- Thunder Wave
+- Aromatherapy
 
-Yveltal @ Life Orb
+Yveltal @ Heavy-Duty Boots
 Ability: Dark Aura
-EVs: 252 Atk / 72 SpD / 184 Spe
-Adamant Nature
-- Hone Claws
+EVs: 16 HP / 240 SpD / 252 Spe
+Jolly Nature
 - Knock Off
-- Sucker Punch
-- Acrobatics
+- Taunt
+- Defog
+- Roost
+
+Zamazenta @ Choice Band
+Ability: Dauntless Shield
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Close Combat
+- Crunch
+- Psychic Fangs
+- Wild Charge
 

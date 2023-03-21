@@ -1,54 +1,54 @@
-Calyrex-Shadow @ Choice Specs
+Calyrex-Shadow @ Focus Sash
 Ability: As One (Spectrier)
 EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
 - Astral Barrage
 - Psyshock
-- Trick
-- Aromatherapy
-
-Eternatus @ Heavy-Duty Boots
-Ability: Pressure
-EVs: 48 HP / 244 Def / 216 Spe
-Bold Nature
-- Recover
-- Toxic
-- Flamethrower
-- Dynamax Cannon
+- Nasty Plot
+- Draining Kiss
 
 Giratina-Origin @ Griseous Orb
 Ability: Levitate
-EVs: 12 Atk / 216 Def / 252 SpA / 28 Spe
-Quiet Nature
-- Hex
-- Draco Meteor
+EVs: 176 HP / 252 Atk / 4 Def / 76 Spe
+Adamant Nature
+- Poltergeist
+- Stone Edge
 - Shadow Sneak
-- Will-O-Wisp
+- Defog
 
-Necrozma-Dusk Mane @ Rocky Helmet
-Ability: Prism Armor
-EVs: 252 HP / 136 Def / 120 Spe
-Impish Nature
-- Stealth Rock
-- Moonlight
-- Sunsteel Strike
-- Earthquake
-
-Xerneas @ Leftovers
-Ability: Fairy Aura
+Kyogre @ Leftovers
+Ability: Drizzle
 EVs: 252 HP / 252 Def / 4 SpD
 Bold Nature
-- Moonblast
+- Calm Mind
+- Scald
 - Rest
-- Sleep Talk
-- Aromatherapy
+- Ice Beam
 
-Yveltal @ Choice Band
-Ability: Dark Aura
-EVs: 252 Atk / 72 SpD / 184 Spe
+Necrozma-Dusk Mane @ Weakness Policy
+Ability: Prism Armor
+EVs: 80 HP / 252 Atk / 176 Spe
 Adamant Nature
-- Knock Off
-- Dual Wingbeat
+- Sunsteel Strike
+- Stone Edge
+- Earthquake
+- Dragon Dance
+
+Xerneas @ Power Herb
+Ability: Fairy Aura
+EVs: 168 Def / 252 SpA / 88 Spe
+Modest Nature
+- Geomancy
+- Moonblast
+- Thunder
+- Substitute
+
+Yveltal @ Choice Scarf
+Ability: Dark Aura
+EVs: 252 HP / 72 SpD / 184 Spe
+Jolly Nature
+- Foul Play
+- Roost
 - U-turn
-- Sucker Punch
+- Defog
 

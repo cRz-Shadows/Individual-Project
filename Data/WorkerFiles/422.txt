@@ -1,11 +1,20 @@
-Giratina-Origin @ Griseous Orb
-Ability: Levitate
-EVs: 12 Atk / 216 Def / 252 SpA / 28 Spe
-Quiet Nature
-- Hex
-- Draco Meteor
-- Shadow Sneak
-- Will-O-Wisp
+Calyrex-Shadow @ Choice Specs
+Ability: As One (Spectrier)
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Astral Barrage
+- Psyshock
+- Trick
+- Aromatherapy
+
+Kyogre @ Leftovers
+Ability: Drizzle
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Calm Mind
+- Scald
+- Rest
+- Ice Beam
 
 Necrozma-Dusk Mane @ Weakness Policy
 Ability: Prism Armor
@@ -16,23 +25,23 @@ Adamant Nature
 - Earthquake
 - Dragon Dance
 
-Urshifu-Gmax @ Choice Band
-Ability: Unseen Fist
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Wicked Blow
-- Close Combat
-- U-turn
-- Stone Edge
+Palkia @ Lustrous Orb
+Ability: Pressure
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Hydro Pump
+- Spacial Rend
+- Thunder
+- Fire Blast
 
-Xerneas @ Leftovers
+Xerneas @ Power Herb
 Ability: Fairy Aura
-EVs: 252 HP / 252 Def / 4 SpD
-Bold Nature
+EVs: 168 Def / 252 SpA / 88 Spe
+Modest Nature
+- Geomancy
 - Moonblast
-- Rest
-- Sleep Talk
-- Aromatherapy
+- Thunder
+- Substitute
 
 Yveltal @ Choice Scarf
 Ability: Dark Aura
@@ -42,13 +51,4 @@ Jolly Nature
 - Roost
 - U-turn
 - Defog
-
-Zekrom @ Life Orb
-Ability: Teravolt
-EVs: 252 Atk / 4 SpA / 252 Spe
-Naive Nature
-- Draco Meteor
-- Bolt Strike
-- Roost
-- Scale Shot
 

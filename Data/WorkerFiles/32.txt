@@ -1,11 +1,38 @@
 Giratina-Origin @ Griseous Orb
 Ability: Levitate
-EVs: 12 Atk / 216 Def / 252 SpA / 28 Spe
-Quiet Nature
-- Hex
-- Draco Meteor
+EVs: 176 HP / 252 Atk / 4 Def / 76 Spe
+Adamant Nature
+- Poltergeist
+- Stone Edge
 - Shadow Sneak
-- Will-O-Wisp
+- Defog
+
+Kyogre @ Leftovers
+Ability: Drizzle
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Calm Mind
+- Scald
+- Rest
+- Ice Beam
+
+Lunala @ Power Herb
+Ability: Shadow Shield
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Meteor Beam
+- Roost
+- Moongeist Beam
+- Ice Beam
+
+Marshadow @ Choice Band
+Ability: Technician
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Spectral Thief
+- Low Kick
+- Shadow Sneak
+- Ice Punch
 
 Necrozma-Dusk Mane @ Weakness Policy
 Ability: Prism Armor
@@ -16,39 +43,12 @@ Adamant Nature
 - Earthquake
 - Dragon Dance
 
-Urshifu-Gmax @ Choice Band
-Ability: Unseen Fist
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Wicked Blow
-- Close Combat
-- U-turn
-- Stone Edge
-
-Xerneas @ Power Herb
+Xerneas @ Choice Scarf
 Ability: Fairy Aura
-EVs: 168 Def / 252 SpA / 88 Spe
-Modest Nature
-- Geomancy
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
 - Moonblast
 - Thunder
-- Substitute
-
-Yveltal @ Choice Scarf
-Ability: Dark Aura
-EVs: 252 HP / 72 SpD / 184 Spe
-Jolly Nature
-- Foul Play
-- Roost
-- U-turn
-- Defog
-
-Zekrom @ Life Orb
-Ability: Teravolt
-EVs: 252 Atk / 4 SpA / 252 Spe
-Naive Nature
-- Draco Meteor
-- Bolt Strike
-- Roost
-- Scale Shot
+- Thunder Wave
+- Aromatherapy
 

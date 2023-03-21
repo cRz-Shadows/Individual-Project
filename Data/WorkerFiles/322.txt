@@ -1,29 +1,29 @@
+Calyrex-Shadow @ Focus Sash
+Ability: As One (Spectrier)
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Astral Barrage
+- Psyshock
+- Nasty Plot
+- Draining Kiss
+
 Giratina-Origin @ Griseous Orb
 Ability: Levitate
-EVs: 12 Atk / 216 Def / 252 SpA / 28 Spe
-Quiet Nature
-- Hex
-- Draco Meteor
-- Shadow Sneak
-- Will-O-Wisp
-
-Necrozma-Dusk Mane @ Leftovers
-Ability: Prism Armor
-EVs: 136 HP / 252 Atk / 120 Spe
+EVs: 176 HP / 252 Atk / 4 Def / 76 Spe
 Adamant Nature
-- Iron Head
-- Knock Off
-- Swords Dance
-- Moonlight
-
-Urshifu-Gmax @ Choice Band
-Ability: Unseen Fist
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Wicked Blow
-- Close Combat
-- U-turn
+- Poltergeist
 - Stone Edge
+- Shadow Sneak
+- Defog
+
+Kyogre @ Leftovers
+Ability: Drizzle
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Calm Mind
+- Scald
+- Rest
+- Ice Beam
 
 Xerneas @ Power Herb
 Ability: Fairy Aura
@@ -43,12 +43,12 @@ Jolly Nature
 - U-turn
 - Defog
 
-Zekrom @ Life Orb
-Ability: Teravolt
-EVs: 252 Atk / 4 SpA / 252 Spe
-Naive Nature
-- Draco Meteor
-- Bolt Strike
-- Roost
-- Scale Shot
+Zamazenta @ Choice Band
+Ability: Dauntless Shield
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Close Combat
+- Crunch
+- Psychic Fangs
+- Wild Charge
 

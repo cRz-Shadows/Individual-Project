@@ -1,29 +1,38 @@
+Eternatus @ Life Orb
+Ability: Pressure
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Recover
+- Flamethrower
+- Sludge Bomb
+- Dynamax Cannon
+
 Giratina-Origin @ Griseous Orb
 Ability: Levitate
-EVs: 12 Atk / 216 Def / 252 SpA / 28 Spe
-Quiet Nature
-- Hex
-- Draco Meteor
+EVs: 176 HP / 252 Atk / 4 Def / 76 Spe
+Adamant Nature
+- Poltergeist
+- Stone Edge
 - Shadow Sneak
-- Will-O-Wisp
+- Defog
 
-Necrozma-Dusk Mane @ Leftovers
+Kyogre @ Leftovers
+Ability: Drizzle
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Calm Mind
+- Scald
+- Rest
+- Ice Beam
+
+Necrozma-Dusk Mane @ Choice Band
 Ability: Prism Armor
 EVs: 136 HP / 252 Atk / 120 Spe
 Adamant Nature
-- Iron Head
+- Sunsteel Strike
 - Knock Off
-- Swords Dance
 - Moonlight
-
-Urshifu-Gmax @ Choice Band
-Ability: Unseen Fist
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Wicked Blow
-- Close Combat
-- U-turn
-- Stone Edge
+- Photon Geyser
 
 Xerneas @ Power Herb
 Ability: Fairy Aura
@@ -42,13 +51,4 @@ Jolly Nature
 - Roost
 - U-turn
 - Defog
-
-Zekrom @ Life Orb
-Ability: Teravolt
-EVs: 252 Atk / 4 SpA / 252 Spe
-Naive Nature
-- Draco Meteor
-- Bolt Strike
-- Roost
-- Scale Shot
 

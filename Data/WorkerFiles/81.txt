@@ -1,54 +1,54 @@
-Giratina-Origin @ Griseous Orb
-Ability: Levitate
-EVs: 12 Atk / 216 Def / 252 SpA / 28 Spe
-Quiet Nature
-- Hex
-- Draco Meteor
-- Shadow Sneak
-- Will-O-Wisp
+Calyrex-Shadow @ Mental Herb
+Ability: As One (Spectrier)
+EVs: 48 HP / 128 Def / 76 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Astral Barrage
+- Disable
+- Substitute
+- Nasty Plot
 
-Necrozma-Dusk Mane @ Leftovers
-Ability: Prism Armor
-EVs: 136 HP / 252 Atk / 120 Spe
-Adamant Nature
-- Iron Head
-- Knock Off
-- Swords Dance
-- Moonlight
+Eternatus @ Life Orb
+Ability: Pressure
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Recover
+- Flamethrower
+- Sludge Bomb
+- Dynamax Cannon
 
-Urshifu-Gmax @ Choice Band
-Ability: Unseen Fist
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Wicked Blow
-- Close Combat
-- U-turn
-- Stone Edge
+Kyogre @ Leftovers
+Ability: Drizzle
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Calm Mind
+- Scald
+- Rest
+- Ice Beam
 
-Xerneas @ Power Herb
+Lunala @ Power Herb
+Ability: Shadow Shield
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Meteor Beam
+- Roost
+- Moongeist Beam
+- Ice Beam
+
+Xerneas @ Choice Scarf
 Ability: Fairy Aura
-EVs: 168 Def / 252 SpA / 88 Spe
-Modest Nature
-- Geomancy
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
 - Moonblast
 - Thunder
-- Substitute
+- Thunder Wave
+- Aromatherapy
 
-Yveltal @ Choice Scarf
+Yveltal @ Choice Band
 Ability: Dark Aura
-EVs: 252 HP / 72 SpD / 184 Spe
-Jolly Nature
-- Foul Play
-- Roost
+EVs: 252 Atk / 72 SpD / 184 Spe
+Adamant Nature
+- Knock Off
+- Dual Wingbeat
 - U-turn
-- Defog
-
-Zekrom @ Life Orb
-Ability: Teravolt
-EVs: 252 Atk / 4 SpA / 252 Spe
-Naive Nature
-- Draco Meteor
-- Bolt Strike
-- Roost
-- Scale Shot
+- Sucker Punch
 
