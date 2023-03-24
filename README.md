@@ -1,17 +1,12 @@
 # Pokémon Simulator Environment
 
-Here we have an environment for running many Pokémon simulations in the command line. The Pokémon-showdown directory contains a modified version of https://github.com/smogon/pokemon-showdown, whose modifications are detailed below. In the Data directory, you can find various python files which can be used to build teams from predefined text files of builds written in Pokémon Showdown output format, run large sets of multithreaded simulations, and parse and analyse the results of battles, producing a variety of graphs. Additionally, some predefined inputs for various formats can be found in Data/Inputs.
-
-
-
-## Run Simulations Yourself
-If you wish to run a set of simulations, you can create or use a predefined input file a file in Inputs, run countPokemon.py to get matchups for teams of 2, or run getTeamsOf6.py to get matchups for teams of 6. From there just just have to run getSimulations.py. Note you will have to modify some lines in each file to use the specific input files you want. Battles with errors can be reran using get_battles_to_rerun.py, findErrors.py and removeErrors.py. Analysis can be performed using parseOutput.py and analyseOutputMatrix.py.
+Here we have an environment for running many Pokémon simulations in the command line. The Pokémon-showdown directory contains a modified version of https://github.com/smogon/pokemon-showdown, whose modifications are detailed below. In the Data directory, you can find various python files which can be used to build teams from predefined text files of builds written in Pokémon Showdown output format, run large sets of multithreaded simulations, and parse and analyse the results of battles, producing a variety of graphs. Additionally, some predefined inputs for various formats can be found in Data/Inputs. See manual.md for instructions on how to use the python files.
 
 
 
 ## .gitignore
 
-All of the output files have been put in the gitignore. This is because these files are hundreds of gigabytes and cannot reasonably be uploaded to github. Additionally the JSON files containing the battles to run have also been ignored, since these can be easily produced using the python files and also take up tens of gigabytes. I have uploaded the output matrices, meaning my results can still be seen and used for analysing. Additionally the graphs folder has been gitignored, since analyseOutputMatrix.py produces all of these graphs anyway.
+All of the output files have been put in the gitignore. This is because these files are hundreds of gigabytes and cannot reasonably be uploaded to github. They also can be created by running the set of simulations yourself! Additionally the JSON files containing the battles to run have also been ignored, since these can be easily produced using the python files and also take up tens of gigabytes. I have uploaded the output matrices, meaning my results can still be seen and used for analysing. Additionally the graphs folder has been gitignored, since analyseOutputMatrix.py produces all of these graphs anyway.
 
 
 
