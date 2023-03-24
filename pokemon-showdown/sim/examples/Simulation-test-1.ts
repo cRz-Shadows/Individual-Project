@@ -824,36 +824,8 @@ async function main() {
 	};
 	const dex = Dex.forFormat(spec.formatid);
 
-	// const p1spec = {
-	// 	name: "Bot 1",
-	// 	team: Teams.pack(Teams.generate('gen7randombattle')),
-	// };
-	// const p2spec = {
-	// 	name: "Bot 2",
-	// 	team: Teams.pack(Teams.generate('gen7randombattle')),
-	// };
-
 	const tracker = new activeTracker()
 	const createAI = (s: ObjectReadWriteStream<string>, o: AIOptions) => new HeuristicsPlayerAI(s, o, tracker);
-
-	// const p1 = new HeuristicsPlayerAI(streams.p1);
-	// const p2 = new HeuristicsPlayerAI(streams.p2);
-
-	// console.log("p1 is " + p1.constructor.name);
-	// console.log("p2 is " + p2.constructor.name);
-
-	// void p1.start();
-	// void p2.start();
-
-	// void (async () => {
-	// 	for await (const chunk of streams.omniscient) {
-	// 		console.log(chunk);
-	// 	}
-	// })();
-
-	// void streams.omniscient.write(`>start ${JSON.stringify(spec)}
-	// >player p1 ${JSON.stringify(p1spec)}
-	// >player p2 ${JSON.stringify(p2spec)}`);
 
 	try {
 		// We run these sequentially instead of async so that the team generator
