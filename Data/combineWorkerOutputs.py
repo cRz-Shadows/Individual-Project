@@ -5,6 +5,10 @@ Created on Sun Jan 29 10:16:45 2023
 @author: craig
 """
 
+# =============================================================================
+# This file can be used to combine worker output files, in case of a crash
+# =============================================================================
+
 infiles = [str(i+1) for i in range(80)]
 with open("Uber_Main_0_output.txt", "a") as outfile:
     for i in infiles:

@@ -1,11 +1,20 @@
-Giratina-Origin @ Griseous Orb
-Ability: Levitate
-EVs: 176 HP / 252 Atk / 4 Def / 76 Spe
-Adamant Nature
-- Poltergeist
-- Stone Edge
-- Shadow Sneak
-- Defog
+Calyrex-Shadow @ Choice Specs
+Ability: As One (Spectrier)
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Astral Barrage
+- Psyshock
+- Trick
+- Aromatherapy
+
+Eternatus @ Heavy-Duty Boots
+Ability: Pressure
+EVs: 48 HP / 244 Def / 216 Spe
+Bold Nature
+- Recover
+- Toxic
+- Flamethrower
+- Dynamax Cannon
 
 Ho-Oh @ Choice Band
 Ability: Regenerator
@@ -25,23 +34,14 @@ Bold Nature
 - Rest
 - Ice Beam
 
-Lunala @ Power Herb
-Ability: Shadow Shield
-EVs: 4 HP / 252 SpA / 252 Spe
-Timid Nature
-- Meteor Beam
-- Roost
-- Moongeist Beam
-- Ice Beam
-
-Necrozma-Dusk Mane @ Weakness Policy
-Ability: Prism Armor
-EVs: 80 HP / 252 Atk / 176 Spe
-Adamant Nature
-- Sunsteel Strike
-- Stone Edge
-- Earthquake
-- Dragon Dance
+Xerneas @ Power Herb
+Ability: Fairy Aura
+EVs: 168 Def / 252 SpA / 88 Spe
+Modest Nature
+- Geomancy
+- Moonblast
+- Thunder
+- Substitute
 
 Yveltal @ Choice Scarf
 Ability: Dark Aura

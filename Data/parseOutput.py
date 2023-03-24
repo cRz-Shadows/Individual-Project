@@ -41,6 +41,7 @@ import re
 #       Move Name
 #       KOs
 # =============================================================================
+
 filename = "Inputs/Uber_Main.txt"
 model = "Weather"
 
@@ -92,6 +93,7 @@ with open('Outputs/' + model + '_Final_Output.txt') as o:
     error=0
     # Main loop for parser
     for n, line in tqdm(enumerate(lines)):
+        # check there's no error
         if line.startswith("TypeError"):
             error=1
         if line.startswith("(node:"):
@@ -100,13 +102,16 @@ with open('Outputs/' + model + '_Final_Output.txt') as o:
             error = 1
         if line.startswith("Error"):
             error = 1
+        # at the start of a battle
         if line.startswith("[[[[["):
             if lines[n+1].startswith("[[[[["):
                 pass
             else:
+                # define teamnumbers
                 battleStart = n
                 team1 = int(lines[battleStart+1].split(" ")[0])
                 team2 = int(lines[battleStart+1].split(" ")[2])
+        # Once the battle ends
         if line.startswith("]]]]]"):
             try:
                 team1
@@ -126,7 +131,7 @@ with open('Outputs/' + model + '_Final_Output.txt') as o:
                 else:
                     winner, loser = 0, 0
                 
-                #update team matrix
+                # update team matrix
                 if winner == 1:
                     team[team1][1] = team[team1][1] + 1
                     team[team1][4] = team[team1][4] + KOs_team2 # to be divided by number of wins [2]
@@ -150,6 +155,7 @@ with open('Outputs/' + model + '_Final_Output.txt') as o:
                 team[team1][10] = team[team1][10] + 1
                 team[team2][10] = team[team2][10] + 1
 
+            # reset variables
             switchIns_team1 = 0
             switchIns_team2 = 0
             KOs_team1 = 0
@@ -171,6 +177,7 @@ with open('Outputs/' + model + '_Final_Output.txt') as o:
         if line.startswith("|faint|p2a:"):
             KOs_team1 += 1
             ln = n
+            # figure out which of p1's pokemon knocked p2's pokemon out
             for i in range(10):
                 ln -= 1
                 if lines[ln].startswith("|move|p1a"):
@@ -188,6 +195,7 @@ with open('Outputs/' + model + '_Final_Output.txt') as o:
         if line.startswith("|faint|p1a:"):
             KOs_team2 += 1
             ln = n
+            # figure out which of p2's pokemon knocked p1's pokemon out
             for i in range(10):
                 ln -= 1
                 if lines[ln].startswith("|move|p2a"):
@@ -211,6 +219,7 @@ with open('Outputs/' + model + '_Final_Output.txt') as o:
         if line.startswith("|-weather|SunnyDay"):
             weatherChangesSun += 1
         
+    # update Pokemon matrix    
     team[:, 3] = np.nan_to_num(team[:, 3] / team[:, 10], 0)
     team[:, 4] = np.nan_to_num(team[:, 4] / team[:, 1], 0)
     team[:, 5] = np.nan_to_num(team[:, 5] / team[:, 10], 0)
@@ -218,22 +227,25 @@ with open('Outputs/' + model + '_Final_Output.txt') as o:
     team[:, 7] = np.nan_to_num(team[:, 7] / team[:, 10], 0)
     team[:, 8] = np.nan_to_num(team[:, 8] / team[:, 10], 0)
     team[:, 9] = np.nan_to_num(team[:, 9] / team[:, 10], 0)
-    synergyRatings_win_loss = dict(zip([i for i in range(noOfTeams)], np.nan_to_num(team[:, 1] / team[:, 2], 0))) #currently going by win loss ratios, but might refine later
+    synergyRatings_win_loss = dict(zip([i for i in range(noOfTeams)], np.nan_to_num(team[:, 1] / team[:, 2], 0)))
     synergyRatings_quick_wins = dict(zip([i for i in range(noOfTeams)], np.nan_to_num((50*(team[:, 1] / team[:, 2]) - 30*team[:, 5] - 20*team[:, 4]) / 50 + 30 + 20, 0)))
     synergyRatings_switch_ins = dict(zip([i for i in range(noOfTeams)], np.nan_to_num((50*(team[:, 1] / team[:, 2]) - 20*team[:, 3] - 20*team[:, 4]) / 50 + 20 + 20, 0)))
     synergyRatings_weather = dict(zip([i for i in range(noOfTeams)], np.nan_to_num((50*(team[:, 1] / team[:, 2]) + 30*team[:, 6] - 20*team[:, 4]) / 50 + 30 + 20, 0)))
     team = np.around(team)
     np.set_printoptions(threshold=10, suppress=True)
-    #print(team)
+
+    #write team matrix
     with open('Outputs/' + model + '_outputMatrix.txt', "a") as outfile:
         outfile.truncate(0)
         outfile.write("Team Matrix\n")
         np.savetxt(outfile, team, fmt='%.10d')
         outfile.write("\n\n")
-        
+    
+    # find items and abilities of pokemon builds on the top 100 teams by win loss
     ratios = team[:, 1] / team[:, 0]
     sorted_indices = np.argsort(ratios)
     sorted_team = team[sorted_indices]
+    # find pokemon on the top 100 teams
     pokemon_on_top_100_teams = list(itertools.chain.from_iterable(list(map(lambda x: teamNumbers[x], [str(int(i)) for i in sorted_team[:100, 0].tolist()]))))
     for linenumber, mon in dex.items():
         for top100 in pokemon_on_top_100_teams:
@@ -247,7 +259,7 @@ with open('Outputs/' + model + '_Final_Output.txt') as o:
                     ability[mon[2]] = 1
                 else:
                     ability[mon[2]] += 1
-                    
+    
     sorted_wins = [int(i) for i in sorted_team[:, 1].tolist()]
     sorted_teams = list(map(lambda x: teamNumbers[x], [str(int(i)) for i in sorted_team[:, 0].tolist()]))
     for linenumber, mon in dex.items():
@@ -277,19 +289,3 @@ with open('Outputs/' + model + '_Final_Output.txt') as o:
     with open('Outputs/' + model + '_pokemonNumbers.json', "w") as outfile:
         outfile.truncate(0)
         json.dump(pokemonNumbers, outfile)
-
-#To Delete
-#with open("./Uber_Main_Teams_Of_2_Synergys-Win-Loss.txt", "a") as outfile:
-#    outfile.truncate(0)
-#    outfile.write(json.dumps(synergyRatings_win_loss))
-#with open("./Uber_Main_Teams_Of_2_Synergys-Quick-Win.txt", "a") as outfile:
-#    outfile.truncate(0)
-#    outfile.write(json.dumps(synergyRatings_quick_wins))
-#    
-#with open("./Uber_Main_Teams_Of_2_Synergys-Switch-Ins.txt", "a") as outfile:
-#    outfile.truncate(0)
-#    outfile.write(json.dumps(synergyRatings_switch_ins))
-#    
-#with open("./Uber_Main_Teams_Of_2_Synergys-Weather.txt", "a") as outfile:
-#    outfile.truncate(0)
-#    outfile.write(json.dumps(synergyRatings_weather))

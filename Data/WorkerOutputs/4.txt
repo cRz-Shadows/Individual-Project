@@ -1,0 +1,2603 @@
+[[[[[
+0 vs 4
+|t:|1679572543
+|gametype|singles
+|player|p1|Bot 1||
+|player|p2|Bot 2||
+|teamsize|p1|2
+|teamsize|p2|2
+|gen|8
+|tier|[Gen 8] Custom Game
+|clearpoke
+|poke|p1|Calyrex-Ice|
+|poke|p1|Calyrex-Shadow|
+|poke|p2|Calyrex-Ice|
+|poke|p2|Cinderace, M|
+|teampreview
+|
+|t:|1679572544
+|start
+|switch|p1a: Calyrex|Calyrex-Shadow|341/341
+|switch|p2a: Calyrex|Calyrex-Ice|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|turn|1
+|
+|t:|1679572544
+|move|p1a: Calyrex|Astral Barrage|p2a: Calyrex
+|-supereffective|p2a: Calyrex
+|-damage|p2a: Calyrex|0 fnt
+|faint|p2a: Calyrex
+|-ability|p1a: Calyrex|Grim Neigh|boost
+|-boost|p1a: Calyrex|spa|1
+|
+|upkeep
+|
+|t:|1679572544
+|switch|p2a: Cinderace|Cinderace, M|321/321
+|turn|2
+|
+|t:|1679572544
+|move|p1a: Calyrex|Astral Barrage|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|win|Bot 1
+]]]]]
+[[[[[
+0 vs 54
+|t:|1679572546
+|gametype|singles
+|player|p1|Bot 1||
+|player|p2|Bot 2||
+|teamsize|p1|2
+|teamsize|p2|2
+|gen|8
+|tier|[Gen 8] Custom Game
+|clearpoke
+|poke|p1|Calyrex-Ice|
+|poke|p1|Calyrex-Shadow|
+|poke|p2|Calyrex-Ice|
+|poke|p2|Spectrier|
+|teampreview
+|
+|t:|1679572547
+|start
+|switch|p1a: Calyrex|Calyrex-Ice|341/341
+|switch|p2a: Spectrier|Spectrier|363/363
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|turn|1
+|
+|t:|1679572547
+|switch|p1a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|-start|p2a: Spectrier|Dynamax|
+|-heal|p2a: Spectrier|726/726|[silent]
+|move|p2a: Spectrier|Max Phantasm|p1a: Calyrex
+|-supereffective|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|faint|p1a: Calyrex
+|-ability|p2a: Spectrier|Grim Neigh|boost
+|-boost|p2a: Spectrier|spa|1
+|
+|upkeep
+|
+|t:|1679572547
+|switch|p1a: Calyrex|Calyrex-Ice|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|turn|2
+|
+|t:|1679572547
+|move|p2a: Spectrier|Max Phantasm|p1a: Calyrex
+|-supereffective|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|faint|p1a: Calyrex
+|
+|win|Bot 2
+]]]]]
+[[[[[
+0 vs 104
+|t:|1679572549
+|gametype|singles
+|player|p1|Bot 1||
+|player|p2|Bot 2||
+|teamsize|p1|2
+|teamsize|p2|2
+|gen|8
+|tier|[Gen 8] Custom Game
+|clearpoke
+|poke|p1|Calyrex-Ice|
+|poke|p1|Calyrex-Shadow|
+|poke|p2|Calyrex-Ice|
+|poke|p2|Landorus, M|
+|teampreview
+|
+|t:|1679572550
+|start
+|switch|p1a: Calyrex|Calyrex-Ice|341/341
+|switch|p2a: Calyrex|Calyrex-Ice|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|turn|1
+|
+|t:|1679572550
+|switch|p1a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|move|p2a: Calyrex|High Horsepower|p1a: Calyrex
+|-damage|p1a: Calyrex|64/341
+|
+|upkeep
+|turn|2
+|
+|t:|1679572550
+|switch|p1a: Calyrex|Calyrex-Ice|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|move|p2a: Calyrex|High Horsepower|p1a: Calyrex
+|-damage|p1a: Calyrex|191/341
+|
+|-heal|p1a: Calyrex|212/341|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1679572550
+|move|p1a: Calyrex|Glacial Lance|p2a: Calyrex
+|-resisted|p2a: Calyrex
+|-damage|p2a: Calyrex|250/341
+|move|p2a: Calyrex|High Horsepower|p1a: Calyrex
+|-damage|p1a: Calyrex|57/341
+|
+|-heal|p1a: Calyrex|78/341|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1679572550
+|move|p1a: Calyrex|Glacial Lance|p2a: Calyrex
+|-resisted|p2a: Calyrex
+|-damage|p2a: Calyrex|159/341
+|move|p2a: Calyrex|High Horsepower|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|faint|p1a: Calyrex
+|-ability|p2a: Calyrex|Chilling Neigh|boost
+|-boost|p2a: Calyrex|atk|1
+|
+|upkeep
+|
+|t:|1679572550
+|switch|p1a: Calyrex|Calyrex-Shadow|64/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|turn|5
+|
+|t:|1679572550
+|move|p1a: Calyrex|Astral Barrage|p2a: Calyrex
+|-supereffective|p2a: Calyrex
+|-damage|p2a: Calyrex|0 fnt
+|faint|p2a: Calyrex
+|-ability|p1a: Calyrex|Grim Neigh|boost
+|-boost|p1a: Calyrex|spa|1
+|
+|upkeep
+|
+|t:|1679572550
+|switch|p2a: Landorus|Landorus, M|319/319
+|turn|6
+|
+|t:|1679572550
+|-start|p2a: Landorus|Dynamax|
+|-heal|p2a: Landorus|638/638|[silent]
+|move|p1a: Calyrex|Astral Barrage|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|win|Bot 1
+]]]]]
+[[[[[
+0 vs 4
+|t:|1679572581
+|gametype|singles
+|player|p1|Bot 1||
+|player|p2|Bot 2||
+|teamsize|p1|2
+|teamsize|p2|2
+|gen|8
+|tier|[Gen 8] Custom Game
+|clearpoke
+|poke|p1|Calyrex-Ice|
+|poke|p1|Calyrex-Shadow|
+|poke|p2|Calyrex-Ice|
+|poke|p2|Cinderace, M|
+|teampreview
+|
+|t:|1679572581
+|start
+|switch|p1a: Calyrex|Calyrex-Shadow|341/341
+|switch|p2a: Calyrex|Calyrex-Ice|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|turn|1
+|
+|t:|1679572581
+|move|p1a: Calyrex|Astral Barrage|p2a: Calyrex
+|-supereffective|p2a: Calyrex
+|-damage|p2a: Calyrex|0 fnt
+|faint|p2a: Calyrex
+|-ability|p1a: Calyrex|Grim Neigh|boost
+|-boost|p1a: Calyrex|spa|1
+|
+|upkeep
+|
+|t:|1679572581
+|switch|p2a: Cinderace|Cinderace, M|321/321
+|turn|2
+|
+|t:|1679572582
+|-start|p2a: Cinderace|Dynamax|
+|-heal|p2a: Cinderace|642/642|[silent]
+|move|p1a: Calyrex|Astral Barrage|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|win|Bot 1
+]]]]]
+[[[[[
+0 vs 54
+|t:|1679572583
+|gametype|singles
+|player|p1|Bot 1||
+|player|p2|Bot 2||
+|teamsize|p1|2
+|teamsize|p2|2
+|gen|8
+|tier|[Gen 8] Custom Game
+|clearpoke
+|poke|p1|Calyrex-Ice|
+|poke|p1|Calyrex-Shadow|
+|poke|p2|Calyrex-Ice|
+|poke|p2|Spectrier|
+|teampreview
+|
+|t:|1679572584
+|start
+|switch|p1a: Calyrex|Calyrex-Ice|341/341
+|switch|p2a: Spectrier|Spectrier|363/363
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|turn|1
+|
+|t:|1679572584
+|switch|p2a: Calyrex|Calyrex-Ice|341/341
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|move|p1a: Calyrex|Glacial Lance|p2a: Calyrex
+|-resisted|p2a: Calyrex
+|-damage|p2a: Calyrex|245/341
+|
+|-heal|p2a: Calyrex|266/341|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1679572584
+|move|p1a: Calyrex|Glacial Lance|p2a: Calyrex
+|-resisted|p2a: Calyrex
+|-damage|p2a: Calyrex|161/341
+|move|p2a: Calyrex|Glacial Lance|p1a: Calyrex
+|-resisted|p1a: Calyrex
+|-crit|p1a: Calyrex
+|-damage|p1a: Calyrex|203/341
+|
+|-heal|p1a: Calyrex|224/341|[from] item: Leftovers
+|-heal|p2a: Calyrex|182/341|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1679572584
+|switch|p1a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|move|p2a: Calyrex|Glacial Lance|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|faint|p1a: Calyrex
+|-ability|p2a: Calyrex|Chilling Neigh|boost
+|-boost|p2a: Calyrex|atk|1
+|
+|-heal|p2a: Calyrex|203/341|[from] item: Leftovers
+|upkeep
+|
+|t:|1679572584
+|switch|p1a: Calyrex|Calyrex-Ice|224/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|turn|4
+|
+|t:|1679572584
+|switch|p2a: Spectrier|Spectrier|363/363
+|move|p1a: Calyrex|Glacial Lance|p2a: Spectrier
+|-damage|p2a: Spectrier|47/363
+|
+|-heal|p2a: Spectrier|69/363|[from] item: Leftovers
+|-heal|p1a: Calyrex|245/341|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1679572584
+|move|p2a: Spectrier|Hex|p1a: Calyrex
+|-supereffective|p1a: Calyrex
+|-damage|p1a: Calyrex|81/341
+|move|p1a: Calyrex|Glacial Lance|p2a: Spectrier
+|-damage|p2a: Spectrier|0 fnt
+|faint|p2a: Spectrier
+|-ability|p1a: Calyrex|Chilling Neigh|boost
+|-boost|p1a: Calyrex|atk|1
+|
+|-heal|p1a: Calyrex|102/341|[from] item: Leftovers
+|upkeep
+|
+|t:|1679572584
+|switch|p2a: Calyrex|Calyrex-Ice|203/341
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|turn|6
+|
+|t:|1679572584
+|move|p1a: Calyrex|Glacial Lance|p2a: Calyrex
+|-resisted|p2a: Calyrex
+|-damage|p2a: Calyrex|54/341
+|move|p2a: Calyrex|Glacial Lance|p1a: Calyrex
+|-resisted|p1a: Calyrex
+|-damage|p1a: Calyrex|6/341
+|
+|-heal|p2a: Calyrex|75/341|[from] item: Leftovers
+|-heal|p1a: Calyrex|27/341|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1679572584
+|move|p2a: Calyrex|Glacial Lance|p1a: Calyrex
+|-resisted|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|faint|p1a: Calyrex
+|
+|win|Bot 2
+]]]]]
+[[[[[
+0 vs 104
+|t:|1679572586
+|gametype|singles
+|player|p1|Bot 1||
+|player|p2|Bot 2||
+|teamsize|p1|2
+|teamsize|p2|2
+|gen|8
+|tier|[Gen 8] Custom Game
+|clearpoke
+|poke|p1|Calyrex-Ice|
+|poke|p1|Calyrex-Shadow|
+|poke|p2|Calyrex-Ice|
+|poke|p2|Landorus, M|
+|teampreview
+|
+|t:|1679572587
+|start
+|switch|p1a: Calyrex|Calyrex-Ice|341/341
+|switch|p2a: Calyrex|Calyrex-Ice|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|turn|1
+|
+|t:|1679572587
+|move|p1a: Calyrex|Glacial Lance|p2a: Calyrex
+|-resisted|p2a: Calyrex
+|-damage|p2a: Calyrex|243/341
+|move|p2a: Calyrex|High Horsepower|p1a: Calyrex
+|-damage|p1a: Calyrex|181/341
+|
+|-heal|p1a: Calyrex|202/341|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1679572587
+|move|p1a: Calyrex|Glacial Lance|p2a: Calyrex
+|-resisted|p2a: Calyrex
+|-damage|p2a: Calyrex|154/341
+|move|p2a: Calyrex|High Horsepower|p1a: Calyrex
+|-damage|p1a: Calyrex|40/341
+|
+|-heal|p1a: Calyrex|61/341|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1679572587
+|move|p1a: Calyrex|Glacial Lance|p2a: Calyrex
+|-resisted|p2a: Calyrex
+|-damage|p2a: Calyrex|52/341
+|move|p2a: Calyrex|High Horsepower|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|faint|p1a: Calyrex
+|-ability|p2a: Calyrex|Chilling Neigh|boost
+|-boost|p2a: Calyrex|atk|1
+|
+|upkeep
+|
+|t:|1679572587
+|switch|p1a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|turn|4
+|
+|t:|1679572587
+|-start|p1a: Calyrex|Dynamax|
+|-heal|p1a: Calyrex|682/682|[silent]
+|move|p1a: Calyrex|Max Phantasm|p2a: Calyrex
+|-supereffective|p2a: Calyrex
+|-damage|p2a: Calyrex|0 fnt
+|faint|p2a: Calyrex
+|-ability|p1a: Calyrex|Grim Neigh|boost
+|-boost|p1a: Calyrex|spa|1
+|
+|upkeep
+|
+|t:|1679572587
+|switch|p2a: Landorus|Landorus, M|319/319
+|turn|5
+|
+|t:|1679572587
+|-start|p2a: Landorus|Dynamax|
+|-heal|p2a: Landorus|638/638|[silent]
+|move|p1a: Calyrex|Max Phantasm|p2a: Landorus
+|-damage|p2a: Landorus|38/638
+|-unboost|p2a: Landorus|def|1
+|move|p2a: Landorus|Max Darkness|p1a: Calyrex
+|-supereffective|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|faint|p1a: Calyrex
+|-damage|p2a: Landorus|7/638|[from] item: Life Orb
+|
+|win|Bot 2
+]]]]]
+[[[[[
+0 vs 154
+|t:|1679572589
+|gametype|singles
+|player|p1|Bot 1||
+|player|p2|Bot 2||
+|teamsize|p1|2
+|teamsize|p2|2
+|gen|8
+|tier|[Gen 8] Custom Game
+|clearpoke
+|poke|p1|Calyrex-Ice|
+|poke|p1|Calyrex-Shadow|
+|poke|p2|Calyrex-Shadow|
+|poke|p2|Eternatus|
+|teampreview
+|
+|t:|1679572590
+|start
+|switch|p1a: Calyrex|Calyrex-Ice|341/341
+|switch|p2a: Eternatus|Eternatus|422/422
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|-ability|p2a: Eternatus|Pressure
+|turn|1
+|
+|t:|1679572590
+|move|p2a: Eternatus|Flamethrower|p1a: Calyrex
+|-supereffective|p1a: Calyrex
+|-damage|p1a: Calyrex|102/341
+|-damage|p2a: Eternatus|380/422|[from] item: Life Orb
+|move|p1a: Calyrex|Glacial Lance|p2a: Eternatus
+|-supereffective|p2a: Eternatus
+|-damage|p2a: Eternatus|0 fnt
+|faint|p2a: Eternatus
+|-ability|p1a: Calyrex|Chilling Neigh|boost
+|-boost|p1a: Calyrex|atk|1
+|
+|-heal|p1a: Calyrex|123/341|[from] item: Leftovers
+|upkeep
+|
+|t:|1679572590
+|switch|p2a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|turn|2
+|
+|t:|1679572590
+|switch|p1a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|move|p2a: Calyrex|Astral Barrage|p1a: Calyrex
+|-supereffective|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|faint|p1a: Calyrex
+|-ability|p2a: Calyrex|Grim Neigh|boost
+|-boost|p2a: Calyrex|spa|1
+|
+|upkeep
+|
+|t:|1679572590
+|switch|p1a: Calyrex|Calyrex-Ice|123/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|turn|3
+|
+|t:|1679572590
+|-start|p2a: Calyrex|Dynamax|
+|-heal|p2a: Calyrex|682/682|[silent]
+|move|p2a: Calyrex|Max Phantasm|p1a: Calyrex
+|-supereffective|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|faint|p1a: Calyrex
+|
+|win|Bot 2
+]]]]]
+[[[[[
+0 vs 204
+|t:|1679572591
+|gametype|singles
+|player|p1|Bot 1||
+|player|p2|Bot 2||
+|teamsize|p1|2
+|teamsize|p2|2
+|gen|8
+|tier|[Gen 8] Custom Game
+|clearpoke
+|poke|p1|Calyrex-Ice|
+|poke|p1|Calyrex-Shadow|
+|poke|p2|Calyrex-Shadow|
+|poke|p2|Yveltal|
+|teampreview
+|
+|t:|1679572592
+|start
+|switch|p1a: Calyrex|Calyrex-Ice|341/341
+|switch|p2a: Yveltal|Yveltal|393/393
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|-ability|p2a: Yveltal|Dark Aura
+|turn|1
+|
+|t:|1679572592
+|-start|p2a: Yveltal|Dynamax|
+|-heal|p2a: Yveltal|786/786|[silent]
+|move|p2a: Yveltal|Max Darkness|p1a: Calyrex
+|-supereffective|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|faint|p1a: Calyrex
+|-damage|p2a: Yveltal|747/786|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1679572592
+|switch|p1a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|turn|2
+|
+|t:|1679572592
+|-end|p2a: Yveltal|Dynamax
+|-heal|p2a: Yveltal|374/393|[silent]
+|switch|p2a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|move|p1a: Calyrex|Astral Barrage|p2a: Calyrex
+|-supereffective|p2a: Calyrex
+|-damage|p2a: Calyrex|0 fnt
+|faint|p2a: Calyrex
+|-ability|p1a: Calyrex|Grim Neigh|boost
+|-boost|p1a: Calyrex|spa|1
+|
+|upkeep
+|
+|t:|1679572592
+|switch|p2a: Yveltal|Yveltal|374/393
+|-ability|p2a: Yveltal|Dark Aura
+|turn|3
+|
+|t:|1679572592
+|-start|p1a: Calyrex|Dynamax|
+|-heal|p1a: Calyrex|682/682|[silent]
+|move|p2a: Yveltal|Sucker Punch|p1a: Calyrex
+|-supereffective|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|faint|p1a: Calyrex
+|-damage|p2a: Yveltal|335/393|[from] item: Life Orb
+|
+|win|Bot 2
+]]]]]
+[[[[[
+0 vs 254
+|t:|1679572594
+|gametype|singles
+|player|p1|Bot 1||
+|player|p2|Bot 2||
+|teamsize|p1|2
+|teamsize|p2|2
+|gen|8
+|tier|[Gen 8] Custom Game
+|clearpoke
+|poke|p1|Calyrex-Ice|
+|poke|p1|Calyrex-Shadow|
+|poke|p2|Calyrex-Shadow|
+|poke|p2|Necrozma-Dusk-Mane|
+|teampreview
+|
+|t:|1679572594
+|start
+|switch|p1a: Calyrex|Calyrex-Shadow|341/341
+|switch|p2a: Necrozma|Necrozma-Dusk-Mane|355/355
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|turn|1
+|
+|t:|1679572594
+|move|p1a: Calyrex|Astral Barrage|p2a: Necrozma
+|-supereffective|p2a: Necrozma
+|debug|Prism Armor neutralize
+|-damage|p2a: Necrozma|0 fnt
+|faint|p2a: Necrozma
+|-ability|p1a: Calyrex|Grim Neigh|boost
+|-boost|p1a: Calyrex|spa|1
+|
+|upkeep
+|
+|t:|1679572594
+|switch|p2a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|turn|2
+|
+|t:|1679572594
+|switch|p1a: Calyrex|Calyrex-Ice|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|-start|p2a: Calyrex|Dynamax|
+|-heal|p2a: Calyrex|682/682|[silent]
+|move|p2a: Calyrex|Max Phantasm|p1a: Calyrex
+|-supereffective|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|faint|p1a: Calyrex
+|-ability|p2a: Calyrex|Grim Neigh|boost
+|-boost|p2a: Calyrex|spa|1
+|
+|upkeep
+|
+|t:|1679572594
+|switch|p1a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|turn|3
+|
+|t:|1679572595
+|move|p1a: Calyrex|Astral Barrage|p2a: Calyrex
+|-supereffective|p2a: Calyrex
+|-damage|p2a: Calyrex|0 fnt
+|faint|p2a: Calyrex
+|
+|win|Bot 1
+]]]]]
+[[[[[
+0 vs 304
+|t:|1679572596
+|gametype|singles
+|player|p1|Bot 1||
+|player|p2|Bot 2||
+|teamsize|p1|2
+|teamsize|p2|2
+|gen|8
+|tier|[Gen 8] Custom Game
+|clearpoke
+|poke|p1|Calyrex-Ice|
+|poke|p1|Calyrex-Shadow|
+|poke|p2|Calyrex-Shadow|
+|poke|p2|Kyogre|
+|teampreview
+|
+|t:|1679572597
+|start
+|switch|p1a: Calyrex|Calyrex-Shadow|341/341
+|switch|p2a: Kyogre|Kyogre|404/404
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Kyogre
+|turn|1
+|
+|t:|1679572597
+|move|p1a: Calyrex|Astral Barrage|p2a: Kyogre
+|-damage|p2a: Kyogre|127/404
+|move|p2a: Kyogre|Calm Mind|p2a: Kyogre
+|-boost|p2a: Kyogre|spa|1
+|-boost|p2a: Kyogre|spd|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kyogre|152/404|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1679572597
+|switch|p2a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|move|p1a: Calyrex|Astral Barrage|p2a: Calyrex
+|-supereffective|p2a: Calyrex
+|-enditem|p2a: Calyrex|Focus Sash
+|-damage|p2a: Calyrex|1/341
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1679572597
+|switch|p2a: Kyogre|Kyogre|152/404
+|move|p1a: Calyrex|Astral Barrage|p2a: Kyogre
+|-damage|p2a: Kyogre|0 fnt
+|faint|p2a: Kyogre
+|-ability|p1a: Calyrex|Grim Neigh|boost
+|-boost|p1a: Calyrex|spa|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1679572597
+|switch|p2a: Calyrex|Calyrex-Shadow|1/341
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|turn|4
+|
+|t:|1679572597
+|-start|p2a: Calyrex|Dynamax|
+|-heal|p2a: Calyrex|2/682|[silent]
+|move|p1a: Calyrex|Astral Barrage|p2a: Calyrex
+|-supereffective|p2a: Calyrex
+|-damage|p2a: Calyrex|0 fnt
+|faint|p2a: Calyrex
+|
+|win|Bot 1
+]]]]]
+[[[[[
+0 vs 4
+|t:|1679574835
+|gametype|singles
+|player|p1|Bot 1||
+|player|p2|Bot 2||
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Custom Game
+|clearpoke
+|poke|p1|Calyrex-Ice|
+|poke|p1|Calyrex-Shadow|
+|poke|p1|Kyogre|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Xerneas-*|
+|poke|p1|Yveltal|
+|poke|p2|Calyrex-Ice|
+|poke|p2|Calyrex-Shadow|
+|poke|p2|Darmanitan-Galar, F|
+|poke|p2|Palkia|
+|poke|p2|Xerneas-*|
+|poke|p2|Yveltal|
+|teampreview
+|
+|t:|1679574836
+|start
+|switch|p1a: Yveltal|Yveltal|393/393
+|switch|p2a: Xerneas|Xerneas|393/393
+|-ability|p1a: Yveltal|Dark Aura
+|-ability|p2a: Xerneas|Fairy Aura
+|turn|1
+|
+|t:|1679574836
+|-start|p2a: Xerneas|Dynamax|
+|-heal|p2a: Xerneas|786/786|[silent]
+|move|p1a: Yveltal|Dark Pulse|p2a: Xerneas
+|-resisted|p2a: Xerneas
+|-damage|p2a: Xerneas|657/786
+|-damage|p1a: Yveltal|354/393|[from] item: Life Orb
+|move|p2a: Xerneas|Max Starfall|p1a: Yveltal
+|-supereffective|p1a: Yveltal
+|-damage|p1a: Yveltal|0 fnt
+|-fieldstart|move: Misty Terrain
+|faint|p1a: Yveltal
+|
+|upkeep
+|
+|t:|1679574836
+|switch|p1a: Xerneas|Xerneas|393/393
+|-ability|p1a: Xerneas|Fairy Aura
+|turn|2
+|
+|t:|1679574837
+|-end|p2a: Xerneas|Dynamax
+|-heal|p2a: Xerneas|329/393|[silent]
+|switch|p2a: Yveltal|Yveltal|393/393
+|-ability|p2a: Yveltal|Dark Aura
+|move|p1a: Xerneas|Moonblast|p2a: Yveltal
+|-supereffective|p2a: Yveltal
+|-damage|p2a: Yveltal|0 fnt
+|faint|p2a: Yveltal
+|
+|upkeep
+|
+|t:|1679574837
+|switch|p2a: Darmanitan|Darmanitan-Galar, F|351/351
+|turn|3
+|
+|t:|1679574837
+|switch|p1a: Kyogre|Kyogre|341/341
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|move|p2a: Darmanitan|Flare Blitz|p1a: Kyogre
+|debug|Gorilla Tactics Atk Boost
+|debug|rain fire suppress
+|-resisted|p1a: Kyogre
+|-damage|p1a: Kyogre|279/341
+|-damage|p2a: Darmanitan|331/351|[from] Recoil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1679574837
+|switch|p1a: Xerneas|Xerneas|393/393
+|-ability|p1a: Xerneas|Fairy Aura
+|move|p2a: Darmanitan|Flare Blitz|p1a: Xerneas
+|debug|Gorilla Tactics Atk Boost
+|debug|rain fire suppress
+|-damage|p1a: Xerneas|268/393
+|-damage|p2a: Darmanitan|290/351|[from] Recoil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1679574837
+|move|p1a: Xerneas|Moonblast|p2a: Darmanitan
+|-damage|p2a: Darmanitan|0 fnt
+|faint|p2a: Darmanitan
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1679574837
+|switch|p2a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|turn|6
+|
+|t:|1679574837
+|move|p1a: Xerneas|Moonblast|p2a: Calyrex
+|-damage|p2a: Calyrex|112/341
+|-unboost|p2a: Calyrex|spa|1
+|move|p2a: Calyrex|Astral Barrage|p1a: Xerneas
+|-damage|p1a: Xerneas|15/393
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1679574837
+|move|p1a: Xerneas|Moonblast|p2a: Calyrex
+|-damage|p2a: Calyrex|0 fnt
+|faint|p2a: Calyrex
+|
+|-weather|none
+|upkeep
+|
+|t:|1679574837
+|switch|p2a: Calyrex|Calyrex-Ice|341/341
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|turn|8
+|
+|t:|1679574837
+|move|p1a: Xerneas|Moonblast|p2a: Calyrex
+|-damage|p2a: Calyrex|166/341
+|-unboost|p2a: Calyrex|spa|1
+|move|p2a: Calyrex|Glacial Lance|p1a: Xerneas
+|-damage|p1a: Xerneas|0 fnt
+|faint|p1a: Xerneas
+|-ability|p2a: Calyrex|Chilling Neigh|boost
+|-boost|p2a: Calyrex|atk|1
+|
+|upkeep
+|
+|t:|1679574837
+|switch|p1a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|turn|9
+|
+|t:|1679574837
+|switch|p2a: Xerneas|Xerneas|329/393
+|-ability|p2a: Xerneas|Fairy Aura
+|move|p1a: Calyrex|Nasty Plot|p1a: Calyrex
+|-boost|p1a: Calyrex|spa|2
+|
+|upkeep
+|turn|10
+|
+|t:|1679574837
+|move|p1a: Calyrex|Nasty Plot|p1a: Calyrex
+|-boost|p1a: Calyrex|spa|2
+|move|p2a: Xerneas|Moonblast|p1a: Calyrex
+|-damage|p1a: Calyrex|89/341
+|
+|upkeep
+|turn|11
+|
+|t:|1679574837
+|switch|p1a: Calyrex|Calyrex-Ice|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|move|p2a: Xerneas|Moonblast|p1a: Calyrex
+|-crit|p1a: Calyrex
+|-damage|p1a: Calyrex|34/341
+|
+|-heal|p1a: Calyrex|55/341|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1679574837
+|move|p2a: Xerneas|Moonblast|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|faint|p1a: Calyrex
+|
+|upkeep
+|
+|t:|1679574837
+|switch|p1a: Urshifu|Urshifu-Gmax, F|341/341
+|turn|13
+|
+|t:|1679574838
+|move|p1a: Urshifu|Stone Edge|p2a: Xerneas
+|-damage|p2a: Xerneas|175/393
+|move|p2a: Xerneas|Moonblast|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|upkeep
+|
+|t:|1679574838
+|switch|p1a: Kyogre|Kyogre|279/341
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|turn|14
+|
+|t:|1679574838
+|switch|p2a: Palkia|Palkia|321/321
+|-ability|p2a: Palkia|Pressure
+|move|p1a: Kyogre|Water Spout|p2a: Palkia
+|debug|BP: 122.72727272727273
+|debug|rain water boost
+|-resisted|p2a: Palkia
+|-damage|p2a: Palkia|194/321
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1679574838
+|move|p2a: Palkia|Thunder|p1a: Kyogre
+|-supereffective|p1a: Kyogre
+|-damage|p1a: Kyogre|79/341
+|move|p1a: Kyogre|Water Spout|p2a: Palkia
+|debug|BP: 34.75073313782991
+|debug|rain water boost
+|-resisted|p2a: Palkia
+|-damage|p2a: Palkia|160/321
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1679574838
+|switch|p1a: Calyrex|Calyrex-Shadow|89/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|move|p2a: Palkia|Thunder|p1a: Calyrex
+|-crit|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|faint|p1a: Calyrex
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1679574838
+|switch|p1a: Kyogre|Kyogre|79/341
+|turn|17
+|
+|t:|1679574838
+|move|p2a: Palkia|Thunder|p1a: Kyogre
+|-supereffective|p1a: Kyogre
+|-damage|p1a: Kyogre|0 fnt
+|faint|p1a: Kyogre
+|
+|win|Bot 2
+]]]]]
+[[[[[
+0 vs 54
+|t:|1679574840
+|gametype|singles
+|player|p1|Bot 1||
+|player|p2|Bot 2||
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Custom Game
+|clearpoke
+|poke|p1|Calyrex-Ice|
+|poke|p1|Calyrex-Shadow|
+|poke|p1|Kyogre|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Xerneas-*|
+|poke|p1|Yveltal|
+|poke|p2|Calyrex-Ice|
+|poke|p2|Calyrex-Shadow|
+|poke|p2|Giratina-Origin|
+|poke|p2|Kyurem-White|
+|poke|p2|Xerneas-*|
+|poke|p2|Yveltal|
+|teampreview
+|
+|t:|1679574841
+|start
+|switch|p1a: Yveltal|Yveltal|393/393
+|switch|p2a: Giratina|Giratina-Origin|485/485
+|-ability|p1a: Yveltal|Dark Aura
+|turn|1
+|
+|t:|1679574841
+|-start|p1a: Yveltal|Dynamax|
+|-heal|p1a: Yveltal|786/786|[silent]
+|-start|p2a: Giratina|Dynamax|
+|-heal|p2a: Giratina|970/970|[silent]
+|move|p1a: Yveltal|Max Darkness|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|229/970
+|-unboost|p2a: Giratina|spd|1
+|-damage|p1a: Yveltal|747/786|[from] item: Life Orb
+|move|p2a: Giratina|Max Rockfall|p1a: Yveltal
+|-supereffective|p1a: Yveltal
+|-damage|p1a: Yveltal|401/786
+|-weather|Sandstorm
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Yveltal|377/786|[from] Sandstorm
+|-damage|p2a: Giratina|199/970|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1679574841
+|move|p1a: Yveltal|Max Darkness|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|0 fnt
+|faint|p2a: Giratina
+|-damage|p1a: Yveltal|338/786|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Yveltal|314/786|[from] Sandstorm
+|upkeep
+|
+|t:|1679574841
+|switch|p2a: Xerneas|Xerneas|393/393
+|-ability|p2a: Xerneas|Fairy Aura
+|turn|3
+|
+|t:|1679574841
+|move|p1a: Yveltal|Max Darkness|p2a: Xerneas
+|-resisted|p2a: Xerneas
+|-damage|p2a: Xerneas|175/393
+|-unboost|p2a: Xerneas|spd|1
+|-damage|p1a: Yveltal|275/786|[from] item: Life Orb
+|move|p2a: Xerneas|Geomancy||[still]
+|-prepare|p2a: Xerneas|Geomancy
+|-enditem|p2a: Xerneas|Power Herb
+|debug|power herb - remove charge turn for geomancy
+|-anim|p2a: Xerneas|Geomancy|p2a: Xerneas
+|-boost|p2a: Xerneas|spa|2
+|-boost|p2a: Xerneas|spd|2
+|-boost|p2a: Xerneas|spe|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Xerneas|151/393|[from] Sandstorm
+|-damage|p1a: Yveltal|251/786|[from] Sandstorm
+|upkeep
+|-end|p1a: Yveltal|Dynamax
+|-heal|p1a: Yveltal|126/393|[silent]
+|turn|4
+|
+|t:|1679574841
+|switch|p2a: Kyurem|Kyurem-White|391/391
+|-ability|p2a: Kyurem|Turboblaze
+|switch|p1a: Xerneas|Xerneas|393/393
+|-ability|p1a: Xerneas|Fairy Aura
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Xerneas|369/393|[from] Sandstorm
+|-damage|p2a: Kyurem|367/391|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1679574841
+|move|p1a: Xerneas|Moonblast|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|-weather|none
+|upkeep
+|
+|t:|1679574842
+|switch|p2a: Yveltal|Yveltal|393/393
+|-ability|p2a: Yveltal|Dark Aura
+|turn|6
+|
+|t:|1679574842
+|move|p1a: Xerneas|Moonblast|p2a: Yveltal
+|-supereffective|p2a: Yveltal
+|-damage|p2a: Yveltal|0 fnt
+|faint|p2a: Yveltal
+|
+|upkeep
+|
+|t:|1679574842
+|switch|p2a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|turn|7
+|
+|t:|1679574842
+|move|p1a: Xerneas|Moonblast|p2a: Calyrex
+|-damage|p2a: Calyrex|110/341
+|move|p2a: Calyrex|Astral Barrage|p1a: Xerneas
+|-damage|p1a: Xerneas|138/393
+|
+|-heal|p2a: Calyrex|131/341|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1679574842
+|switch|p1a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|switch|p2a: Calyrex|Calyrex-Ice|341/341
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|
+|upkeep
+|turn|9
+|
+|t:|1679574842
+|switch|p2a: Xerneas|Xerneas|151/393
+|-ability|p2a: Xerneas|Fairy Aura
+|move|p1a: Calyrex|Nasty Plot|p1a: Calyrex
+|-boost|p1a: Calyrex|spa|2
+|
+|upkeep
+|turn|10
+|
+|t:|1679574842
+|switch|p2a: Calyrex|Calyrex-Ice|341/341
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|move|p1a: Calyrex|Nasty Plot|p1a: Calyrex
+|-boost|p1a: Calyrex|spa|2
+|
+|upkeep
+|turn|11
+|
+|t:|1679574842
+|move|p1a: Calyrex|Nasty Plot|p1a: Calyrex
+|-boost|p1a: Calyrex|spa|2
+|move|p2a: Calyrex|Glacial Lance|p1a: Calyrex
+|-enditem|p1a: Calyrex|Focus Sash
+|-damage|p1a: Calyrex|1/341
+|
+|upkeep
+|turn|12
+|
+|t:|1679574842
+|switch|p1a: Kyogre|Kyogre|341/341
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|move|p2a: Calyrex|Glacial Lance|p1a: Kyogre
+|-resisted|p1a: Kyogre
+|-damage|p1a: Kyogre|114/341
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1679574842
+|switch|p2a: Xerneas|Xerneas|151/393
+|-ability|p2a: Xerneas|Fairy Aura
+|move|p1a: Kyogre|Water Spout|p2a: Xerneas
+|debug|BP: 50.146627565982406
+|debug|rain water boost
+|-damage|p2a: Xerneas|0 fnt
+|faint|p2a: Xerneas
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1679574842
+|switch|p2a: Calyrex|Calyrex-Ice|341/341
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|turn|14
+|
+|t:|1679574842
+|switch|p2a: Calyrex|Calyrex-Shadow|131/341
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|move|p1a: Kyogre|Water Spout|p2a: Calyrex
+|debug|BP: 50.146627565982406
+|debug|rain water boost
+|-damage|p2a: Calyrex|0 fnt
+|faint|p2a: Calyrex
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1679574842
+|switch|p2a: Calyrex|Calyrex-Ice|341/341
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|turn|15
+|
+|t:|1679574842
+|move|p1a: Kyogre|Water Spout|p2a: Calyrex
+|debug|BP: 50.146627565982406
+|debug|rain water boost
+|-damage|p2a: Calyrex|148/341
+|move|p2a: Calyrex|High Horsepower|p1a: Kyogre
+|-damage|p1a: Kyogre|0 fnt
+|faint|p1a: Kyogre
+|-ability|p2a: Calyrex|Chilling Neigh|boost
+|-boost|p2a: Calyrex|atk|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1679574842
+|switch|p1a: Calyrex|Calyrex-Ice|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|turn|16
+|
+|t:|1679574842
+|switch|p1a: Urshifu|Urshifu-Gmax, F|341/341
+|move|p2a: Calyrex|High Horsepower|p1a: Urshifu
+|-damage|p1a: Urshifu|35/341
+|
+|-weather|none
+|upkeep
+|turn|17
+|
+|t:|1679574842
+|move|p1a: Urshifu|Stone Edge|p2a: Calyrex
+|-supereffective|p2a: Calyrex
+|-damage|p2a: Calyrex|0 fnt
+|faint|p2a: Calyrex
+|
+|win|Bot 1
+]]]]]
+[[[[[
+0 vs 4
+|t:|1679574933
+|gametype|singles
+|player|p1|Bot 1||
+|player|p2|Bot 2||
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Custom Game
+|clearpoke
+|poke|p1|Calyrex-Shadow|
+|poke|p1|Eternatus|
+|poke|p1|Kyogre|
+|poke|p1|Necrozma-Dusk-Mane|
+|poke|p1|Xerneas-*|
+|poke|p1|Yveltal|
+|poke|p2|Calyrex-Shadow|
+|poke|p2|Eternatus|
+|poke|p2|Kyogre|
+|poke|p2|Necrozma-Dusk-Mane|
+|poke|p2|Xerneas-*|
+|poke|p2|Yveltal|
+|teampreview
+|
+|t:|1679574934
+|start
+|switch|p1a: Eternatus|Eternatus|462/462
+|switch|p2a: Eternatus|Eternatus|462/462
+|-ability|p2a: Eternatus|Pressure
+|-ability|p1a: Eternatus|Pressure
+|turn|1
+|
+|t:|1679574934
+|move|p2a: Eternatus|Dynamax Cannon|p1a: Eternatus
+|-supereffective|p1a: Eternatus
+|-damage|p1a: Eternatus|174/462
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Eternatus
+|-supereffective|p2a: Eternatus
+|-damage|p2a: Eternatus|216/462
+|
+|upkeep
+|turn|2
+|
+|t:|1679574935
+|move|p2a: Eternatus|Dynamax Cannon|p1a: Eternatus
+|-supereffective|p1a: Eternatus
+|-damage|p1a: Eternatus|0 fnt
+|faint|p1a: Eternatus
+|
+|upkeep
+|
+|t:|1679574935
+|switch|p1a: Kyogre|Kyogre|404/404
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|turn|3
+|
+|t:|1679574935
+|move|p2a: Eternatus|Dynamax Cannon|p1a: Kyogre
+|-crit|p1a: Kyogre
+|-damage|p1a: Kyogre|236/404
+|move|p1a: Kyogre|Calm Mind|p1a: Kyogre
+|-boost|p1a: Kyogre|spa|1
+|-boost|p1a: Kyogre|spd|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|261/404|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1679574935
+|switch|p2a: Kyogre|Kyogre|404/404
+|move|p1a: Kyogre|Ice Beam|p2a: Kyogre
+|-resisted|p2a: Kyogre
+|-damage|p2a: Kyogre|347/404
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|286/404|[from] item: Leftovers
+|-heal|p2a: Kyogre|372/404|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1679574935
+|switch|p2a: Xerneas|Xerneas|393/393
+|-ability|p2a: Xerneas|Fairy Aura
+|move|p1a: Kyogre|Ice Beam|p2a: Xerneas
+|-damage|p2a: Xerneas|231/393
+|-status|p2a: Xerneas|frz
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|311/404|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1679574935
+|cant|p2a: Xerneas|frz
+|move|p1a: Kyogre|Scald|p2a: Xerneas
+|debug|rain water boost
+|-damage|p2a: Xerneas|0 fnt
+|faint|p2a: Xerneas
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|336/404|[from] item: Leftovers
+|upkeep
+|
+|t:|1679574935
+|switch|p2a: Yveltal|Yveltal|393/393
+|-ability|p2a: Yveltal|Dark Aura
+|turn|7
+|
+|t:|1679574935
+|switch|p2a: Kyogre|Kyogre|372/404
+|move|p1a: Kyogre|Ice Beam|p2a: Kyogre
+|-resisted|p2a: Kyogre
+|-damage|p2a: Kyogre|315/404
+|
+|-weather|none
+|-heal|p2a: Kyogre|340/404|[from] item: Leftovers
+|-heal|p1a: Kyogre|361/404|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1679574935
+|switch|p1a: Xerneas|Xerneas|393/393
+|-ability|p1a: Xerneas|Fairy Aura
+|move|p2a: Kyogre|Ice Beam|p1a: Xerneas
+|-damage|p1a: Xerneas|297/393
+|
+|-heal|p2a: Kyogre|365/404|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1679574935
+|move|p1a: Xerneas|Thunder|p2a: Kyogre|[miss]
+|-miss|p1a: Xerneas|p2a: Kyogre
+|move|p2a: Kyogre|Ice Beam|p1a: Xerneas
+|-damage|p1a: Xerneas|193/393
+|
+|-heal|p2a: Kyogre|390/404|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1679574935
+|move|p1a: Xerneas|Thunder|p2a: Kyogre|[miss]
+|-miss|p1a: Xerneas|p2a: Kyogre
+|move|p2a: Kyogre|Ice Beam|p1a: Xerneas
+|-damage|p1a: Xerneas|85/393
+|
+|-heal|p2a: Kyogre|404/404|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1679574935
+|switch|p1a: Yveltal|Yveltal|393/393
+|-ability|p1a: Yveltal|Dark Aura
+|move|p2a: Kyogre|Calm Mind|p2a: Kyogre
+|-boost|p2a: Kyogre|spa|1
+|-boost|p2a: Kyogre|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1679574936
+|switch|p2a: Yveltal|Yveltal|393/393
+|-ability|p2a: Yveltal|Dark Aura
+|move|p1a: Yveltal|Sucker Punch||[still]
+|-fail|p1a: Yveltal
+|
+|upkeep
+|turn|13
+|
+|t:|1679574936
+|switch|p1a: Kyogre|Kyogre|361/404
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|move|p2a: Yveltal|Acrobatics|p1a: Kyogre
+|-damage|p1a: Kyogre|244/404
+|-damage|p2a: Yveltal|354/393|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|269/404|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1679574936
+|switch|p2a: Kyogre|Kyogre|404/404
+|move|p1a: Kyogre|Ice Beam|p2a: Kyogre
+|-resisted|p2a: Kyogre
+|-damage|p2a: Kyogre|367/404
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kyogre|392/404|[from] item: Leftovers
+|-heal|p1a: Kyogre|294/404|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1679574936
+|move|p1a: Kyogre|Ice Beam|p2a: Kyogre
+|-resisted|p2a: Kyogre
+|-damage|p2a: Kyogre|356/404
+|move|p2a: Kyogre|Ice Beam|p1a: Kyogre
+|-resisted|p1a: Kyogre
+|-damage|p1a: Kyogre|257/404
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|282/404|[from] item: Leftovers
+|-heal|p2a: Kyogre|381/404|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1679574936
+|move|p2a: Kyogre|Ice Beam|p1a: Kyogre
+|-resisted|p1a: Kyogre
+|-damage|p1a: Kyogre|245/404
+|move|p1a: Kyogre|Ice Beam|p2a: Kyogre
+|-resisted|p2a: Kyogre
+|-damage|p2a: Kyogre|342/404
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|270/404|[from] item: Leftovers
+|-heal|p2a: Kyogre|367/404|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1679574936
+|move|p1a: Kyogre|Ice Beam|p2a: Kyogre
+|-resisted|p2a: Kyogre
+|-crit|p2a: Kyogre
+|-damage|p2a: Kyogre|310/404
+|move|p2a: Kyogre|Ice Beam|p1a: Kyogre
+|-resisted|p1a: Kyogre
+|-damage|p1a: Kyogre|232/404
+|-status|p1a: Kyogre|frz
+|
+|-weather|none
+|-heal|p1a: Kyogre|257/404 frz|[from] item: Leftovers
+|-heal|p2a: Kyogre|335/404|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1679574936
+|cant|p1a: Kyogre|frz
+|move|p2a: Kyogre|Scald|p1a: Kyogre
+|-resisted|p1a: Kyogre
+|-damage|p1a: Kyogre|203/404 frz
+|-curestatus|p1a: Kyogre|frz|[msg]
+|
+|-heal|p2a: Kyogre|360/404|[from] item: Leftovers
+|-heal|p1a: Kyogre|228/404|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1679574936
+|move|p2a: Kyogre|Ice Beam|p1a: Kyogre
+|-resisted|p1a: Kyogre
+|-damage|p1a: Kyogre|194/404
+|move|p1a: Kyogre|Ice Beam|p2a: Kyogre
+|-resisted|p2a: Kyogre
+|-damage|p2a: Kyogre|326/404
+|
+|-heal|p1a: Kyogre|219/404|[from] item: Leftovers
+|-heal|p2a: Kyogre|351/404|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1679574936
+|move|p2a: Kyogre|Ice Beam|p1a: Kyogre
+|-resisted|p1a: Kyogre
+|-damage|p1a: Kyogre|185/404
+|move|p1a: Kyogre|Ice Beam|p2a: Kyogre
+|-resisted|p2a: Kyogre
+|-damage|p2a: Kyogre|314/404
+|
+|-heal|p2a: Kyogre|339/404|[from] item: Leftovers
+|-heal|p1a: Kyogre|210/404|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1679574936
+|switch|p2a: Necrozma|Necrozma-Dusk-Mane|355/355
+|move|p1a: Kyogre|Ice Beam|p2a: Necrozma
+|-resisted|p2a: Necrozma
+|-damage|p2a: Necrozma|307/355
+|
+|-heal|p1a: Kyogre|235/404|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1679574936
+|move|p2a: Necrozma|Earthquake|p1a: Kyogre
+|-damage|p1a: Kyogre|121/404
+|move|p1a: Kyogre|Ice Beam|p2a: Necrozma
+|-resisted|p2a: Necrozma
+|-damage|p2a: Necrozma|258/355
+|
+|-heal|p1a: Kyogre|146/404|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1679574936
+|switch|p1a: Yveltal|Yveltal|393/393
+|-ability|p1a: Yveltal|Dark Aura
+|move|p2a: Necrozma|Earthquake|p1a: Yveltal
+|-immune|p1a: Yveltal
+|
+|upkeep
+|turn|24
+|
+|t:|1679574936
+|move|p1a: Yveltal|Hone Claws|p1a: Yveltal
+|-boost|p1a: Yveltal|atk|1
+|-boost|p1a: Yveltal|accuracy|1
+|move|p2a: Necrozma|Stone Edge|p1a: Yveltal
+|-supereffective|p1a: Yveltal
+|-damage|p1a: Yveltal|99/393
+|
+|upkeep
+|turn|25
+|
+|t:|1679574936
+|switch|p1a: Necrozma|Necrozma-Dusk-Mane|355/355
+|move|p2a: Necrozma|Stone Edge|p1a: Necrozma
+|-resisted|p1a: Necrozma
+|-damage|p1a: Necrozma|292/355
+|
+|upkeep
+|turn|26
+|
+|t:|1679574936
+|switch|p2a: Yveltal|Yveltal|354/393
+|-ability|p2a: Yveltal|Dark Aura
+|move|p1a: Necrozma|Earthquake|p2a: Yveltal
+|-immune|p2a: Yveltal
+|
+|upkeep
+|turn|27
+|
+|t:|1679574936
+|switch|p1a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|move|p2a: Yveltal|Sucker Punch||[still]
+|-fail|p2a: Yveltal
+|
+|upkeep
+|turn|28
+|
+|t:|1679574936
+|switch|p1a: Necrozma|Necrozma-Dusk-Mane|292/355
+|move|p2a: Yveltal|Sucker Punch||[still]
+|-fail|p2a: Yveltal
+|
+|upkeep
+|turn|29
+|
+|t:|1679574936
+|move|p2a: Yveltal|Sucker Punch|p1a: Necrozma
+|-supereffective|p1a: Necrozma
+|debug|Prism Armor neutralize
+|-damage|p1a: Necrozma|0 fnt
+|faint|p1a: Necrozma
+|-damage|p2a: Yveltal|315/393|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1679574936
+|switch|p1a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|turn|30
+|
+|t:|1679574936
+|move|p2a: Yveltal|Sucker Punch|p1a: Calyrex
+|-supereffective|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|faint|p1a: Calyrex
+|-damage|p2a: Yveltal|276/393|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1679574936
+|switch|p1a: Kyogre|Kyogre|146/404
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|turn|31
+|
+|t:|1679574936
+|switch|p2a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|switch|p1a: Yveltal|Yveltal|99/393
+|-ability|p1a: Yveltal|Dark Aura
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|32
+|
+|t:|1679574936
+|move|p2a: Calyrex|Astral Barrage|p1a: Yveltal
+|-resisted|p1a: Yveltal
+|-damage|p1a: Yveltal|0 fnt
+|faint|p1a: Yveltal
+|-ability|p2a: Calyrex|Grim Neigh|boost
+|-boost|p2a: Calyrex|spa|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1679574936
+|switch|p1a: Kyogre|Kyogre|146/404
+|turn|33
+|
+|t:|1679574936
+|move|p2a: Calyrex|Astral Barrage|p1a: Kyogre
+|-damage|p1a: Kyogre|0 fnt
+|faint|p1a: Kyogre
+|-ability|p2a: Calyrex|Grim Neigh|boost
+|-boost|p2a: Calyrex|spa|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1679574936
+|switch|p1a: Xerneas|Xerneas|85/393
+|-ability|p1a: Xerneas|Fairy Aura
+|turn|34
+|
+|t:|1679574937
+|switch|p2a: Kyogre|Kyogre|339/404
+|move|p1a: Xerneas|Moonblast|p2a: Kyogre
+|-damage|p2a: Kyogre|170/404
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kyogre|195/404|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1679574937
+|switch|p2a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|move|p1a: Xerneas|Moonblast|p2a: Calyrex
+|-damage|p2a: Calyrex|86/341
+|-unboost|p2a: Calyrex|spa|1
+|
+|-weather|none
+|upkeep
+|turn|36
+|
+|t:|1679574937
+|move|p2a: Calyrex|Astral Barrage|p1a: Xerneas
+|-damage|p1a: Xerneas|0 fnt
+|faint|p1a: Xerneas
+|
+|win|Bot 2
+]]]]]
+[[[[[
+0 vs 4
+|t:|1679574973
+|gametype|singles
+|player|p1|Bot 1||
+|player|p2|Bot 2||
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Custom Game
+|clearpoke
+|poke|p1|Calyrex-Shadow|
+|poke|p1|Eternatus|
+|poke|p1|Kyogre|
+|poke|p1|Necrozma-Dusk-Mane|
+|poke|p1|Xerneas-*|
+|poke|p1|Yveltal|
+|poke|p2|Calyrex-Shadow|
+|poke|p2|Eternatus|
+|poke|p2|Kyogre|
+|poke|p2|Necrozma-Dusk-Mane|
+|poke|p2|Xerneas-*|
+|poke|p2|Yveltal|
+|teampreview
+|
+|t:|1679574974
+|start
+|switch|p1a: Eternatus|Eternatus|462/462
+|switch|p2a: Eternatus|Eternatus|462/462
+|-ability|p2a: Eternatus|Pressure
+|-ability|p1a: Eternatus|Pressure
+|turn|1
+|
+|t:|1679574974
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Eternatus
+|-supereffective|p2a: Eternatus
+|-damage|p2a: Eternatus|216/462
+|move|p2a: Eternatus|Dynamax Cannon|p1a: Eternatus
+|-supereffective|p1a: Eternatus
+|-damage|p1a: Eternatus|204/462
+|
+|upkeep
+|turn|2
+|
+|t:|1679574974
+|switch|p1a: Kyogre|Kyogre|404/404
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|move|p2a: Eternatus|Dynamax Cannon|p1a: Kyogre
+|-damage|p1a: Kyogre|293/404
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|318/404|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1679574974
+|move|p2a: Eternatus|Dynamax Cannon|p1a: Kyogre
+|-damage|p1a: Kyogre|198/404
+|move|p1a: Kyogre|Ice Beam|p2a: Eternatus
+|-supereffective|p2a: Eternatus
+|-damage|p2a: Eternatus|56/462
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|223/404|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1679574974
+|switch|p1a: Yveltal|Yveltal|393/393
+|-ability|p1a: Yveltal|Dark Aura
+|move|p2a: Eternatus|Recover|p2a: Eternatus
+|-heal|p2a: Eternatus|287/462
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1679574975
+|move|p2a: Eternatus|Dynamax Cannon|p1a: Yveltal
+|-damage|p1a: Yveltal|227/393
+|move|p1a: Yveltal|Hone Claws|p1a: Yveltal
+|-boost|p1a: Yveltal|atk|1
+|-boost|p1a: Yveltal|accuracy|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1679574975
+|switch|p1a: Xerneas|Xerneas|393/393
+|-ability|p1a: Xerneas|Fairy Aura
+|move|p2a: Eternatus|Dynamax Cannon|p1a: Xerneas
+|-immune|p1a: Xerneas
+|
+|-weather|none
+|upkeep
+|turn|7
+|
+|t:|1679574975
+|switch|p1a: Necrozma|Necrozma-Dusk-Mane|355/355
+|move|p2a: Eternatus|Mystical Fire|p1a: Necrozma
+|-supereffective|p1a: Necrozma
+|debug|Prism Armor neutralize
+|-damage|p1a: Necrozma|244/355
+|-unboost|p1a: Necrozma|spa|1
+|-enditem|p1a: Necrozma|Weakness Policy
+|-boost|p1a: Necrozma|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Necrozma|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|8
+|
+|t:|1679574975
+|move|p2a: Eternatus|Mystical Fire|p1a: Necrozma
+|-supereffective|p1a: Necrozma
+|debug|Prism Armor neutralize
+|-damage|p1a: Necrozma|138/355
+|-unboost|p1a: Necrozma|spa|1
+|move|p1a: Necrozma|Earthquake|p2a: Eternatus
+|-supereffective|p2a: Eternatus
+|-damage|p2a: Eternatus|0 fnt
+|faint|p2a: Eternatus
+|
+|upkeep
+|
+|t:|1679574975
+|switch|p2a: Kyogre|Kyogre|404/404
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Kyogre
+|turn|9
+|
+|t:|1679574975
+|switch|p2a: Yveltal|Yveltal|393/393
+|-ability|p2a: Yveltal|Dark Aura
+|move|p1a: Necrozma|Earthquake|p2a: Yveltal
+|-immune|p2a: Yveltal
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1679574975
+|switch|p2a: Kyogre|Kyogre|404/404
+|move|p1a: Necrozma|Earthquake|p2a: Kyogre
+|-damage|p2a: Kyogre|169/404
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kyogre|194/404|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1679574975
+|switch|p2a: Yveltal|Yveltal|393/393
+|-ability|p2a: Yveltal|Dark Aura
+|move|p1a: Necrozma|Stone Edge|p2a: Yveltal
+|-supereffective|p2a: Yveltal
+|-damage|p2a: Yveltal|0 fnt
+|faint|p2a: Yveltal
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1679574975
+|switch|p2a: Xerneas|Xerneas|393/393
+|-ability|p2a: Xerneas|Fairy Aura
+|turn|12
+|
+|t:|1679574975
+|move|p2a: Xerneas|Thunder|p1a: Necrozma
+|-damage|p1a: Necrozma|23/355
+|move|p1a: Necrozma|Stone Edge|p2a: Xerneas
+|-damage|p2a: Xerneas|66/393
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1679574975
+|move|p2a: Xerneas|Thunder|p1a: Necrozma
+|-damage|p1a: Necrozma|0 fnt
+|debug|move failed because it did nothing
+|faint|p1a: Necrozma
+|
+|-weather|none
+|upkeep
+|
+|t:|1679574975
+|switch|p1a: Xerneas|Xerneas|393/393
+|-ability|p1a: Xerneas|Fairy Aura
+|turn|14
+|
+|t:|1679574976
+|move|p2a: Xerneas|Thunder|p1a: Xerneas|[miss]
+|-miss|p2a: Xerneas|p1a: Xerneas
+|move|p1a: Xerneas|Geomancy||[still]
+|-prepare|p1a: Xerneas|Geomancy
+|-enditem|p1a: Xerneas|Power Herb
+|debug|power herb - remove charge turn for geomancy
+|-anim|p1a: Xerneas|Geomancy|p1a: Xerneas
+|-boost|p1a: Xerneas|spa|2
+|-boost|p1a: Xerneas|spd|2
+|-boost|p1a: Xerneas|spe|2
+|
+|upkeep
+|turn|15
+|
+|t:|1679574976
+|move|p1a: Xerneas|Geomancy||[still]
+|-prepare|p1a: Xerneas|Geomancy
+|move|p2a: Xerneas|Thunder|p1a: Xerneas
+|-damage|p1a: Xerneas|329/393
+|
+|upkeep
+|turn|16
+|
+|t:|1679574976
+|move|p1a: Xerneas|Geomancy|p1a: Xerneas|[from]lockedmove
+|-boost|p1a: Xerneas|spa|2
+|-boost|p1a: Xerneas|spd|2
+|-boost|p1a: Xerneas|spe|2
+|move|p2a: Xerneas|Thunder|p1a: Xerneas
+|-damage|p1a: Xerneas|283/393
+|-status|p1a: Xerneas|par
+|
+|upkeep
+|turn|17
+|
+|t:|1679574976
+|move|p2a: Xerneas|Thunder|p1a: Xerneas
+|-damage|p1a: Xerneas|237/393 par
+|move|p1a: Xerneas|Moonblast|p2a: Xerneas
+|-damage|p2a: Xerneas|0 fnt
+|faint|p2a: Xerneas
+|
+|upkeep
+|
+|t:|1679574976
+|switch|p2a: Necrozma|Necrozma-Dusk-Mane|355/355
+|turn|18
+|
+|t:|1679574976
+|switch|p2a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|move|p1a: Xerneas|Moonblast|p2a: Calyrex
+|-damage|p2a: Calyrex|0 fnt
+|faint|p2a: Calyrex
+|
+|upkeep
+|
+|t:|1679574976
+|switch|p2a: Necrozma|Necrozma-Dusk-Mane|355/355
+|turn|19
+|
+|t:|1679574976
+|switch|p1a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|move|p2a: Necrozma|Dragon Dance|p2a: Necrozma
+|-boost|p2a: Necrozma|atk|1
+|-boost|p2a: Necrozma|spe|1
+|
+|upkeep
+|turn|20
+|
+|t:|1679574976
+|switch|p2a: Kyogre|Kyogre|194/404
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Kyogre
+|move|p1a: Calyrex|Astral Barrage|p2a: Kyogre
+|-damage|p2a: Kyogre|0 fnt
+|faint|p2a: Kyogre
+|-ability|p1a: Calyrex|Grim Neigh|boost
+|-boost|p1a: Calyrex|spa|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1679574976
+|switch|p2a: Necrozma|Necrozma-Dusk-Mane|355/355
+|turn|21
+|
+|t:|1679574976
+|-start|p2a: Necrozma|Dynamax|
+|-heal|p2a: Necrozma|710/710|[silent]
+|move|p1a: Calyrex|Astral Barrage|p2a: Necrozma
+|-supereffective|p2a: Necrozma
+|debug|Prism Armor neutralize
+|-damage|p2a: Necrozma|0 fnt
+|faint|p2a: Necrozma
+|
+|win|Bot 1
+]]]]]
+[[[[[
+0 vs 54
+|t:|1679574980
+|gametype|singles
+|player|p1|Bot 1||
+|player|p2|Bot 2||
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Custom Game
+|clearpoke
+|poke|p1|Calyrex-Shadow|
+|poke|p1|Eternatus|
+|poke|p1|Kyogre|
+|poke|p1|Necrozma-Dusk-Mane|
+|poke|p1|Xerneas-*|
+|poke|p1|Yveltal|
+|poke|p2|Calyrex-Shadow|
+|poke|p2|Eternatus|
+|poke|p2|Giratina-Origin|
+|poke|p2|Kyogre|
+|poke|p2|Necrozma-Dusk-Mane|
+|poke|p2|Xerneas-*|
+|teampreview
+|
+|t:|1679574981
+|start
+|switch|p1a: Eternatus|Eternatus|462/462
+|switch|p2a: Giratina|Giratina-Origin|485/485
+|-ability|p1a: Eternatus|Pressure
+|turn|1
+|
+|t:|1679574981
+|switch|p1a: Kyogre|Kyogre|404/404
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|switch|p2a: Eternatus|Eternatus|422/422
+|-ability|p2a: Eternatus|Pressure
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1679574981
+|switch|p2a: Giratina|Giratina-Origin|485/485
+|switch|p1a: Eternatus|Eternatus|462/462
+|-ability|p1a: Eternatus|Pressure
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1679574981
+|-start|p2a: Giratina|Dynamax|
+|-heal|p2a: Giratina|970/970|[silent]
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|310/970
+|move|p2a: Giratina|Max Phantasm|p1a: Eternatus
+|-damage|p1a: Eternatus|116/462
+|-unboost|p1a: Eternatus|def|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1679574981
+|move|p1a: Eternatus|Recover|p1a: Eternatus
+|-heal|p1a: Eternatus|347/462
+|move|p2a: Giratina|Max Phantasm|p1a: Eternatus
+|-damage|p1a: Eternatus|0 fnt
+|faint|p1a: Eternatus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1679574981
+|switch|p1a: Kyogre|Kyogre|404/404
+|turn|5
+|
+|t:|1679574981
+|move|p2a: Giratina|Max Phantasm|p1a: Kyogre
+|-damage|p1a: Kyogre|158/404
+|-unboost|p1a: Kyogre|def|1
+|move|p1a: Kyogre|Calm Mind|p1a: Kyogre
+|-boost|p1a: Kyogre|spa|1
+|-boost|p1a: Kyogre|spd|1
+|
+|-weather|none
+|-heal|p1a: Kyogre|183/404|[from] item: Leftovers
+|upkeep
+|-end|p2a: Giratina|Dynamax
+|-heal|p2a: Giratina|155/485|[silent]
+|turn|6
+|
+|t:|1679574981
+|switch|p1a: Yveltal|Yveltal|393/393
+|-ability|p1a: Yveltal|Dark Aura
+|move|p2a: Giratina|Poltergeist|p1a: Yveltal
+|-activate|p1a: Yveltal|move: Poltergeist|Life Orb
+|-resisted|p1a: Yveltal
+|-damage|p1a: Yveltal|264/393
+|
+|upkeep
+|turn|7
+|
+|t:|1679574981
+|move|p1a: Yveltal|Sucker Punch|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|0 fnt
+|faint|p2a: Giratina
+|-damage|p1a: Yveltal|225/393|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1679574981
+|switch|p2a: Eternatus|Eternatus|422/422
+|-ability|p2a: Eternatus|Pressure
+|turn|8
+|
+|t:|1679574981
+|switch|p1a: Xerneas|Xerneas|393/393
+|-ability|p1a: Xerneas|Fairy Aura
+|move|p2a: Eternatus|Dynamax Cannon|p1a: Xerneas
+|-immune|p1a: Xerneas
+|
+|upkeep
+|turn|9
+|
+|t:|1679574981
+|move|p2a: Eternatus|Sludge Bomb|p1a: Xerneas
+|-supereffective|p1a: Xerneas
+|-damage|p1a: Xerneas|0 fnt
+|faint|p1a: Xerneas
+|-damage|p2a: Eternatus|380/422|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1679574981
+|switch|p1a: Necrozma|Necrozma-Dusk-Mane|355/355
+|turn|10
+|
+|t:|1679574982
+|move|p2a: Eternatus|Flamethrower|p1a: Necrozma
+|-supereffective|p1a: Necrozma
+|debug|Prism Armor neutralize
+|-damage|p1a: Necrozma|146/355
+|-enditem|p1a: Necrozma|Weakness Policy
+|-boost|p1a: Necrozma|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Necrozma|spa|2|[from] item: Weakness Policy
+|-damage|p2a: Eternatus|338/422|[from] item: Life Orb
+|move|p1a: Necrozma|Earthquake|p2a: Eternatus
+|-supereffective|p2a: Eternatus
+|-damage|p2a: Eternatus|0 fnt
+|faint|p2a: Eternatus
+|
+|upkeep
+|
+|t:|1679574982
+|switch|p2a: Xerneas|Xerneas|393/393
+|-ability|p2a: Xerneas|Fairy Aura
+|turn|11
+|
+|t:|1679574982
+|move|p2a: Xerneas|Geomancy||[still]
+|-prepare|p2a: Xerneas|Geomancy
+|-enditem|p2a: Xerneas|Power Herb
+|debug|power herb - remove charge turn for geomancy
+|-anim|p2a: Xerneas|Geomancy|p2a: Xerneas
+|-boost|p2a: Xerneas|spa|2
+|-boost|p2a: Xerneas|spd|2
+|-boost|p2a: Xerneas|spe|2
+|move|p1a: Necrozma|Earthquake|p2a: Xerneas
+|-damage|p2a: Xerneas|136/393
+|
+|upkeep
+|turn|12
+|
+|t:|1679574982
+|switch|p1a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|move|p2a: Xerneas|Thunder|p1a: Calyrex
+|-damage|p1a: Calyrex|34/341
+|
+|upkeep
+|turn|13
+|
+|t:|1679574982
+|switch|p1a: Yveltal|Yveltal|225/393
+|-ability|p1a: Yveltal|Dark Aura
+|move|p2a: Xerneas|Moonblast|p1a: Yveltal
+|-supereffective|p1a: Yveltal
+|-damage|p1a: Yveltal|0 fnt
+|faint|p1a: Yveltal
+|
+|upkeep
+|
+|t:|1679574982
+|switch|p1a: Kyogre|Kyogre|183/404
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|turn|14
+|
+|t:|1679574982
+|move|p2a: Xerneas|Thunder|p1a: Kyogre
+|-supereffective|p1a: Kyogre
+|-damage|p1a: Kyogre|0 fnt
+|faint|p1a: Kyogre
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1679574982
+|switch|p1a: Necrozma|Necrozma-Dusk-Mane|146/355
+|turn|15
+|
+|t:|1679574982
+|move|p2a: Xerneas|Thunder|p1a: Necrozma
+|-damage|p1a: Necrozma|0 fnt
+|faint|p1a: Necrozma
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1679574982
+|switch|p1a: Calyrex|Calyrex-Shadow|34/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|turn|16
+|
+|t:|1679574982
+|move|p2a: Xerneas|Moonblast|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|faint|p1a: Calyrex
+|
+|win|Bot 2
+]]]]]
+[[[[[
+0 vs 104
+|t:|1679574985
+|gametype|singles
+|player|p1|Bot 1||
+|player|p2|Bot 2||
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Custom Game
+|clearpoke
+|poke|p1|Calyrex-Shadow|
+|poke|p1|Eternatus|
+|poke|p1|Kyogre|
+|poke|p1|Necrozma-Dusk-Mane|
+|poke|p1|Xerneas-*|
+|poke|p1|Yveltal|
+|poke|p2|Calyrex-Shadow|
+|poke|p2|Eternatus|
+|poke|p2|Necrozma-Dusk-Mane|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Xerneas-*|
+|poke|p2|Yveltal|
+|teampreview
+|
+|t:|1679574986
+|start
+|switch|p1a: Eternatus|Eternatus|462/462
+|switch|p2a: Yveltal|Yveltal|456/456
+|-ability|p2a: Yveltal|Dark Aura
+|-ability|p1a: Eternatus|Pressure
+|turn|1
+|
+|t:|1679574986
+|move|p2a: Yveltal|Foul Play|p1a: Eternatus
+|-damage|p1a: Eternatus|342/462
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Yveltal
+|-damage|p2a: Yveltal|315/456
+|
+|upkeep
+|turn|2
+|
+|t:|1679574986
+|switch|p2a: Eternatus|Eternatus|422/422
+|-ability|p2a: Eternatus|Pressure
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Eternatus
+|-supereffective|p2a: Eternatus
+|-damage|p2a: Eternatus|102/422
+|
+|upkeep
+|turn|3
+|
+|t:|1679574986
+|switch|p1a: Kyogre|Kyogre|404/404
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|move|p2a: Eternatus|Recover|p2a: Eternatus
+|-heal|p2a: Eternatus|313/422
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1679574986
+|switch|p2a: Xerneas|Xerneas|393/393
+|-ability|p2a: Xerneas|Fairy Aura
+|move|p1a: Kyogre|Calm Mind|p1a: Kyogre
+|-boost|p1a: Kyogre|spa|1
+|-boost|p1a: Kyogre|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1679574986
+|move|p2a: Xerneas|Thunder|p1a: Kyogre
+|-supereffective|p1a: Kyogre
+|-damage|p1a: Kyogre|262/404
+|move|p1a: Kyogre|Calm Mind|p1a: Kyogre
+|-boost|p1a: Kyogre|spa|1
+|-boost|p1a: Kyogre|spd|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|287/404|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1679574986
+|move|p2a: Xerneas|Geomancy||[still]
+|-prepare|p2a: Xerneas|Geomancy
+|-enditem|p2a: Xerneas|Power Herb
+|debug|power herb - remove charge turn for geomancy
+|-anim|p2a: Xerneas|Geomancy|p2a: Xerneas
+|-boost|p2a: Xerneas|spa|2
+|-boost|p2a: Xerneas|spd|2
+|-boost|p2a: Xerneas|spe|2
+|move|p1a: Kyogre|Ice Beam|p2a: Xerneas
+|-damage|p2a: Xerneas|286/393
+|-status|p2a: Xerneas|frz
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|312/404|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1679574986
+|cant|p2a: Xerneas|frz
+|move|p1a: Kyogre|Scald|p2a: Xerneas
+|debug|Negating (sp)def boost/penalty.
+|debug|rain water boost
+|-crit|p2a: Xerneas
+|-damage|p2a: Xerneas|0 fnt
+|faint|p2a: Xerneas
+|
+|-weather|none
+|-heal|p1a: Kyogre|337/404|[from] item: Leftovers
+|upkeep
+|
+|t:|1679574986
+|switch|p2a: Necrozma|Necrozma-Dusk-Mane|355/355
+|turn|8
+|
+|t:|1679574986
+|switch|p1a: Xerneas|Xerneas|393/393
+|-ability|p1a: Xerneas|Fairy Aura
+|move|p2a: Necrozma|Dragon Dance|p2a: Necrozma
+|-boost|p2a: Necrozma|atk|1
+|-boost|p2a: Necrozma|spe|1
+|
+|upkeep
+|turn|9
+|
+|t:|1679574987
+|switch|p2a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|-start|p1a: Xerneas|Dynamax|
+|-heal|p1a: Xerneas|786/786|[silent]
+|move|p1a: Xerneas|Max Lightning|p2a: Calyrex
+|-damage|p2a: Calyrex|151/341
+|-fieldstart|move: Electric Terrain
+|
+|upkeep
+|turn|10
+|
+|t:|1679574987
+|move|p2a: Calyrex|Astral Barrage|p1a: Xerneas
+|-damage|p1a: Xerneas|390/786
+|move|p1a: Xerneas|Max Lightning|p2a: Calyrex
+|debug|electric terrain boost
+|-damage|p2a: Calyrex|0 fnt
+|faint|p2a: Calyrex
+|
+|upkeep
+|
+|t:|1679574987
+|switch|p2a: Necrozma|Necrozma-Dusk-Mane|355/355
+|turn|11
+|
+|t:|1679574987
+|-end|p1a: Xerneas|Dynamax
+|-heal|p1a: Xerneas|195/393|[silent]
+|switch|p1a: Yveltal|Yveltal|393/393
+|-ability|p1a: Yveltal|Dark Aura
+|move|p2a: Necrozma|Sunsteel Strike|p1a: Yveltal
+|-damage|p1a: Yveltal|147/393
+|
+|upkeep
+|turn|12
+|
+|t:|1679574987
+|switch|p1a: Necrozma|Necrozma-Dusk-Mane|355/355
+|move|p2a: Necrozma|Dragon Dance|p2a: Necrozma
+|-boost|p2a: Necrozma|atk|1
+|-boost|p2a: Necrozma|spe|1
+|
+|upkeep
+|turn|13
+|
+|t:|1679574987
+|move|p2a: Necrozma|Earthquake|p1a: Necrozma
+|-supereffective|p1a: Necrozma
+|debug|Prism Armor neutralize
+|-damage|p1a: Necrozma|96/355
+|-enditem|p1a: Necrozma|Weakness Policy
+|-boost|p1a: Necrozma|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Necrozma|spa|2|[from] item: Weakness Policy
+|move|p1a: Necrozma|Earthquake|p2a: Necrozma
+|-supereffective|p2a: Necrozma
+|debug|Prism Armor neutralize
+|-damage|p2a: Necrozma|0 fnt
+|faint|p2a: Necrozma
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1679574987
+|switch|p2a: Urshifu|Urshifu-Gmax, M|341/341
+|turn|14
+|
+|t:|1679574987
+|switch|p1a: Calyrex|Calyrex-Shadow|341/341
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|move|p2a: Urshifu|Wicked Blow|p1a: Calyrex
+|-supereffective|p1a: Calyrex
+|-crit|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|faint|p1a: Calyrex
+|
+|upkeep
+|
+|t:|1679574987
+|switch|p1a: Eternatus|Eternatus|342/462
+|-ability|p1a: Eternatus|Pressure
+|turn|15
+|
+|t:|1679574987
+|switch|p1a: Kyogre|Kyogre|337/404
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|switch|p2a: Yveltal|Yveltal|315/456
+|-ability|p2a: Yveltal|Dark Aura
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|362/404|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1679574987
+|move|p2a: Yveltal|Foul Play|p1a: Kyogre
+|-damage|p1a: Kyogre|250/404
+|move|p1a: Kyogre|Ice Beam|p2a: Yveltal
+|-supereffective|p2a: Yveltal
+|-damage|p2a: Yveltal|129/456
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|275/404|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1679574987
+|move|p2a: Yveltal|Foul Play|p1a: Kyogre
+|-damage|p1a: Kyogre|173/404
+|move|p1a: Kyogre|Ice Beam|p2a: Yveltal
+|-supereffective|p2a: Yveltal
+|-damage|p2a: Yveltal|0 fnt
+|faint|p2a: Yveltal
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|198/404|[from] item: Leftovers
+|upkeep
+|
+|t:|1679574987
+|switch|p2a: Urshifu|Urshifu-Gmax, M|341/341
+|turn|18
+|
+|t:|1679574987
+|switch|p1a: Eternatus|Eternatus|342/462
+|-ability|p1a: Eternatus|Pressure
+|move|p2a: Urshifu|Close Combat|p1a: Eternatus
+|-resisted|p1a: Eternatus
+|-damage|p1a: Eternatus|186/462
+|-unboost|p2a: Urshifu|def|1
+|-unboost|p2a: Urshifu|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1679574988
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|-weather|none
+|upkeep
+|
+|t:|1679574988
+|switch|p2a: Eternatus|Eternatus|313/422
+|-ability|p2a: Eternatus|Pressure
+|turn|20
+|
+|t:|1679574988
+|move|p2a: Eternatus|Dynamax Cannon|p1a: Eternatus
+|-supereffective|p1a: Eternatus
+|-damage|p1a: Eternatus|0 fnt
+|faint|p1a: Eternatus
+|-damage|p2a: Eternatus|271/422|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1679574988
+|switch|p1a: Kyogre|Kyogre|198/404
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|turn|21
+|
+|t:|1679574988
+|move|p2a: Eternatus|Dynamax Cannon|p1a: Kyogre
+|-damage|p1a: Kyogre|19/404
+|-damage|p2a: Eternatus|229/422|[from] item: Life Orb
+|move|p1a: Kyogre|Ice Beam|p2a: Eternatus
+|-supereffective|p2a: Eternatus
+|-damage|p2a: Eternatus|23/422
+|-status|p2a: Eternatus|frz
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|44/404|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1679574988
+|switch|p1a: Xerneas|Xerneas|195/393
+|-ability|p1a: Xerneas|Fairy Aura
+|cant|p2a: Eternatus|frz
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1679574988
+|cant|p2a: Eternatus|frz
+|move|p1a: Xerneas|Moonblast|p2a: Eternatus
+|-damage|p2a: Eternatus|0 fnt
+|faint|p2a: Eternatus
+|
+|win|Bot 1
+]]]]]

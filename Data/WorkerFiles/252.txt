@@ -1,38 +1,29 @@
-Calyrex-Shadow @ Focus Sash
+Calyrex-Shadow @ Choice Specs
 Ability: As One (Spectrier)
 EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
 - Astral Barrage
 - Psyshock
-- Nasty Plot
-- Draining Kiss
+- Trick
+- Aromatherapy
 
-Giratina-Origin @ Griseous Orb
-Ability: Levitate
-EVs: 176 HP / 252 Atk / 4 Def / 76 Spe
-Adamant Nature
-- Poltergeist
-- Stone Edge
-- Shadow Sneak
-- Defog
-
-Kyogre @ Leftovers
-Ability: Drizzle
-EVs: 252 HP / 252 Def / 4 SpD
+Eternatus @ Heavy-Duty Boots
+Ability: Pressure
+EVs: 48 HP / 244 Def / 216 Spe
 Bold Nature
-- Calm Mind
-- Scald
-- Rest
-- Ice Beam
+- Recover
+- Toxic
+- Flamethrower
+- Dynamax Cannon
 
-Lunala @ Power Herb
-Ability: Shadow Shield
-EVs: 4 HP / 252 SpA / 252 Spe
-Timid Nature
-- Meteor Beam
-- Roost
-- Moongeist Beam
-- Ice Beam
+Ho-Oh @ Choice Band
+Ability: Regenerator
+EVs: 248 HP / 208 Atk / 52 SpD
+Adamant Nature
+- Sacred Fire
+- Brave Bird
+- Earthquake
+- Whirlwind
 
 Necrozma-Dusk Mane @ Weakness Policy
 Ability: Prism Armor
@@ -43,12 +34,21 @@ Adamant Nature
 - Earthquake
 - Dragon Dance
 
-Xerneas @ Choice Scarf
+Xerneas @ Power Herb
 Ability: Fairy Aura
-EVs: 4 Def / 252 SpA / 252 Spe
-Timid Nature
+EVs: 168 Def / 252 SpA / 88 Spe
+Modest Nature
+- Geomancy
 - Moonblast
 - Thunder
-- Thunder Wave
-- Aromatherapy
+- Substitute
+
+Yveltal @ Life Orb
+Ability: Dark Aura
+EVs: 4 Atk / 252 SpA / 252 Spe
+Hasty Nature
+- Dark Pulse
+- Oblivion Wing
+- Taunt
+- Sucker Punch
 

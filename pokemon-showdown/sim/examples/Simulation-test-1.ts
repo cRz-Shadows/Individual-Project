@@ -358,7 +358,6 @@ export class HeuristicsPlayerAI extends RandomPlayerAI {
 		}
 	}
 
-	// TODO: implement protect style moves
 	protected chooseMove(request, active, moves: {choice: string, move}[], canDynamax, possibleMoves): [string, boolean] {
 		this._updateActiveTracker(request)
 		const mon_opponent = this._getCurrentPlayer(request)
@@ -560,6 +559,8 @@ export class HeuristicsPlayerAI extends RandomPlayerAI {
 					}
 				}
             }
+
+			// TODO: implement protect style moves, note out of scope for project
 
 			// Damage dealing moves
 			const moveValues: { [move: string]: number } = {};

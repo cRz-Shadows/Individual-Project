@@ -1,54 +1,54 @@
-Calyrex-Shadow @ Focus Sash
+Calyrex-Shadow @ Choice Specs
 Ability: As One (Spectrier)
 EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
 - Astral Barrage
 - Psyshock
-- Nasty Plot
-- Draining Kiss
-
-Kyogre @ Leftovers
-Ability: Drizzle
-EVs: 252 HP / 140 SpA / 116 Spe
-Modest Nature
-- Substitute
-- Calm Mind
-- Surf
-- Thunder Wave
-
-Lunala @ Power Herb
-Ability: Shadow Shield
-EVs: 4 HP / 252 SpA / 252 Spe
-Timid Nature
-- Meteor Beam
-- Roost
-- Moongeist Beam
-- Ice Beam
-
-Xerneas @ Choice Scarf
-Ability: Fairy Aura
-EVs: 4 Def / 252 SpA / 252 Spe
-Timid Nature
-- Moonblast
-- Thunder
-- Thunder Wave
+- Trick
 - Aromatherapy
 
-Yveltal @ Life Orb
-Ability: Dark Aura
-EVs: 4 Atk / 252 SpA / 252 Spe
-Hasty Nature
-- Dark Pulse
-- Oblivion Wing
-- Taunt
-- Sucker Punch
+Eternatus @ Heavy-Duty Boots
+Ability: Pressure
+EVs: 48 HP / 244 Def / 216 Spe
+Bold Nature
+- Recover
+- Toxic
+- Flamethrower
+- Dynamax Cannon
 
-Zamazenta @ Choice Band
-Ability: Dauntless Shield
-EVs: 252 Atk / 4 Def / 252 Spe
-Jolly Nature
-- Close Combat
-- Crunch
-- Psychic Fangs
-- Wild Charge
+Kyogre @ Choice Scarf
+Ability: Drizzle
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Water Spout
+- Origin Pulse
+- Ice Beam
+- Thunder
+
+Necrozma-Dusk Mane @ Weakness Policy
+Ability: Prism Armor
+EVs: 80 HP / 252 Atk / 176 Spe
+Adamant Nature
+- Sunsteel Strike
+- Stone Edge
+- Earthquake
+- Dragon Dance
+
+Xerneas @ Power Herb
+Ability: Fairy Aura
+EVs: 168 Def / 252 SpA / 88 Spe
+Modest Nature
+- Geomancy
+- Moonblast
+- Thunder
+- Substitute
+
+Yveltal @ Choice Band
+Ability: Dark Aura
+EVs: 252 Atk / 72 SpD / 184 Spe
+Adamant Nature
+- Knock Off
+- Dual Wingbeat
+- U-turn
+- Sucker Punch
 

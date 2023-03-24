@@ -7,23 +7,23 @@ Timid Nature
 - Trick
 - Aromatherapy
 
-Kyogre @ Leftovers
-Ability: Drizzle
-EVs: 252 HP / 252 Def / 4 SpD
-Bold Nature
-- Calm Mind
-- Scald
-- Rest
-- Ice Beam
-
-Lunala @ Power Herb
-Ability: Shadow Shield
+Eternatus @ Life Orb
+Ability: Pressure
 EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature
-- Meteor Beam
-- Roost
-- Moongeist Beam
-- Ice Beam
+- Recover
+- Flamethrower
+- Sludge Bomb
+- Dynamax Cannon
+
+Kyogre @ Leftovers
+Ability: Drizzle
+EVs: 252 HP / 140 SpA / 116 Spe
+Modest Nature
+- Substitute
+- Calm Mind
+- Surf
+- Thunder Wave
 
 Necrozma-Dusk Mane @ Weakness Policy
 Ability: Prism Armor
@@ -34,21 +34,21 @@ Adamant Nature
 - Earthquake
 - Dragon Dance
 
-Palkia @ Lustrous Orb
-Ability: Pressure
-EVs: 252 SpA / 4 SpD / 252 Spe
+Xerneas @ Choice Scarf
+Ability: Fairy Aura
+EVs: 4 Def / 252 SpA / 252 Spe
 Timid Nature
-- Hydro Pump
-- Spacial Rend
+- Moonblast
 - Thunder
-- Fire Blast
+- Thunder Wave
+- Aromatherapy
 
-Yveltal @ Life Orb
+Yveltal @ Black Glasses
 Ability: Dark Aura
-EVs: 4 Atk / 252 SpA / 252 Spe
-Hasty Nature
-- Dark Pulse
-- Oblivion Wing
-- Taunt
+EVs: 188 Atk / 68 SpD / 252 Spe
+Jolly Nature
+- Knock Off
 - Sucker Punch
+- Taunt
+- Roost
 

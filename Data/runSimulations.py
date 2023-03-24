@@ -57,14 +57,14 @@ filename = "Inputs/" + "Uber_Main.txt"
 noOfThreads = 50
 
 #read in teams
-with open('Uber_Main_JSON_Files/' + filename[7:-4] + '_Weather_rerun_battles.json', 'r') as infile:
+with open('Uber_Main_JSON_Files/Win_Loss/' + filename[7:-4] + '_Win_Loss_battles.json', 'r') as infile:
     teams = json.load(infile)
 
-with open('Uber_Main_JSON_Files/Weather/' + filename[7:-4] + '_Weather_teamNumbers.json', 'r') as infile:
+with open('Uber_Main_JSON_Files/Win_Loss/' + filename[7:-4] + '_Win-Loss_teamNumbers.json', 'r') as infile:
     teamNumbers = json.load(infile)
 
 print(len(teams))
-n = 100 # number of battles to stop running after
+n = 1001 # number of battles to stop running after
 #teams = teams[:n] # comment this out to simulate all battles
 
 noOfTeams = len(teamNumbers)
@@ -119,9 +119,13 @@ while len(teams) >= 10:
     threads.clear()
     print(len(teams)) #for keeping track of where we are
 
+# run remaining battles
 for i in teams:
     runSimulation(i, "0", filename, teamNumbers)
+    
+end = time.time()
 
+# combine the individual worker outputs into one
 infiles = [str(i+1) for i in range(noOfThreads)]
 infiles.append("0")
 with open("output.txt", "a") as outfile:
@@ -130,11 +134,10 @@ with open("output.txt", "a") as outfile:
             for i in output.readlines():
                 outfile.write(i)
 
+# clear worker outputs
 for i in infiles:
     with open("./WorkerOutputs/" + i + ".txt", "w") as output:
         output.truncate(0)
             
-
-end = time.time()
 print("ran in " + str(end-start) + " Seconds Overall")
 print(str((end - start)/n) + " Seconds Per Sim On Average")

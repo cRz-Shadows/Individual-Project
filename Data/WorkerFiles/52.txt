@@ -1,3 +1,12 @@
+Calyrex-Shadow @ Choice Specs
+Ability: As One (Spectrier)
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Astral Barrage
+- Psyshock
+- Trick
+- Aromatherapy
+
 Eternatus @ Life Orb
 Ability: Pressure
 EVs: 4 HP / 252 SpA / 252 Spe
@@ -6,33 +15,6 @@ Timid Nature
 - Flamethrower
 - Sludge Bomb
 - Dynamax Cannon
-
-Giratina-Origin @ Griseous Orb
-Ability: Levitate
-EVs: 176 HP / 252 Atk / 4 Def / 76 Spe
-Adamant Nature
-- Poltergeist
-- Stone Edge
-- Shadow Sneak
-- Defog
-
-Ho-Oh @ Choice Band
-Ability: Regenerator
-EVs: 248 HP / 208 Atk / 52 SpD
-Adamant Nature
-- Sacred Fire
-- Brave Bird
-- Earthquake
-- Whirlwind
-
-Kyogre @ Leftovers
-Ability: Drizzle
-EVs: 252 HP / 252 Def / 4 SpD
-Bold Nature
-- Calm Mind
-- Scald
-- Rest
-- Ice Beam
 
 Necrozma-Dusk Mane @ Weakness Policy
 Ability: Prism Armor
@@ -43,12 +25,30 @@ Adamant Nature
 - Earthquake
 - Dragon Dance
 
-Xerneas @ Choice Scarf
+Urshifu-Gmax @ Choice Band
+Ability: Unseen Fist
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Wicked Blow
+- Close Combat
+- U-turn
+- Stone Edge
+
+Xerneas @ Leftovers
 Ability: Fairy Aura
-EVs: 4 Def / 252 SpA / 252 Spe
-Timid Nature
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
 - Moonblast
-- Thunder
-- Thunder Wave
+- Rest
+- Sleep Talk
 - Aromatherapy
+
+Yveltal @ Choice Scarf
+Ability: Dark Aura
+EVs: 252 HP / 72 SpD / 184 Spe
+Jolly Nature
+- Foul Play
+- Roost
+- U-turn
+- Defog
 

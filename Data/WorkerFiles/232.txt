@@ -1,20 +1,20 @@
-Eternatus @ Life Orb
-Ability: Pressure
-EVs: 4 HP / 252 SpA / 252 Spe
+Calyrex-Shadow @ Choice Specs
+Ability: As One (Spectrier)
+EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
-- Recover
-- Flamethrower
-- Sludge Bomb
-- Dynamax Cannon
+- Astral Barrage
+- Psyshock
+- Trick
+- Aromatherapy
 
-Giratina-Origin @ Griseous Orb
-Ability: Levitate
-EVs: 176 HP / 252 Atk / 4 Def / 76 Spe
-Adamant Nature
-- Poltergeist
-- Stone Edge
-- Shadow Sneak
-- Defog
+Eternatus @ Heavy-Duty Boots
+Ability: Pressure
+EVs: 48 HP / 244 Def / 216 Spe
+Bold Nature
+- Recover
+- Toxic
+- Flamethrower
+- Dynamax Cannon
 
 Ho-Oh @ Choice Band
 Ability: Regenerator
@@ -27,21 +27,12 @@ Adamant Nature
 
 Kyogre @ Leftovers
 Ability: Drizzle
-EVs: 252 HP / 252 Def / 4 SpD
-Bold Nature
+EVs: 252 HP / 140 SpA / 116 Spe
+Modest Nature
+- Substitute
 - Calm Mind
-- Scald
-- Rest
-- Ice Beam
-
-Necrozma-Dusk Mane @ Weakness Policy
-Ability: Prism Armor
-EVs: 80 HP / 252 Atk / 176 Spe
-Adamant Nature
-- Sunsteel Strike
-- Stone Edge
-- Earthquake
-- Dragon Dance
+- Surf
+- Thunder Wave
 
 Xerneas @ Power Herb
 Ability: Fairy Aura
@@ -51,4 +42,13 @@ Modest Nature
 - Moonblast
 - Thunder
 - Substitute
+
+Yveltal @ Choice Scarf
+Ability: Dark Aura
+EVs: 252 HP / 72 SpD / 184 Spe
+Jolly Nature
+- Foul Play
+- Roost
+- U-turn
+- Defog
 

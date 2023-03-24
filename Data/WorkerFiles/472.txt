@@ -1,29 +1,29 @@
+Calyrex-Shadow @ Choice Specs
+Ability: As One (Spectrier)
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Astral Barrage
+- Psyshock
+- Trick
+- Aromatherapy
+
+Eternatus @ Heavy-Duty Boots
+Ability: Pressure
+EVs: 48 HP / 244 Def / 216 Spe
+Bold Nature
+- Recover
+- Toxic
+- Flamethrower
+- Dynamax Cannon
+
 Kyogre @ Leftovers
 Ability: Drizzle
-EVs: 252 HP / 252 Def / 4 SpD
-Bold Nature
+EVs: 252 HP / 140 SpA / 116 Spe
+Modest Nature
+- Substitute
 - Calm Mind
-- Scald
-- Rest
-- Ice Beam
-
-Lunala @ Power Herb
-Ability: Shadow Shield
-EVs: 4 HP / 252 SpA / 252 Spe
-Timid Nature
-- Meteor Beam
-- Roost
-- Moongeist Beam
-- Ice Beam
-
-Marshadow @ Choice Band
-Ability: Technician
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Spectral Thief
-- Low Kick
-- Shadow Sneak
-- Ice Punch
+- Surf
+- Thunder Wave
 
 Necrozma-Dusk Mane @ Weakness Policy
 Ability: Prism Armor
@@ -45,10 +45,10 @@ Timid Nature
 
 Yveltal @ Life Orb
 Ability: Dark Aura
-EVs: 4 Atk / 252 SpA / 252 Spe
-Hasty Nature
-- Dark Pulse
-- Oblivion Wing
-- Taunt
+EVs: 252 Atk / 72 SpD / 184 Spe
+Adamant Nature
+- Hone Claws
+- Knock Off
 - Sucker Punch
+- Acrobatics
 

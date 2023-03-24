@@ -7,6 +7,13 @@ Created on Sun Feb  5 18:45:42 2023
 
 import json
 from tqdm import tqdm
+
+# =============================================================================
+# remove any battles with errors from an output file
+# run findErrors.py to obtain the lines to remove file
+#   make sure to run get_battles_to_rerun.py before running this, if you 
+#   don't want to lose data from those battles
+# =============================================================================
     
 def remove_lines(file_name, start_end_points):
     with open(file_name, "r") as input_file, open("Outputs/Weather_Final_Output.txt", "w") as output_file:

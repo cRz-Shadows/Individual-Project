@@ -5,6 +5,11 @@ Created on Sun Feb  5 18:38:03 2023
 @author: craig
 """
 
+# =============================================================================
+# Helper file which adds 1 to the linenumbers of a JSON of lines to remove
+    # this was created to fix an error, and shouldn't be required for use
+# =============================================================================
+
 import json
 from tqdm import tqdm
 

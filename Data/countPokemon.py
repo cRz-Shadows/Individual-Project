@@ -4,6 +4,12 @@ Created on Wed Oct 12 10:04:58 2022
 
 @author: craig
 """
+
+# =============================================================================
+# This file is essentially a duplicate of buildTeamsOf6.py, however it is set to
+# build all teams of 2 by default, rather than 6.
+# =============================================================================
+
 import itertools
 import json
 import statistics
@@ -57,17 +63,12 @@ def getTeamCombinations(filename):
     for team in all_combinations:
         if len(team) == 6 and team not in teams and len(set([i[0] for i in team])) == 6:
                 teams.append(list(team))
-    #print(teams)
-    #print(len(teams))
 
     #build a dictionary of teams mapped to team numbers
     for i, t in enumerate(teams):
         teamNumbers[i] = t
     
     team_matchups = list(itertools.combinations(teams, 2))
-    #print(team_matchups)
-    #print(len(team_matchups))
-    
     return team_matchups, teamNumbers
 
 def getTeamCombinations_synergy(filename, synergyRatings, teamNumbers):
@@ -84,7 +85,6 @@ def getTeamCombinations_synergy(filename, synergyRatings, teamNumbers):
     temp = 0
     for team in all_combinations:
         if len(team) == 6 and team not in teams and len(set([i[0] for i in team])) == 6:
-            #print(team)
             team_pairs = list(itertools.combinations(team, 2))
             for pair in team_pairs:
                 if len(pair) == 2:
@@ -101,6 +101,7 @@ def getTeamCombinations_synergy(filename, synergyRatings, teamNumbers):
 
     team_matchups = list(itertools.combinations(teams, 2))
     return team_matchups
+
 # =============================================================================
 # Gets all possible combinations of 2v2 matchups from a passed in txt file
 # Input should be in pokemon showdown format seperated with a "|" character at the start of each new pokemon
@@ -120,28 +121,19 @@ def getTeamsOfTwo(filename):
     for team in all_combinations:
         if len(team) == 2 and team not in teams and len(set([i[0] for i in team])) == 2:
                 teams.append(list(team))
-    #print(teams)
-    #print(len(teams))
 
     #build a dictionary of teams mapped to team numbers
     for i, t in enumerate(teams):
         teamNumbers[i] = t
     
     team_matchups = list(itertools.combinations(teams, 2))
-    #print(team_matchups)
-    #print(len(team_matchups))
-    
     return team_matchups, teamNumbers
 
 def get_keys_from_value(d, val):
     return [k for k, v in d.items() if v == val]
 
-#print(count("Uber_top_10.txt"))
-#print(countNoDuplicates("Uber_top_10.txt"))
-
 filename = "Inputs/Uber_Main.txt"
 teams, teamNumbers = getTeamsOfTwo(filename)
-#teams, teamNumbers = getTeamCombinations(filename)
 print(len(teams))
 
 with open(filename[7:-4] + '_battles.json', 'w') as outfile:

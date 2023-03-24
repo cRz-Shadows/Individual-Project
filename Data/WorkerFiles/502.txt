@@ -1,3 +1,12 @@
+Calyrex-Shadow @ Choice Specs
+Ability: As One (Spectrier)
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Astral Barrage
+- Psyshock
+- Trick
+- Aromatherapy
+
 Giratina-Origin @ Griseous Orb
 Ability: Levitate
 EVs: 176 HP / 252 Atk / 4 Def / 76 Spe
@@ -7,6 +16,15 @@ Adamant Nature
 - Shadow Sneak
 - Defog
 
+Ho-Oh @ Choice Band
+Ability: Regenerator
+EVs: 248 HP / 208 Atk / 52 SpD
+Adamant Nature
+- Sacred Fire
+- Brave Bird
+- Earthquake
+- Whirlwind
+
 Kyogre @ Leftovers
 Ability: Drizzle
 EVs: 252 HP / 252 Def / 4 SpD
@@ -15,15 +33,6 @@ Bold Nature
 - Scald
 - Rest
 - Ice Beam
-
-Marshadow @ Choice Band
-Ability: Technician
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Spectral Thief
-- Low Kick
-- Shadow Sneak
-- Ice Punch
 
 Necrozma-Dusk Mane @ Weakness Policy
 Ability: Prism Armor
@@ -42,13 +51,4 @@ Modest Nature
 - Moonblast
 - Thunder
 - Substitute
-
-Yveltal @ Life Orb
-Ability: Dark Aura
-EVs: 4 Atk / 252 SpA / 252 Spe
-Hasty Nature
-- Dark Pulse
-- Oblivion Wing
-- Taunt
-- Sucker Punch
 

@@ -52,8 +52,8 @@ for model in models:
 team_matrices = [win_loss_team, quick_win_team, switch_ins_team, weather_team]
 pokemon_matrices = [win_loss_pokemon, quick_win_pokemon, switch_ins_pokemon, weather_pokemon]
 
+# Make graphs for team matrices
 for n, data in enumerate(team_matrices):
-    break;
     model = models[n]
     with open('Uber_Main_JSON_Files/' + model + '/Uber_Main_' + model.replace('_', '-') + '_teamNumbers.json', 'r') as f:
         teamNumbers = json.load(f)
@@ -71,7 +71,7 @@ for n, data in enumerate(team_matrices):
     avg_weather_sun = data['avg_weather_sun']
     avg_weather_rain = data['avg_weather_rain']
 
-    # Can do something with this later
+    # Can possibly do something with this later
     top_10_teams = [teamNumbers[str(x)] for _, x in sorted(zip([a/b for a, b in zip(wins, losses)], teams))][:10]
     
     total_games = wins + losses
@@ -94,6 +94,7 @@ for n, data in enumerate(team_matrices):
     plt.tight_layout()
     plt.show()
     
+    # Average length of a fight histogram
     bins = np.arange(min(avg_fight), max(avg_fight)+2, 1)
     plt.hist(avg_fight, bins=bins, edgecolor='black')
     plt.xlabel('Average Length of Fight')
@@ -102,6 +103,7 @@ for n, data in enumerate(team_matrices):
     plt.suptitle(model + ' Synergys - Lower is Better', y=0.95, fontsize=12)
     plt.show()
     
+    #Average number of weather changes histogram
     bins = np.arange(min(avg_weather), max(avg_weather)+2, 1)
     plt.hist(avg_weather, edgecolor='black', bins=bins)
     plt.xlabel('Average Number of Weather Changes per Battle')
@@ -110,6 +112,7 @@ for n, data in enumerate(team_matrices):
     plt.suptitle(model + ' Synergys - Higher is Better', y=0.95, fontsize=12)
     plt.show()
     
+    # Plotting distribution of weather types for each team bar chart
     plt.bar(teams, avg_weather, color='gray', edgecolor='gray')
     plt.bar(teams, avg_weather_sand, color='#ffcc99', edgecolor='#ffcc99')
     plt.bar(teams, avg_weather_hail, bottom=avg_weather_sand, color='lightgray', edgecolor='lightgray')
@@ -126,6 +129,7 @@ for n, data in enumerate(team_matrices):
     plt.legend([sand_patch, hail_patch, sun_patch, rain_patch], ['Sand', 'Hail', 'Sun', 'Rain'])
     plt.show()
     
+    # Average number of switches bar chart
     bins = np.arange(min(avg_switch), max(avg_switch)+2, 1)
     plt.hist(avg_switch, bins=bins, edgecolor='black')
     plt.xlabel('Average Number of Switches per Battle')
@@ -134,6 +138,7 @@ for n, data in enumerate(team_matrices):
     plt.suptitle(model + ' Synergys - Higher is Better', y=0.95, fontsize=12)
     plt.show()
     
+# Plot graphs for pokemon matrices
 for n, data in enumerate(pokemon_matrices):
     model = models[n].replace('_', '-')
     pokemon_numbers = data['pokemon_number']
@@ -141,6 +146,7 @@ for n, data in enumerate(pokemon_matrices):
     wins = data['team_wins']
     top_100_appearences = data['top_100_appearences']
 
+    # define a colour map, since built in ones didn't have enough distinct colours
     distinct_colors = [
     '#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd',
     '#8c564b', '#e377c2', '#7f7f7f', '#bcbd22', '#17becf',
@@ -158,32 +164,27 @@ for n, data in enumerate(pokemon_matrices):
     # Replace the Pokemon numbers with their names
     pokemon_names = [pokemonNumbers[str(num)] for num in pokemon_numbers]
     
-    # Create the scatter plot
+    # Create a scatter plot mapping Knock outs to wins
     fig, ax = plt.subplots()
     for i, name in enumerate(pokemon_names):
         color = distinct_colors[i % len(distinct_colors)]  # Cycle through colors if there are more points than colors
         ax.scatter(kos[i], wins[i], c=color)
     # Add the legend with the colors and labels
     ax.legend(pokemon_names, loc='center left', bbox_to_anchor=(1.4, 0.5))
-    # Add axis labels and title
     ax.set_xlabel('Individual Pokemon KOs')
     ax.set_ylabel('Wins for the top performing team')
     ax.set_title('Relationship between Individual Pokemon KOs and Team Wins', y=1.1, fontsize=16, fontweight='bold')
     plt.suptitle(model + ' Synergys - Higher is Better', y=0.95, fontsize=12)
-    # Show the plot
     plt.show()
         
-    # pi chart
     # define your labels and sizes
     labels = [(pokemonNumbers[str(num)][0], pokemonNumbers[str(num)][1]) for num in data['pokemon_number']]
     sizes = top_100_appearences
-
     cmap = mcolors.ListedColormap(distinct_colors)
-    
     # get the colors for each label
     colors = [cmap(i) for i in range(len(set(labels)))]
     
-    # create the pie chart with the specified colors
+    # create a pie chart for appearences of builds on the top 100 teams
     fig, ax = plt.subplots(figsize=(8, 8))
     ax.pie(sizes, labels=None, colors=colors, autopct='%1.1f%%')
     ax.set_title('Percentage of Appearance of Each Pokemon on Top 100 Teams', y=1.1, fontsize=16, fontweight='bold')
@@ -194,13 +195,13 @@ for n, data in enumerate(pokemon_matrices):
         text.set_color(colors[i])
     plt.show()
     
-    #
+    # define new labels for species rather than builds
     labels_ = [(pokemonNumbers[str(num)][0]) for num in data['pokemon_number']]
     sizes_ = top_100_appearences
     labels_sizes = {k: sum(v for k2, v in zip(labels_, sizes_) if k2 == k) for k in set(labels_)}
     print(labels_sizes)
     
-    # create the pie chart with the specified colors
+    # create a pie chart for appearences of species on the top 100 teams
     fig, ax = plt.subplots(figsize=(8, 8))
     ax.pie(labels_sizes.values(), labels=None, colors=colors, autopct='%1.1f%%')
     ax.set_title('Percentage of Appearance of Each Pokemon Species on Top 100 Teams', y=1.1, fontsize=16, fontweight='bold')
@@ -213,7 +214,7 @@ for n, data in enumerate(pokemon_matrices):
     
     
     sizes = kos
-    # create the pie chart with the specified colors
+    # create the pie chart plotting the percentage of KOs for each pokemon build
     fig, ax = plt.subplots(figsize=(8, 8))
     ax.pie(sizes, labels=None, colors=colors, autopct='%1.1f%%')
     ax.set_title('Percentage of KOs for Each Pokemon', y=1.1, fontsize=16, fontweight='bold')
@@ -224,6 +225,7 @@ for n, data in enumerate(pokemon_matrices):
         text.set_color(colors[i])
     plt.show()
     
+# Plot move graphs
 for n, data in enumerate(move_dicts):
     model = models[n].replace('_', '-')
     # sort the dictionary by KOs in descending order and take the top 20 moves
@@ -242,6 +244,7 @@ for n, data in enumerate(move_dicts):
     plt.suptitle(model + ' Synergys - Higher is Better', y=0.95, fontsize=12)
     plt.show()
     
+# plot graphs for abilities
 for n, data in enumerate(ability_dicts):
     model = models[n].replace('_', '-')
     # sort the dictionary by KOs in descending order and take the top 20 moves
@@ -260,6 +263,7 @@ for n, data in enumerate(ability_dicts):
     plt.suptitle(model + ' Synergys - Higher is Better', y=0.95, fontsize=12)
     plt.show()
     
+#plot graphs for items
 for n, data in enumerate(item_dicts):
     model = models[n].replace('_', '-')
     # sort the dictionary by KOs in descending order and take the top 20 moves

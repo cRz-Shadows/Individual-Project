@@ -7,23 +7,14 @@ Timid Nature
 - Trick
 - Aromatherapy
 
-Eternatus @ Life Orb
+Eternatus @ Heavy-Duty Boots
 Ability: Pressure
-EVs: 4 HP / 252 SpA / 252 Spe
+EVs: 164 HP / 252 SpD / 92 Spe
 Timid Nature
 - Recover
-- Flamethrower
-- Sludge Bomb
+- Toxic
+- Mystical Fire
 - Dynamax Cannon
-
-Giratina-Origin @ Griseous Orb
-Ability: Levitate
-EVs: 176 HP / 252 Atk / 4 Def / 76 Spe
-Adamant Nature
-- Poltergeist
-- Stone Edge
-- Shadow Sneak
-- Defog
 
 Kyogre @ Leftovers
 Ability: Drizzle
@@ -34,21 +25,30 @@ Bold Nature
 - Rest
 - Ice Beam
 
-Lunala @ Power Herb
-Ability: Shadow Shield
-EVs: 4 HP / 252 SpA / 252 Spe
-Timid Nature
-- Meteor Beam
-- Roost
-- Moongeist Beam
-- Ice Beam
-
-Urshifu-Gmax @ Choice Band
-Ability: Unseen Fist
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Wicked Blow
-- Close Combat
-- U-turn
+Necrozma-Dusk Mane @ Weakness Policy
+Ability: Prism Armor
+EVs: 80 HP / 252 Atk / 176 Spe
+Adamant Nature
+- Sunsteel Strike
 - Stone Edge
+- Earthquake
+- Dragon Dance
+
+Xerneas @ Power Herb
+Ability: Fairy Aura
+EVs: 168 Def / 252 SpA / 88 Spe
+Modest Nature
+- Geomancy
+- Moonblast
+- Thunder
+- Substitute
+
+Yveltal @ Life Orb
+Ability: Dark Aura
+EVs: 252 Atk / 72 SpD / 184 Spe
+Adamant Nature
+- Hone Claws
+- Knock Off
+- Sucker Punch
+- Acrobatics
 

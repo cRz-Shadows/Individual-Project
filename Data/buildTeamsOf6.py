@@ -40,7 +40,10 @@ def countNoDuplicates(filename):
                     counter += 1
     return counter
 
-
+# =============================================================================
+# Get all possible teams of 6, and return a set of battles for them
+    # note this version should only be run when the inputs size is very small
+# =============================================================================
 def getTeamCombinations(filename):
     dex = []
     teamNumbers = {}
@@ -56,54 +59,45 @@ def getTeamCombinations(filename):
     for team in all_combinations:
         if len(team) == 6 and team not in teams and len(set([i[0] for i in team])) == 6:
                 teams.append(list(team))
-    #print(teams)
-    #print(len(teams))
 
     #build a dictionary of teams mapped to team numbers
     for i, t in enumerate(teams):
         teamNumbers[i] = t
     
     team_matchups = list(itertools.combinations(teams, 2))
-    #print(team_matchups)
-    #print(len(team_matchups))
     
     return team_matchups, teamNumbers
 
 # =============================================================================
-# Gets all possible combination of 6 pokemon from a passed in txt file
+# Gets all possible combination of 6 pokemon from a passed in txt file, and constructs teams using synergy ratings
 # Input should be in pokemon showdown format seperated with a "|" character at the start of each new pokemon
 # =============================================================================
 def getTeamCombinations_synergy(filename, synergyRatings, teamNumbers):
-    #meanSynergy = np.mean(list(synergyRatings.values()))
+    # build dex from input file
     dex = []
     with open (filename) as f:
         lines = f.readlines()
         for i, line in enumerate(lines):
             if line.startswith("|"):
                 dex.append(((line[1:].split('@')[0].strip(), i), (line[1:].split('@ ')[1].strip())))
-                
-    #all_combinations = list(itertools.combinations(dex, 6))
-    #all_combinations = [element for element in all_combinations 
-    #                    if len(set([inner_list[0][0] for inner_list in element])) == 6
-    #                    # make sure for each team, no 2 pokemon have the same item
-    #                    and len(set([inner_list[1] for inner_list in element])) == 6
-    #                    ]
+    
+    # get all combinations that don't violate Showdown clauses
     all_combinations = (element for element in itertools.combinations(dex, 6)
                         if len(set([inner_list[0][0] for inner_list in element])) == 6
                         and len(set([inner_list[1] for inner_list in element])) == 6)
-    #all_combinations = [[(pokemon[0], pokemon[1]) for pokemon in team] for team in all_combinations]
     
     #free some memory
     del lines
     del dex
     
+    # define synergy threshold
     SYNERGY_THRESHOLD = sorted(synergyRatings.values(), reverse=True)[470]
     
+    # remove teams that have pairs with bad synergy
     teams = []
     for team in tqdm(all_combinations):
         temp = 0
         team_pairs = itertools.combinations(team, 2)
-        #team_pairs = [[list(t) for t in inner_list] for inner_list in team_pairs]
         for pair in team_pairs:
             pair = tuple([pair[0][0], pair[1][0]])
             if len(pair) == 2:
@@ -127,6 +121,7 @@ def getTeamCombinations_synergy(filename, synergyRatings, teamNumbers):
 # Input should be in pokemon showdown format seperated with a "|" character at the start of each new pokemon
 # =============================================================================
 def getTeamsOfTwo(filename):
+    # build dex from input file
     dex = []
     teamNumbers = {}
     with open (filename) as f:
@@ -134,15 +129,13 @@ def getTeamsOfTwo(filename):
         for i, line in enumerate(lines):
             if line.startswith("|"):
                 dex.append((line[1:].split('@')[0].strip(), i))
-                
+
+    # get all combinations that don't violate Showdown clauses
     all_combinations = list(itertools.combinations(dex, 2))
-    
     teams = []
     for team in all_combinations:
         if len(team) == 2 and team not in teams and len(set([i[0] for i in team])) == 2:
                 teams.append(list(team))
-    #print(teams)
-    #print(len(teams))
 
     #build a dictionary of teams mapped to team numbers
     for i, t in enumerate(teams):
@@ -150,17 +143,17 @@ def getTeamsOfTwo(filename):
     
     print(len(teams))
     team_matchups = list(itertools.combinations(teams, 2))
-    #print(team_matchups)
-    #print(len(team_matchups))
-    
     return team_matchups, teamNumbers
 
+# helper function which looks up a list of keys for a value
 def get_keys_from_value(d, val):
     return [k for k, v in d.items() if v == val]
 
+# helper function which converts a list to a tuple
 def list_to_tuple(list_of_lists):
     return tuple(tuple(inner_list) for inner_list in list_of_lists)
 
+# load input files
 filename = "Inputs/Uber_Main.txt"
 with open('Uber_Main_JSON_Files/teams_of_2/' + filename[7:-4] + '_Teams-Of-2_teamNumbers.json', 'r') as infile:
     teamNumbers = json.load(infile)
@@ -168,9 +161,11 @@ with open('Uber_Main_Teams_Of_2_Synergys-Weather.txt', 'r') as infile:
     synergyRatings = json.loads(infile.read())
 teamNumbers = {list_to_tuple(v): k for k, v in teamNumbers.items()}
 
+# build teams
 teams, teamNumbers = getTeamCombinations_synergy(filename, synergyRatings, teamNumbers)
 print(len(teams))
 
+# write teams
 with open(filename[7:-4] + '_Weather_battles.json', 'w') as outfile:
     outfile.truncate(0)
     json.dump(teams, outfile)

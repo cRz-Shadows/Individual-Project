@@ -1,20 +1,29 @@
-Calyrex-Shadow @ Focus Sash
+Calyrex-Shadow @ Choice Specs
 Ability: As One (Spectrier)
 EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
 - Astral Barrage
 - Psyshock
-- Nasty Plot
-- Draining Kiss
+- Trick
+- Aromatherapy
 
-Kyogre @ Leftovers
-Ability: Drizzle
-EVs: 252 HP / 252 Def / 4 SpD
+Eternatus @ Heavy-Duty Boots
+Ability: Pressure
+EVs: 48 HP / 244 Def / 216 Spe
 Bold Nature
-- Calm Mind
-- Scald
-- Rest
-- Ice Beam
+- Recover
+- Toxic
+- Flamethrower
+- Dynamax Cannon
+
+Ho-Oh @ Choice Band
+Ability: Regenerator
+EVs: 248 HP / 208 Atk / 52 SpD
+Adamant Nature
+- Sacred Fire
+- Brave Bird
+- Earthquake
+- Whirlwind
 
 Necrozma-Dusk Mane @ Weakness Policy
 Ability: Prism Armor
@@ -25,30 +34,21 @@ Adamant Nature
 - Earthquake
 - Dragon Dance
 
-Palkia @ Lustrous Orb
-Ability: Pressure
-EVs: 252 SpA / 4 SpD / 252 Spe
-Timid Nature
-- Hydro Pump
-- Spacial Rend
-- Thunder
-- Fire Blast
-
-Xerneas @ Choice Scarf
+Xerneas @ Leftovers
 Ability: Fairy Aura
-EVs: 4 Def / 252 SpA / 252 Spe
-Timid Nature
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
 - Moonblast
-- Thunder
-- Thunder Wave
+- Rest
+- Sleep Talk
 - Aromatherapy
 
-Yveltal @ Choice Band
+Yveltal @ Life Orb
 Ability: Dark Aura
-EVs: 252 Atk / 72 SpD / 184 Spe
-Adamant Nature
-- Knock Off
-- Dual Wingbeat
-- U-turn
+EVs: 4 Atk / 252 SpA / 252 Spe
+Hasty Nature
+- Dark Pulse
+- Oblivion Wing
+- Taunt
 - Sucker Punch
 

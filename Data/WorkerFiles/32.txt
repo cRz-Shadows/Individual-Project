@@ -1,54 +1,54 @@
-Giratina-Origin @ Griseous Orb
-Ability: Levitate
-EVs: 176 HP / 252 Atk / 4 Def / 76 Spe
-Adamant Nature
-- Poltergeist
-- Stone Edge
-- Shadow Sneak
-- Defog
+Calyrex-Shadow @ Choice Specs
+Ability: As One (Spectrier)
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Astral Barrage
+- Psyshock
+- Trick
+- Aromatherapy
+
+Eternatus @ Life Orb
+Ability: Pressure
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Recover
+- Flamethrower
+- Sludge Bomb
+- Dynamax Cannon
 
 Kyogre @ Leftovers
 Ability: Drizzle
-EVs: 252 HP / 252 Def / 4 SpD
-Bold Nature
+EVs: 252 HP / 140 SpA / 116 Spe
+Modest Nature
+- Substitute
 - Calm Mind
-- Scald
-- Rest
-- Ice Beam
+- Surf
+- Thunder Wave
 
-Lunala @ Power Herb
-Ability: Shadow Shield
-EVs: 4 HP / 252 SpA / 252 Spe
-Timid Nature
-- Meteor Beam
-- Roost
-- Moongeist Beam
-- Ice Beam
-
-Marshadow @ Choice Band
-Ability: Technician
+Urshifu-Gmax @ Choice Band
+Ability: Unseen Fist
 EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature
-- Spectral Thief
-- Low Kick
-- Shadow Sneak
-- Ice Punch
-
-Necrozma-Dusk Mane @ Weakness Policy
-Ability: Prism Armor
-EVs: 80 HP / 252 Atk / 176 Spe
-Adamant Nature
-- Sunsteel Strike
+- Wicked Blow
+- Close Combat
+- U-turn
 - Stone Edge
-- Earthquake
-- Dragon Dance
 
-Xerneas @ Choice Scarf
+Xerneas @ Power Herb
 Ability: Fairy Aura
-EVs: 4 Def / 252 SpA / 252 Spe
-Timid Nature
+EVs: 168 Def / 252 SpA / 88 Spe
+Modest Nature
+- Geomancy
 - Moonblast
 - Thunder
-- Thunder Wave
-- Aromatherapy
+- Substitute
+
+Yveltal @ Choice Scarf
+Ability: Dark Aura
+EVs: 252 HP / 72 SpD / 184 Spe
+Jolly Nature
+- Foul Play
+- Roost
+- U-turn
+- Defog
 

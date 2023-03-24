@@ -7,14 +7,23 @@ Timid Nature
 - Trick
 - Aromatherapy
 
-Kyogre @ Leftovers
-Ability: Drizzle
-EVs: 252 HP / 252 Def / 4 SpD
+Eternatus @ Heavy-Duty Boots
+Ability: Pressure
+EVs: 48 HP / 244 Def / 216 Spe
 Bold Nature
-- Calm Mind
-- Scald
-- Rest
+- Recover
+- Toxic
+- Flamethrower
+- Dynamax Cannon
+
+Kyogre @ Choice Scarf
+Ability: Drizzle
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Water Spout
+- Origin Pulse
 - Ice Beam
+- Thunder
 
 Necrozma-Dusk Mane @ Weakness Policy
 Ability: Prism Armor
@@ -25,30 +34,21 @@ Adamant Nature
 - Earthquake
 - Dragon Dance
 
-Palkia @ Lustrous Orb
-Ability: Pressure
-EVs: 252 SpA / 4 SpD / 252 Spe
-Timid Nature
-- Hydro Pump
-- Spacial Rend
-- Thunder
-- Fire Blast
-
-Xerneas @ Power Herb
+Xerneas @ Leftovers
 Ability: Fairy Aura
-EVs: 168 Def / 252 SpA / 88 Spe
-Modest Nature
-- Geomancy
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
 - Moonblast
-- Thunder
-- Substitute
+- Rest
+- Sleep Talk
+- Aromatherapy
 
-Yveltal @ Choice Scarf
+Yveltal @ Choice Band
 Ability: Dark Aura
-EVs: 252 HP / 72 SpD / 184 Spe
-Jolly Nature
-- Foul Play
-- Roost
+EVs: 252 Atk / 72 SpD / 184 Spe
+Adamant Nature
+- Knock Off
+- Dual Wingbeat
 - U-turn
-- Defog
+- Sucker Punch
 

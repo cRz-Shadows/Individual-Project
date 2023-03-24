@@ -1,11 +1,20 @@
-Giratina-Origin @ Griseous Orb
-Ability: Levitate
-EVs: 176 HP / 252 Atk / 4 Def / 76 Spe
-Adamant Nature
-- Poltergeist
-- Stone Edge
-- Shadow Sneak
-- Defog
+Calyrex-Shadow @ Choice Specs
+Ability: As One (Spectrier)
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Astral Barrage
+- Psyshock
+- Trick
+- Aromatherapy
+
+Eternatus @ Life Orb
+Ability: Pressure
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Recover
+- Flamethrower
+- Sludge Bomb
+- Dynamax Cannon
 
 Kyogre @ Leftovers
 Ability: Drizzle
@@ -15,15 +24,6 @@ Modest Nature
 - Calm Mind
 - Surf
 - Thunder Wave
-
-Lunala @ Power Herb
-Ability: Shadow Shield
-EVs: 4 HP / 252 SpA / 252 Spe
-Timid Nature
-- Meteor Beam
-- Roost
-- Moongeist Beam
-- Ice Beam
 
 Necrozma-Dusk Mane @ Weakness Policy
 Ability: Prism Armor
@@ -43,12 +43,12 @@ Timid Nature
 - Thunder Wave
 - Aromatherapy
 
-Yveltal @ Life Orb
+Yveltal @ Choice Band
 Ability: Dark Aura
-EVs: 4 Atk / 252 SpA / 252 Spe
-Hasty Nature
-- Dark Pulse
-- Oblivion Wing
-- Taunt
+EVs: 252 Atk / 72 SpD / 184 Spe
+Adamant Nature
+- Knock Off
+- Dual Wingbeat
+- U-turn
 - Sucker Punch
 

@@ -14,6 +14,11 @@ import time
 from timeit import default_timer as timer
 import numpy as np
 
+# =============================================================================
+# split a JSON of battles to be run into multiple files, so they can be run
+# separately
+# =============================================================================
+
 def split_json_by_n(filename, n):
     with open("Uber_Main_JSON_Files/" + filename[7:-4] + '_Weather_battles.json', 'r') as infile:
         teams = json.load(infile)

@@ -14,6 +14,10 @@ import time
 from timeit import default_timer as timer
 import numpy as np
 
+# =============================================================================
+# This file can be used to combine sets of battles into one file, which can be run in runSimulations.py
+# =============================================================================
+
 filename = "Inputs/" + "Uber_Main.txt"
 
 with open(filename[7:-4] + '_battles6.json', 'r') as infile:
